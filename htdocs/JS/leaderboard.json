@@ -1,0 +1,9185 @@
+{
+    "Exyl": {
+        "levels": [
+            "Erebus",
+            "Artificial Ascent",
+            "Carnage Mode",
+            "Factory Realm X",
+            "Audio Expulsion",
+            "Black Blizzard",
+            "Hatred",
+            "The Hell Origin",
+            "Artificial Ideology",
+            "Betrayal of Fate",
+            "A Bizarre Phantasm",
+            "Aurora",
+            "The Hell Factory",
+            "Plasma Pulse III",
+            "Penultimate Phase",
+            "Novalis",
+            "Niflheim",
+            "Cataclysm",
+            "Deception Dive",
+            "Retention",
+            "SUBVERSIVE",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Luqualizer": {
+        "levels": [
+            "Plasma Pulse Finale",
+            "Artificial Ascent",
+            "Freedom08",
+            "distraught",
+            "Blade of Justice",
+            "Audio Expulsion",
+            "The Hell Field",
+            "Black Blizzard",
+            "Super Probably Level",
+            "Hatred",
+            "Aftermath",
+            "Silentium Gradas",
+            "The Hell World",
+            "The Hell Origin",
+            "MadMansion",
+            "Betrayal of Fate",
+            "A Bizarre Phantasm",
+            "The Hell Zone",
+            "Aurora",
+            "Conical Depression",
+            "Idols",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis",
+            "The Hell Dignity",
+            "Panasonic",
+            "Fexty",
+            "Digital Disarray",
+            "Triple Six",
+            "Niflheim",
+            "Marathon",
+            "Audio Extraction",
+            "Heat Wave",
+            "Violently X",
+            "Pumped Up Kicks",
+            "Heartbeat",
+            "NecropoliX",
+            "The Lost Existence",
+            "CholeriX",
+            "Uprise",
+            "UltraSans",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "Artificial Dream",
+            "A2Marbl",
+            "CYCLONE",
+            "Frizzantino Vibes",
+            "Retention",
+            "Awakening Horus",
+            "ICE Carbon Diablo X",
+            "Falling Up",
+            "AcropoliX",
+            "Incipient",
+            "Matilda the Machine",
+            "Sky Tech",
+            "SUBVERSIVE",
+            "Doop",
+            "Grimoire Heart",
+            "Night Party",
+            "Duelo Maestro",
+            "Underground",
+            "Cosmorush 21",
+            "Hypersonic",
+            "Electrosonic",
+            "Gammaray",
+            "Cosmic Calamity",
+            "Quest for Perfection",
+            "Excessive Compliment",
+            "Photovoltaic",
+            "Final Epilogue"
+        ],
+        "progs": [
+            {
+                "name": "Erebus",
+                "percent": 64
+            }
+        ]
+    },
+    "hellbellone": {
+        "levels": [
+            "Plasma Pulse Finale"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Jaeger": {
+        "levels": [
+            "Digital Descent",
+            "Bloodbath",
+            "Black Blizzard",
+            "Hatred",
+            "Phobos",
+            "Aftermath",
+            "A Bizarre Phantasm",
+            "Conical Depression",
+            "Heartbeat",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Duelo Maestro",
+            "Hypersonic",
+            "Quest for Perfection",
+            "Blade of Justice",
+            "The Flawless",
+            "Artificial Ascent",
+            "Idols"
+        ],
+        "progs": [
+            {
+                "name": "kowareta",
+                "percent": 61
+            }
+        ]
+    },
+    "Blackmg": {
+        "levels": [
+            "Artificial Ascent",
+            "Black Blizzard"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Hilo": {
+        "levels": [
+            "Celestial Force",
+            "Black Blizzard",
+            "Super Probably Level",
+            "Aftermath",
+            "Belloq",
+            "Epsilon",
+            "Cadrega Mode",
+            "ATMarbl",
+            "Atmosphere",
+            "Aurora",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis",
+            "Niflheim",
+            "Esencia",
+            "Unearthed",
+            "Heat Wave",
+            "Glide",
+            "Uprise",
+            "Cataclysm",
+            "Deception Dive",
+            "Artificial Dream",
+            "A2Marbl",
+            "CYCLONE",
+            "Retention",
+            "Awakening Horus",
+            "Incipient",
+            "SUBVERSIVE",
+            "Night Party",
+            "Duelo Maestro",
+            "Cosmorush 21",
+            "Hypersonic",
+            "AAAAAAAAAAAAAAAAAAAA",
+            "Cosmic Calamity",
+            "Excessive Compliment",
+            "Final Epilogue",
+            "Glacial Torrent",
+            "Misty Mountains",
+            "Reverence",
+            "Conical Depression"
+        ],
+        "progs": [
+            {
+                "name": "Plasma Pulse Finale",
+                "percent": 51
+            },
+            {
+                "name": "Hatred",
+                "percent": 50
+            },
+            {
+                "name": "The Hell Zone",
+                "percent": 85
+            }
+        ]
+    },
+    "Prini": {
+        "levels": [
+            "Celestial Force",
+            "Esencia",
+            "Zettabyte"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "venfy": {
+        "levels": [
+            "Celestial Force",
+            "Super Probably Level",
+            "Cadrega Mode",
+            "Aurora",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis",
+            "The Hell Dignity",
+            "Niflheim",
+            "Uprise",
+            "Allegiance",
+            "Awakening Horus",
+            "Incipient",
+            "Acu",
+            "Matilda the Machine",
+            "SUBVERSIVE",
+            "Zettabyte",
+            "Night Party",
+            "Duelo Maestro",
+            "Cosmorush 21",
+            "Hypersonic",
+            "Excessive Compliment",
+            "Final Epilogue",
+            "Conical Depression",
+            "The Hell Zone",
+            "Our Fountain",
+            "A2Marbl",
+            "Underground",
+            "Esencia",
+            "Unearthed",
+            "Want Me"
+        ],
+        "progs": [
+            {
+                "name": "Killbot",
+                "percent": 56
+            }
+        ]
+    },
+    "BrutalSword": {
+        "levels": [
+            "Celestial Force",
+            "ATMarbl",
+            "Plasma Pulse III",
+            "Novalis",
+            "CYCLONE",
+            "Retention",
+            "SUBVERSIVE",
+            "Duelo Maestro",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Bread": {
+        "levels": [
+            "Celestial Force",
+            "Super Probably Level",
+            "Aftermath",
+            "Cadrega Mode",
+            "ATMarbl",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis",
+            "Niflheim",
+            "Marathon",
+            "NecropoliX",
+            "Cataclysm",
+            "CYCLONE",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "AcropoliX",
+            "Hypersonic",
+            "Triple Six",
+            "8o X",
+            "Freedom08",
+            "Misty Mountains",
+            "Conical Depression"
+        ],
+        "progs": [
+            {
+                "name": "Plasma Pulse Finale",
+                "percent": 58
+            },
+            {
+                "name": "kowareta",
+                "percent": 61
+            }
+        ]
+    },
+    "Galaxy": {
+        "levels": [
+            "Killbot",
+            "Bloodbath",
+            "A Bizarre Phantasm",
+            "Cataclysm",
+            "Deception Dive",
+            "Plasma Pulse III",
+            "Hatred",
+            "Retention",
+            "Black Blizzard"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Qwarty": {
+        "levels": [
+            "Killbot",
+            "A Bizarre Phantasm",
+            "Cadrega Mode",
+            "Niflheim",
+            "Retention",
+            "Duelo Maestro",
+            "Hypersonic"
+        ],
+        "progs": [
+            {
+                "name": "kowareta",
+                "percent": 59
+            }
+        ]
+    },
+    "NEDEAH HHH": {
+        "levels": [
+            "Bloodbath",
+            "Aftermath",
+            "Betrayal of Fate",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Snowr33De": {
+        "levels": [
+            "Bloodbath",
+            "Black Blizzard",
+            "Epsilon",
+            "A Bizarre Phantasm",
+            "ATMarbl",
+            "Plasma Pulse III",
+            "Novalis",
+            "NecropoliX",
+            "Cataclysm",
+            "Allegiance",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Falling Up",
+            "SUBVERSIVE",
+            "Hypersonic",
+            "Quest for Perfection",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            {
+                "name": "SubSonic",
+                "percent": 89
+            }
+        ]  
+    },
+    "Sonic80": {
+        "levels": [
+            "Bloodbath",
+            "The Hell World",
+            "Conical Depression",
+            "The Flawless",
+            "Niflheim",
+            "Cataclysm",
+            "Frizzantino Vibes",
+            "Electrosonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "hotball1": {
+        "levels": [
+            "Bloodbath",
+            "Aftermath",
+            "A Bizarre Phantasm",
+            "Conical Depression",
+            "The Hell Factory",
+            "Plasma Pulse III",
+            "The Flawless",
+            "Niflheim",
+            "Cataclysm",
+            "Retention",
+            "Falling Up",
+            "AcropoliX"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ThunderBT": {
+        "levels": [
+            "Bloodbath",
+            "Aftermath",
+            "Cadrega Mode",
+            "ATMarbl",
+            "Conical Depression",
+            "Idols",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis",
+            "Skrrah",
+            "Niflheim",
+            "Esencia",
+            "Heat Wave",
+            "Glide",
+            "Uprise",
+            "UltraSans",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "Artificial Dream",
+            "A2Marbl",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Night Party",
+            "Thunder Alphabet",
+            "Hypersonic",
+            "Epsilon",
+            "Violently X",
+            "Glacial Torrent",
+            "Heartbeat"
+        ],
+        "progs": [
+            {
+                "name": "Artifice",
+                "percent": 91
+            },
+            {
+                "name": "Sunset Sandstorm",
+                "percent": 72
+            },
+            {
+                "name": "Digital Descent",
+                "percent": 74
+            },
+            {
+                "name": "Atmosphere",
+                "percent": 75
+            },
+            {
+                "name": "Black Blizzard",
+                "percent": 96
+            },
+            {
+                "name": "Super Probably Level",
+                "percent": 96
+            },
+            {
+                "name": "distraught",
+                "percent": 93
+            },
+            {
+                "name": "Freedom08",
+                "percent": 74
+            },
+            {
+                "name": "Belloq",
+                "percent": 95
+            },
+            {
+                "name": "Celestial Force",
+                "percent": 95
+            },
+            {
+                "name": "Athanatos",
+                "percent": 65
+            }
+        ]
+    },
+    "ItoPopcorn": {
+        "levels": [
+            "Bloodbath",
+            "SubSonic",
+            "Blade of Justice",
+            "Black Blizzard",
+            "Artificial Ideology",
+            "Cadrega Mode",
+            "Fusion Z",
+            "ATMarbl",
+            "Conical Depression",
+            "Twisted Tranquility",
+            "Penultimate Phase",
+            "Niflheim",
+            "The Antimatter",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "Artificial Dream",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "AcropoliX",
+            "Incipient",
+            "Acu",
+            "SUBVERSIVE",
+            "Hypersonic",
+            "AAAAAAAAAAAAAAAAAAAA",
+            "Quest for Perfection",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TzAnder": {
+        "levels": [
+            "Bloodbath",
+            "Epsilon",
+            "Concaved Memories",
+            "Plasma Pulse III",
+            "The Flawless",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "CYCLONE",
+            "Awakening Horus",
+            "ICE Carbon Diablo X",
+            "Incipient",
+            "Acu",
+            "SUBVERSIVE",
+            "Zettabyte",
+            "Night Party",
+            "AAAAAAAAAAAAAAAAAAAA",
+            "Quest for Perfection",
+            "Idols",
+            "Diligence"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dils thik": {
+        "levels": [
+            "Bloodbath"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dolphy": {
+        "levels": [
+            "Bloodbath"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Donut": {
+        "levels": [
+            "SubSonic",
+            "The Hell Field",
+            "Black Blizzard",
+            "Hatred",
+            "The Hell World",
+            "The Hell Origin",
+            "Betrayal of Fate",
+            "The Hell Zone",
+            "Aurora",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Penultimate Phase",
+            "Novalis",
+            "The Hell Dignity",
+            "Panasonic",
+            "Niflheim",
+            "Unearthed",
+            "The Antimatter",
+            "Tech Manifestation",
+            "NecropoliX",
+            "CholeriX",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "8o X",
+            "Penombre",
+            "Artificial Dream",
+            "Retention",
+            "Awakening Horus",
+            "Incipient",
+            "Sky Tech",
+            "SUBVERSIVE",
+            "Polish Alphabet",
+            "Grimoire Heart",
+            "Night Party",
+            "Duelo Maestro",
+            "Cosmorush 21",
+            "Hypersonic",
+            "Electrosonic",
+            "Gammaray",
+            "Cosmic Calamity",
+            "Quest for Perfection",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Samamba": {
+        "levels": [
+            "SubSonic",
+            "Black Blizzard",
+            "Betrayal of Fate",
+            "Cadrega Mode",
+            "Concaved Memories",
+            "ElectroLux",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Panasonic",
+            "Niflheim",
+            "Audio Extraction",
+            "Esencia",
+            "Glide",
+            "Tech Manifestation",
+            "Our Fountain",
+            "Uprise",
+            "Alcatraz",
+            "Cataclysm",
+            "Artificial Dream",
+            "Frizzantino Vibes",
+            "Awakening Horus",
+            "ICE Carbon Diablo X",
+            "AcropoliX",
+            "Acu",
+            "SUBVERSIVE",
+            "Polish Alphabet",
+            "Doop",
+            "Grimoire Heart",
+            "Zettabyte",
+            "Underground",
+            "Thunder Alphabet",
+            "Cosmorush 21",
+            "Electrosonic",
+            "Gammaray",
+            "Quest for Perfection",
+            "Artificial Ideology",
+            "Inflective",
+            "Grill Kill",
+            "Thanatophobia",
+            "Deception Dive",
+            "Hatred",
+            "AAAAAAAAAAAAAAAAAAAA",
+            "Audio Expulsion",
+            "Napalm",
+            "The Flawless",
+            "A2Marbl",
+            "HURRICANE",
+            "Excessive Compliment",
+            "Digital Disarray",
+            "Night Party",
+            "Freedom08",
+            "NecropoliX",
+            "Raindance",
+            "Heat Wave",
+            "Idols",
+            "Bloodbath"
+          
+        
+        ],
+        "progs": [
+            {
+                "name": "Digital Descent",
+                "percent": 86
+            }
+        ]
+    },
+    "Zeth": {
+        "levels": [
+            "SubSonic",
+            "Artifice",
+            "Violently X",
+            "Elliptic Curve",
+            "Reverence"
+        ],
+        "progs": [
+            {
+                "name": "WaveBreaker",
+                "percent": 64
+            }
+        ]
+    },
+    "WOO HWANG": {
+        "levels": [
+            "Freedom08",
+            "Cadrega Mode",
+            "ATMarbl",
+            "Aurora",
+            "Niflheim",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Stormfly": {
+        "levels": [
+            "Silentium Gradas",
+            "The Hell World",
+            "The Hell Origin",
+            "The Hell Zone",
+            "The Hell Dignity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "D3m0nDash3r": {
+        "levels": [
+            "The Hell Field",
+            "The Hell World",
+            "The Hell Origin",
+            "Betrayal of Fate",
+            "The Hell Zone",
+            "Plasma Pulse III",
+            "The Hell Dignity",
+            "Niflheim",
+            "Cataclysm",
+            "Allegiance",
+            "Awakening Horus",
+            "ICE Carbon Diablo X",
+            "Incipient",
+            "SUBVERSIVE",
+            "Night Party",
+            "Hypersonic",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mike139115": {
+        "levels": [
+            "The Hell Field",
+            "The Hell World",
+            "The Hell Origin",
+            "A Bizarre Phantasm",
+            "The Hell Zone",
+            "Aurora",
+            "Conical Depression",
+            "Novalis",
+            "The Hell Dignity",
+            "Marathon",
+            "8o X",
+            "ICE Carbon Diablo X",
+            "Acu",
+            "SUBVERSIVE",
+            "Cosmorush 21",
+            "Betrayal of Fate",
+            "NecropoliX",
+            "Misty Mountains",
+            "Night Party",
+            "Want Me",
+            "Disentombed"
+        ],
+        "progs": [
+            {
+                "name": "distraught",
+                "percent": 78
+            }
+        ]
+    },
+    "Random Idiot": {
+        "levels": [
+            "Annihilation Nation",
+            "Betrayal of Fate",
+            "The Flawless",
+            "Niflheim",
+            "Audio Extraction",
+            "Cataclysm",
+            "ICE Carbon Diablo X",
+            "Incipient",
+            "Novalis",
+            "Plasma Pulse III"
+        ],
+        "progs": [
+           {
+             "name": "Hatred",
+             "percent": 56
+           },
+           {
+             "name": "Black Blizzard",
+             "percent": 42
+           },
+           {
+             "name": "Bloodbath",
+             "percent": 65
+           },
+           {
+                "name": "kowareta",
+                "percent": 75
+            }
+        ]
+    },
+    "KrmaL": {
+        "levels": [
+            "Black Blizzard",
+            "Phobos",
+            "Conical Depression",
+            "The Hell Factory",
+            "Elite Z Rebirth",
+            "Heartbeat",
+            "Cataclysm",
+            "Retention",
+            "Falling Up",
+            "Duelo Maestro",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Poemi": {
+        "levels": [
+            "Black Blizzard",
+            "Conical Depression",
+            "Cataclysm",
+            "ICE Carbon Diablo X",
+            "SUBVERSIVE",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Herdys": {
+        "levels": [
+            "Black Blizzard",
+            "The Hell Origin",
+            "The Hell Factory",
+            "Allegiance",
+            "Retention",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Stealz": {
+        "levels": [
+            "Black Blizzard"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Incoromi": {
+        "levels": [
+            "Black Blizzard",
+            "Heartbeat"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "th31": {
+        "levels": [
+            "Black Blizzard",
+            "Conical Depression",
+            "Elite Z Rebirth",
+            "Heartbeat",
+            "Retention",
+            "Duelo Maestro",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Diris": {
+        "levels": [
+            "Black Blizzard",
+            "The Hell World",
+            "A Bizarre Phantasm",
+            "Conical Depression",
+            "Plasma Pulse III",
+            "Niflheim",
+            "Allegiance",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Duelo Maestro",
+            "Cosmorush 21",
+            "Hypersonic",
+            "Cosmic Calamity",
+            "Quest for Perfection",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Pablohh": {
+        "levels": [
+            "Black Blizzard",
+            "Hatred",
+            "Aftermath",
+            "The Hell Origin",
+            "Artificial Ideology",
+            "Betrayal of Fate",
+            "A Bizarre Phantasm",
+            "Conical Depression",
+            "The Hell Factory",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Audio Extraction",
+            "Cataclysm",
+            "Allegiance",
+            "ICE Carbon Diablo X",
+            "Falling Up",
+            "AcropoliX",
+            "Incipient",
+            "Duelo Maestro",
+            "Hypersonic",
+            "Photovoltaic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "LuigiDB": {
+        "levels": [
+            "Black Blizzard",
+            "Twisted Tranquility",
+            "Esencia",
+            "Glide",
+            "Deception Dive",
+            "Falling Up",
+            "Night Party",
+            "Duelo Maestro",
+            "Hypersonic",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Bradenbowl": {
+        "levels": [
+            "Black Blizzard",
+            "Sunset Sandstorm",
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ViperVenom95": {
+        "levels": [
+            "Black Blizzard",
+            "Idols",
+            "Niflheim",
+            "Glide",
+            "Incipient",
+            "SUBVERSIVE",
+            "Deception Dive",
+            "Misty Mountains",
+            "Acu"
+        ],
+        "progs": [
+            {
+                "name": "Conical Depression",
+                "percent": 48
+            },
+            {
+                "name": "SubSonic",
+                "percent": 89
+            },
+            {
+                "name": "Epsilon",
+                "percent": 82
+            }
+        ]
+    },
+    "SrGuillester": {
+        "levels": [
+            "Red World Rebirth",
+            "Conical Depression",
+            "Cataclysm",
+            "ICE Carbon Diablo X",
+            "Duelo Maestro",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Blakejm": {
+        "levels": [
+            "Hatred"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "cluckwork": {
+        "levels": [
+            "Hatred",
+            "The Hell Dignity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ivan astley": {
+        "levels": [
+            "Hatred",
+            "Novalis",
+            "Artificial Dream",
+            "Incipient",
+            "Cadrega Mode",
+            "The Hell World",
+            "Idols",
+            "Night Life"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Lavaclaw": {
+        "levels": [
+            "Phobos",
+            "Glide",
+            "Retention",
+            "Excessive Compliment",
+            "Sunset Sandstorm",
+            "Misty Mountains",
+            "Night Life",
+            "Niflheim",
+            "Super Probably Level",
+            "Artificial Dream",
+            "Hypersonic"
+        ],
+        "progs": [
+            {
+                "name": "Plasma Pulse Finale",
+                "percent": 49
+            },
+            {
+                "name": "Black Blizzard",
+                "percent": 68
+            }
+        ]
+    },
+    "ItzMagnum": {
+        "levels": [
+            "Aftermath"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "sid125": {
+        "levels": [
+            "Aftermath"
+        ],
+        "progs": [
+            {
+            "name":"Bloodbath",
+            "percent": 95
+            }
+        ]
+    },
+    "[PPG] rusty": {
+        "levels": [
+            "Aftermath",
+            "Cataclysm",
+            "Awakening Horus",
+            "Athanatos",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Flavyola64": {
+        "levels": [
+            "Aftermath",
+            "ATMarbl",
+            "Conical Depression",
+            "Concaved Memories",
+            "Plasma Pulse III",
+            "Penultimate Phase",
+            "Novalis",
+            "Digital Disarray",
+            "Niflheim",
+            "Maybe Possibly Thing",
+            "NecropoliX",
+            "Grill Kill",
+            "Raindance",
+            "Cataclysm",
+            "Deception Dive",
+            "Artificial Dream",
+            "Retention",
+            "Incipient",
+            "Acu",
+            "Zettabyte",
+            "Night Party",
+            "Mandragora",
+            "Black Blizzard"
+
+        ],
+        "progs": [
+            {
+                "name": "Erebus",
+                "percent": 62
+            },
+            {
+                "name": "Artifice",
+                "percent": 85
+            },            
+            {
+                "name": "Super Probably Level",
+                "percent": 86
+            },
+            {
+                "name": "Fusion Z",
+                "percent": 90
+            }
+        ]
+    },
+    "GoldenGuy162": {
+        "levels": [
+            "Aftermath",
+            "The Hell Factory",
+            "ICE Carbon Diablo X",
+            "Aurora"
+        ],
+        "progs": [
+            {
+                "name": "A Bizarre Phantasm",
+                "percent": 65
+            },
+            {
+                "name": "Artificial Ideology",
+                "percent": 57
+            },
+            {
+                "name": "Artifice",
+                "percent": 92
+            },
+            {
+                "name": "Fusion Z",
+                "percent": 69
+            },
+            {
+                "name": "Black Blizzard",
+                "percent": 44
+            }
+        ]
+    },
+    "Nik": {
+        "levels": [
+            "Aftermath",
+            "Cataclysm",
+            "Retention",
+            "Falling Up",
+            "Incipient",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SubZeroV": {
+        "levels": [
+            "Red World Rebirth",
+            "Twisted Tranquility",
+            "Glide",
+            "Deception Dive",
+            "Hypersonic",
+            "Quest for Perfection",
+            "Acu"
+        ],
+        "progs": [
+            {
+                "name": "Bloodbath",
+                "percent": 65
+            },
+            {
+                "name": "Phobos",
+                "percent": 59
+            }
+        ]
+    },
+    "rusticLocust": {
+        "levels": [
+            "Epsilon"
+        ],
+        "progs": [
+            {
+                "name": "Digital Descent",
+                "percent": 61
+            }
+        ]
+    },
+    "cobrablitz": {
+        "levels": [
+            "Epsilon",
+            "Incipient",
+            "Acu",
+            "Zettabyte",
+            "Excessive Compliment",
+            "Glide"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Chosbar GD": {
+        "levels": [
+            "Epsilon",
+            "Cadrega Mode",
+            "ATMarbl",
+            "Esencia",
+            "Heat Wave",
+            "Acu",
+            "Hypersonic",
+            "Excessive Compliment",
+            "Elliptic Curve"
+        ],
+        "progs": [
+            {
+				"name":"Freedom08",
+				"percent":97
+			}
+        ]
+    },
+    "Kkbleeblob": {
+        "levels": [
+            "Epsilon",
+            "Prismatic Haze",
+            "Twisted Tranquility",
+            "Quest for Perfection",
+            "Artificial Dream",
+            "CYCLONE",
+            "Excessive Compliment",
+            "Zettabyte",
+            "Incipient",
+            "Black Blizzard",
+            "Sunset Sandstorm",
+            "Faith"
+        ],
+        "progs": [
+  "none"
+        ]
+    },
+    "recillia": {
+        "levels": [
+            "The Hell Origin",
+            "The Hell Zone",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis",
+            "The Hell Dignity",
+            "Niflheim",
+            "Marathon",
+            "Artificial Dream",
+            "Retention",
+            "Awakening Horus",
+            "AcropoliX",
+            "Incipient",
+            "Sky Tech",
+            "Polish Alphabet",
+            "Duelo Maestro",
+            "Final Epilogue"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "CuTTeR": {
+        "levels": [
+            "Artificial Ideology",
+            "A Bizarre Phantasm",
+            "Niflheim",
+            "Retention",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dalhi": {
+        "levels": [
+            "Betrayal of Fate",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "XGen 26": {
+        "levels": [
+            "Betrayal of Fate",
+            "The Hell Dignity",
+            "ICE Carbon Diablo X",
+            "Hypersonic",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Koreaqwer": {
+        "levels": [
+            "Betrayal of Fate",
+            "Plasma Pulse III",
+            "Niflheim",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SailFort [RR]": {
+        "levels": [
+            "Betrayal of Fate",
+            "Plasma Pulse III",
+            "Novalis",
+            "CYCLONE",
+            "Retention",
+            "Electrosonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mr.Budgie": {
+        "levels": [
+            "Void Wave",
+            "Cadrega Mode",
+            "ATMarbl",
+            "Concaved Memories",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis",
+            "Niflheim",
+            "Esencia",
+            "Unearthed",
+            "Heat Wave",
+            "Uprise",
+            "Raindance",
+            "Cataclysm",
+            "Deception Dive",
+            "Artificial Dream",
+            "HURRICANE",
+            "Incipient",
+            "SUBVERSIVE",
+            "Night Party",
+            "Hypersonic",
+            "Electrosonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GoodSmile": {
+        "levels": [
+            "A Bizarre Phantasm",
+            "Betrayal of Fate"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nitroplus": {
+        "levels": [
+            "A Bizarre Phantasm",
+            "Cataclysm",
+            "Falling Up"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nitro": {
+        "levels": [
+            "A Bizarre Phantasm",
+            "Novalis",
+            "Retention",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MarcoStyle": {
+        "levels": [
+            "A Bizarre Phantasm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sekiryuutei": {
+        "levels": [
+            "A Bizarre Phantasm",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Horizon": {
+        "levels": [
+            "A Bizarre Phantasm",
+            "NecropoliX",
+            "Uprise",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "SUBVERSIVE",
+            "Hypersonic",
+            "Cosmic Calamity",
+            "Quest for Perfection",
+            "Photovoltaic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Giron": {
+        "levels": [
+            "A Bizarre Phantasm",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            {
+                "name":"Artifice",
+				"percent":73
+            }
+        ]
+    },
+    "Pebble": {
+        "levels": [
+            "A Bizarre Phantasm",
+            "Cataclysm",
+            "Allegiance",
+            "Hypersonic",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ZmL [cherry]": {
+        "levels": [
+            "A Bizarre Phantasm",
+            "Twisted Tranquility",
+            "Allegiance",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "EarthRex": {
+        "levels": [
+            "A Bizarre Phantasm",
+            "Cataclysm",
+            "Deception Dive",
+            "CYCLONE",
+            "Zettabyte",
+            "Night Party",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            {
+                "name": "SubSonic",
+                "percent": 66
+            }
+        ]
+    },
+    "Lenny the Ivory": {
+        "levels": [
+            "A Bizarre Phantasm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Coffee081": {
+        "levels": [
+            "A Bizarre Phantasm",
+            "ATMarbl",
+            "Conical Depression",
+            "Concaved Memories",
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis",
+            "Niflheim",
+            "Audio Extraction",
+            "Unearthed",
+            "Heat Wave",
+            "Tech Manifestation",
+            "Raindance",
+            "Deception Dive",
+            "Penombre",
+            "Artificial Dream",
+            "CYCLONE",
+            "Frizzantino Vibes",
+            "Awakening Horus",
+            "ICE Carbon Diablo X",
+            "Incipient",
+            "SUBVERSIVE",
+            "Night Party",
+            "Duelo Maestro",
+            "Hypersonic",
+            "Electrosonic",
+            "Gammaray",
+            "AAAAAAAAAAAAAAAAAAAA",
+            "Cosmic Calamity",
+            "Excessive Compliment",
+            "Photovoltaic",
+            "Final Epilogue",
+            "MELTDOWN"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ryan9328": {
+        "levels": [
+            "Black Blizzard",
+            "A Bizarre Phantasm",
+            "Esencia",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Clumps": {
+        "levels": [
+            "Cadrega Mode",
+            "Artificial Dream"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "mephiles175": {
+        "levels": [
+            "Cadrega Mode",
+            "Marathon",
+            "Retention",
+            "Incipient",
+            "Hypersonic",
+            "Matilda the Machine",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            {
+                "name": "Black Blizzard",
+                "percent": 44
+            },
+            {
+                "name": "Celestial Force",
+                "percent": 88
+            },
+            {
+                "name": "Want Me",
+                "percent": 70
+            }
+        ]
+    },
+    "Batle": {
+        "levels": [
+            "Cadrega Mode",
+            "ATMarbl",
+            "ElectroLux",
+            "Novalis",
+            "Niflheim",
+            "Marathon",
+            "Esencia",
+            "Unearthed",
+            "Artificial Dream",
+            "Retention",
+            "Incipient",
+            "Acu",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Coopersuper": {
+        "levels": [
+            "Cadrega Mode",
+            "ATMarbl",
+            "Conical Depression",
+            "WaveBreaker",
+            "Breakout",
+            "Plasma Pulse III",
+            "Novalis",
+            "Niflheim",
+            "Audio Extraction",
+            "Unearthed",
+            "Heat Wave",
+            "Glide",
+            "Violently X",
+            "Uprise",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "Artificial Dream",
+            "ICE Carbon Diablo X",
+            "Incipient",
+            "Acu",
+            "SUBVERSIVE",
+            "Night Party",
+            "Disentombed",
+            "Misty Mountains",
+            "Aftermath",
+            "Artificial Ascent",
+            "Frightful Melody",
+            "Bloodbath"
+        ],
+        "progs": [
+            {
+                "name": "Annihilation Nation",
+                "percent": 63
+            },
+            {
+                "name": "Red World Rebirth",
+                "percent": 88
+            },
+            {
+                "name": "Artifice",
+                "percent": 91
+            },
+            {
+                "name": "ElectroLux",
+                "percent": 83
+            }
+        ]
+    },
+    "ElectroLight7": {
+        "levels": [
+            "Artifice",
+            "CYCLONE",
+            "Awakening Horus",
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GochuJang [GD]": {
+        "levels": [
+            "Artifice",
+            "Novalis",
+            "Niflheim",
+            "Artificial Dream",
+            "Awakening Horus",
+            "Incipient",
+            "SUBVERSIVE",
+            "Hypersonic",
+            "Excessive Compliment",
+            "Mirage",
+            "Night Party",
+            "Retention",
+            "A2Marbl",
+            "Mandragora",
+            "Heat Wave",
+            "Esencia",
+            "Glacial Torrent",
+            "Virtual Collapse"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TriDekphlix 3": {
+        "levels": [
+            "Prismatic Haze",
+            "ATMarbl",
+            "Esencia",
+            "Artificial Dream",
+            "Retention",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "cater": {
+        "levels": [
+            "Prismatic Haze"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "RevoltZy": {
+        "levels": [
+            "Prismatic Haze",
+            "Artificial Dream",
+            "Acu",
+            "Incipient",
+            "Zettabyte",
+            "Retention",
+            "Polish Alphabet",
+            "Concaved Memories",
+            "Azure Fiesta",
+            "Excessive Compliment",
+            "Night Life",
+            "Thanatophobia",
+            "Reverence"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FrostBurn": {
+        "levels": [
+            "Prismatic Haze",
+            "Retention",
+            "Glide"
+        ],
+        "progs": [
+            {
+                "name":"Fusion Z",
+                "percent":73
+            },
+            {
+                "name": "Bloodbath",
+                "percent": 79
+            }
+        ]
+    },
+    "Funny Boy": {
+        "levels": [
+            "ATMarbl",
+            "Falling Up",
+            "Incipient",
+            "Underground",
+            "Cosmorush 21",
+            "Excessive Compliment",
+            "Final Epilogue",
+            "Cadrega Mode",
+            "A2Marbl"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zest": {
+        "levels": [
+            "ATMarbl",
+            "Niflheim",
+            "Cataclysm",
+            "Artificial Dream",
+            "A2Marbl",
+            "Retention",
+            "Awakening Horus",
+            "Falling Up",
+            "Duelo Maestro",
+            "Hypersonic",
+            "Master Duel",
+            "Fexty"
+        ],
+        "progs": [
+            {
+                "name": "Erebus",
+                "percent": 63
+            }
+        ]
+    },
+    "Kotamon": {
+        "levels": [
+            "ATMarbl",
+            "Plasma Pulse III",
+            "Penultimate Phase",
+            "Niflheim",
+            "Allegiance",
+            "Artificial Dream",
+            "CYCLONE",
+            "Retention",
+            "AcropoliX",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Liizoks": {
+        "levels": [
+            "Void Wave",
+            "Inflective",
+            "ATMarbl",
+            "Concaved Memories",
+            "WaveBreaker",
+            "Plasma Pulse III",
+            "Deception Dive",
+            "Penombre",
+            "HURRICANE",
+            "CYCLONE",
+            "Frizzantino Vibes",
+            "Acu",
+            "Zettabyte",
+            "Excessive Compliment",
+            "Awakening Horus",
+            "Retention",
+            "AAAAAAAAAAAAAAAAAAAA",
+            "Thanatophobia",
+            "Night Life",
+            "Napalm",
+            "Incipient",
+            "Grimoire Heart"
+        ],
+        "progs": [
+            {
+                "name": "distraught",
+                "percent": 98
+            }
+        ]
+    },
+    "Happy365": {
+        "levels": [
+            "ATMarbl",
+            "Idols",
+            "Retention",
+            "Zettabyte",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nell": {
+        "levels": [
+            "Atmosphere",
+            "Twisted Tranquility",
+            "Novalis",
+            "Niflheim",
+            "Marathon",
+            "Unearthed",
+            "UltraSans",
+            "Deception Dive",
+            "A2Marbl",
+            "CYCLONE",
+            "Retention",
+            "Incipient",
+            "SUBVERSIVE",
+            "Night Party",
+            "Hypersonic",
+            "Quest for Perfection",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mullsy": {
+        "levels": [
+            "The Hell Zone",
+            "AcropoliX"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Xylitol": {
+        "levels": [
+            "The Hell Zone",
+            "Allegiance",
+            "Aftermath"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "fakeiwnl": {
+        "levels": [
+            "The Hell Zone"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GD Nebulus": {
+        "levels": [
+            "Aurora",
+            "Duelo Maestro",
+            "Hypersonic",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheFenixU": {
+        "levels": [
+            "Aurora",
+            "Retention",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GMD Soulcontrol": {
+        "levels": [
+            "Aurora",
+            "Niflheim",
+            "Allegiance",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Crashix 1337": {
+        "levels": [
+            "Aurora",
+            "Plasma Pulse III",
+            "Novalis",
+            "Allegiance",
+            "Artificial Dream",
+            "Retention",
+            "Incipient",
+            "SUBVERSIVE",
+            "Hypersonic",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "a n t": {
+        "levels": [
+            "Aurora",
+            "Retention",
+            "Matilda the Machine",
+            "Duelo Maestro",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Marker [GD]": {
+        "levels": [
+            "Conical Depression",
+            "The Hell Factory",
+            "Plasma Pulse III",
+            "Cataclysm",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ZhenthicOmega": {
+        "levels": [
+            "Conical Depression",
+            "Cataclysm",
+            "Retention",
+            "Electrosonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "VileX": {
+        "levels": [
+            "Conical Depression",
+            "Niflheim",
+            "Duelo Maestro",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Matteo Filiani": {
+        "levels": [
+            "Conical Depression"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Empty": {
+        "levels": [
+            "Conical Depression",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "CES0327": {
+        "levels": [
+            "Conical Depression"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Gloom": {
+        "levels": [
+            "Conical Depression"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Powerbomb": {
+        "levels": [
+            "The Hell Factory"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "gdsandstorm": {
+        "levels": [
+            "The Hell Factory"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ecl1psed276": {
+        "levels": [
+            "The Hell Factory",
+            "Niflheim",
+            "Retention",
+            "Duelo Maestro",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Tixi Martinex": {
+        "levels": [
+            "The Hell Factory",
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Trueskills2": {
+        "levels": [
+            "Concaved Memories",
+            "Digital Disarray",
+            "Tech Manifestation",
+            "Our Fountain",
+            "Uprise",
+            "HURRICANE",
+            "Night Life",
+            "Just Dance"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "xDibiizi": {
+        "levels": [
+            "Concaved Memories",
+            "Excessive Compliment",
+            "CYCLONE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Lego Dash": {
+        "levels": [
+            "Idols",
+            "Deception Dive",
+            "8o X",
+            "Artificial Dream",
+            "Incipient",
+            "Hypersonic",
+            "Quest for Perfection",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Carla Veloso": {
+        "levels": [
+            "Idols",
+            "Azure Fiesta",
+            "Esencia",
+            "Fingerdash v3",
+            "Acu",
+            "Polish Alphabet",
+            "Thunder Alphabet",
+            "Mandragora",
+            "Glide",
+            "ElectroLux",
+            "Thanatophobia",
+            "Plasma Pulse III",
+            "Napalm",
+            "The Hell Zone",
+            "The Hell World",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            {
+                "name": "Disentombed",
+                "percent": 62
+            },
+            {
+                "name": "The Hell Origin",
+                "percent": 63
+            }
+        ]
+    },
+    "Swag Martin": {
+        "levels": [
+            "Idols",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "OpticIlluzhion": {
+        "levels": [
+            "WaveBreaker",
+            "UltraSans",
+            "Deception Dive",
+            "Falling Up",
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Star TheFer519": {
+        "levels": [
+            "ElectroLux"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Smokes": {
+        "levels": [
+            "Plasma Pulse III"
+        ],
+        "progs": [
+            {
+                "name": "Bloodbath",
+                "percent": 92
+            }
+        ]
+    },
+    "Yozyo": {
+        "levels": [
+            "Plasma Pulse III"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Molni": {
+        "levels": [
+            "Plasma Pulse III"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TNTpacman7": {
+        "levels": [
+            "Plasma Pulse III"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Geenuus GMD": {
+        "levels": [
+            "Plasma Pulse III"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Luciela": {
+        "levels": [
+            "Plasma Pulse III"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ninetales": {
+        "levels": [
+            "Plasma Pulse III",
+            "Uprise"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "xMrAngel": {
+        "levels": [
+            "Plasma Pulse III",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GeometryJosh": {
+        "levels": [
+            "Plasma Pulse III",
+            "Fexty",
+            "Uprise",
+            "Cataclysm",
+            "Allegiance",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Incipient",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Spearmint / Latios": {
+        "levels": [
+            "Plasma Pulse III"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[VS] Ɛpsilonic": {
+        "levels": [
+            "Plasma Pulse III",
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Circles [GD]": {
+        "levels": [
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis",
+            "Uprise",
+            "Retention",
+            "Duelo Maestro",
+            "Hypersonic",
+            "Cosmic Calamity"
+
+        ],
+        "progs": [
+            {
+                "name": "A Bizarre Phantasm",
+                "percent": 82
+            },
+            {
+                "name": "Hatred",
+                "percent": 78
+            }
+        ]
+    },
+    "Stilluetto": {
+        "levels": [
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis",
+            "Niflheim",
+            "Audio Extraction",
+            "Deception Dive",
+            "Allegiance",
+            "Retention",
+            "Falling Up",
+            "SUBVERSIVE",
+            "Duelo Maestro",
+            "Hypersonic",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dagon": {
+        "levels": [
+            "Plasma Pulse III",
+            "Niflheim",
+            "Retention",
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Avenger1488 [ES/UL]": {
+        "levels": [
+            "Plasma Pulse III"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Samwad": {
+        "levels": [
+            "Plasma Pulse III",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ternafis": {
+        "levels": [
+            "Plasma Pulse III",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Teamless": {
+        "levels": [
+            "Plasma Pulse III",
+            "Niflheim",
+            "Uprise",
+            "SUBVERSIVE",
+            "Duelo Maestro",
+            "Cosmorush 21",
+            "Hypersonic",
+            "Excessive Compliment",
+            "Master Duel"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Spyrosh": {
+        "levels": [
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Audio Extraction",
+            "SUBVERSIVE",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "XImaPlayerX": {
+        "levels": [
+            "Plasma Pulse III",
+            "Glide",
+            "Allegiance",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Incipient",
+            "Acu",
+            "SUBVERSIVE",
+            "Polish Alphabet",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "HugeDoge": {
+        "levels": [
+            "Plasma Pulse III",
+            "Twisted Tranquility",
+            "Novalis"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "VikingsGD": {
+        "levels": [
+            "Plasma Pulse III",
+            "Retention",
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Shokity": {
+        "levels": [
+            "Twisted Tranquility",
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheJaco9": {
+        "levels": [
+            "Twisted Tranquility",
+            "Niflheim",
+            "Heartbeat",
+            "Cataclysm",
+            "A2Marbl",
+            "Retention",
+            "Awakening Horus",
+            "ICE Carbon Diablo X",
+            "AcropoliX",
+            "Incipient",
+            "Matilda the Machine",
+            "Duelo Maestro",
+            "Underground",
+            "Hypersonic",
+            "Cosmic Calamity",
+            "Quest for Perfection",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "jbmoon [IG]": {
+        "levels": [
+            "Twisted Tranquility"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Drift": {
+        "levels": [
+            "Twisted Tranquility",
+            "Retention",
+            "Acu",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Gizbro": {
+        "levels": [
+            "Twisted Tranquility",
+            "Novalis",
+            "Artificial Dream",
+            "SUBVERSIVE",
+            "Underground",
+            "Quest for Perfection",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "LooperZ": {
+        "levels": [
+            "Twisted Tranquility",
+            "SUBVERSIVE",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "airenowo": {
+        "levels": [
+            "Twisted Tranquility",
+            "Niflheim",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "YoshiAitch": {
+        "levels": [
+            "Twisted Tranquility",
+            "Panasonic",
+            "Fexty",
+            "Niflheim",
+            "Heat Wave",
+            "Heartbeat",
+            "CholeriX",
+            "Uprise",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "Artificial Dream",
+            "Awakening Horus",
+            "ICE Carbon Diablo X",
+            "AcropoliX",
+            "Incipient",
+            "SUBVERSIVE",
+            "Night Party",
+            "Hypersonic",
+            "Electrosonic",
+            "AAAAAAAAAAAAAAAAAAAA",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Keir": {
+        "levels": [
+            "Twisted Tranquility",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Freexolt": {
+        "levels": [
+            "Twisted Tranquility",
+            "Novalis",
+            "Niflheim",
+            "Unearthed",
+            "Retention",
+            "Incipient",
+            "SUBVERSIVE",
+            "Polish Alphabet",
+            "Underground"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ashimaru": {
+        "levels": [
+            "Twisted Tranquility",
+            "Novalis",
+            "Esencia",
+            "Artificial Dream",
+            "Retention",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Thonyell": {
+        "levels": [
+            "Twisted Tranquility",
+            "Audio Extraction",
+            "Unearthed",
+            "Heat Wave",
+            "Uprise",
+            "Allegiance",
+            "Incipient",
+            "Artificial Dream",
+            "Acu",
+            "Raindance",
+            "Thanatophobia",
+            "Misty Mountains",
+            "CYCLONE",
+            "Audio Expulsion",
+            "Night Party"
+        ],
+        "progs": [
+            {
+            "name": "Black Blizzard",
+            "percent": 46
+            }
+        ]
+    },
+    "MAUBILE": {
+        "levels": [
+            "Twisted Tranquility",
+            "Acu",
+            "Duelo Maestro",
+            "Incipient",
+            "Night Party",
+            "SUBVERSIVE",
+            "Thanatophobia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "gamecubeguy214": {
+        "levels": [
+            "Twisted Tranquility",
+            "Grill Kill",
+            "Deception Dive",
+            "Artificial Dream",
+            "Retention",
+            "Hypersonic",
+            "Electrosonic",
+            "AAAAAAAAAAAAAAAAAAAA",
+            "Excessive Compliment",
+            "Heat Wave",
+            "Prismatic Haze",
+            "Misty Mountains",
+            "Final Epilogue",
+            "Faith",
+            "Reverie",
+            "Diligence"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GrylleX": {
+        "levels": [
+            "Novalis"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DryBonesTM": {
+        "levels": [
+            "Novalis",
+            "Hypersonic",
+            "Excessive Compliment",
+            "Final Epilogue"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Hoshi": {
+        "levels": [
+            "Novalis",
+            "Niflheim",
+            "Retention",
+            "Cosmorush 21",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[.𦂹] Schuld": {
+        "levels": [
+            "Novalis",
+            "Incipient",
+            "Hypersonic",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Akane": {
+        "levels": [
+            "Novalis"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Chamchi": {
+        "levels": [
+            "Novalis",
+            "Niflheim",
+            "Frizzantino Vibes"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FeN": {
+        "levels": [
+            "Novalis",
+            "Awakening Horus",
+            "Incipient",
+            "Night Party"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Naxrin": {
+        "levels": [
+            "Novalis"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DerekBAWS": {
+        "levels": [
+            "Novalis",
+            "Deception Dive",
+            "Allegiance",
+            "Night Party",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "PleoSlim RMD": {
+        "levels": [
+            "Novalis",
+            "Niflheim",
+            "Retention",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SyQual": {
+        "levels": [
+            "Novalis",
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Raell": {
+        "levels": [
+            "Novalis"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Amp1ify": {
+        "levels": [
+            "Novalis",
+            "Heat Wave",
+            "Awakening Horus"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Tessatle [ES]": {
+        "levels": [
+            "Novalis",
+            "Incipient",
+            "Night Party"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Asu": {
+        "levels": [
+            "Twisted Tranquility",
+            "Novalis",
+            "Niflheim",
+            "Retention",
+            "SUBVERSIVE",
+            "Hypersonic",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "KneeVan": {
+        "levels": [
+            "Novalis",
+            "CYCLONE",
+            "Awakening Horus",
+            "Incipient",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "deathbylag": {
+        "levels": [
+            "Novalis",
+            "Artificial Dream",
+            "Awakening Horus",
+            "Incipient",
+            "Zettabyte"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AsrielXL": {
+        "levels": [
+            "Novalis",
+            "Niflheim",
+            "Heat Wave",
+            "Artificial Dream",
+            "SUBVERSIVE",
+            "Hypersonic",
+            "Excessive Compliment",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "crumche": {
+        "levels": [
+            "Novalis",
+            "Niflheim",
+            "Incipient",
+            "Acu",
+            "Cosmorush 21"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Toby62": {
+        "levels": [
+            "Novalis",
+            "Retention",
+            "Duelo Maestro",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TyPier": {
+        "levels": [
+            "Novalis",
+            "Cataclysm",
+            "Deception Dive",
+            "Allegiance",
+            "Artificial Dream",
+            "Retention",
+            "Awakening Horus",
+            "Incipient",
+            "Acu",
+            "Hypersonic",
+            "Excessive Compliment",
+            "Misty Mountains",
+            "INNARDS",
+            "Heat Wave"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Samiversal": {
+        "levels": [
+            "Novalis",
+            "Awakening Horus",
+            "ICE Carbon Diablo X",
+            "Incipient",
+            "Gammaray",
+            "Cosmic Calamity",
+            "Photovoltaic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "n4iroki": {
+        "levels": [
+            "Novalis"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MiniWheatDuo": {
+        "levels": [
+            "Novalis",
+            "Esencia",
+            "Unearthed",
+            "HURRICANE",
+            "CYCLONE",
+            "Incipient",
+            "Acu",
+            "Zettabyte",
+            "Excessive Compliment",
+            "Glacial Torrent",
+            "Zenith",
+            "Fingerdash v3",
+            "Cosmorush 21",
+            "Misty Mountains",
+            "AAAAAAAAAAAAAAAAAAAA",
+            "Reverence",
+            "Polish Alphabet",
+            "Napalm",
+            "SUBVERSIVE",
+            "Awakening Horus",
+            "Thunder Alphabet",
+            "Hypersonic",
+            "Virtual Collapse",
+            "MELTDOWN"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aeyooo": {
+        "levels": [
+            "Novalis",
+            "Awakening Horus",
+            "Incipient",
+            "Acu",
+            "Duelo Maestro",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Pushenka": {
+        "levels": [
+            "The Hell Dignity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SkyJax": {
+        "levels": [
+            "Fexty"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Agaloth": {
+        "levels": [
+            "The Flawless"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sands": {
+        "levels": [
+            "The Flawless",
+            "Heartbeat",
+            "Gammaray",
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "luigiowned": {
+        "levels": [
+            "Triple Six"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Gabryelsz": {
+        "levels": [
+            "Triple Six"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ben The Cool": {
+        "levels": [
+            "Triple Six"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sadius": {
+        "levels": [
+            "Triple Six",
+            "Acu",
+            "Zettabyte",
+            "Idols",
+            "Retention",
+            "Night Life",
+            "The Hell Zone",
+            "Incipient",
+            "Glide",
+            "Faith"
+        ],
+        "progs": [
+            {
+            "name": "distraught",
+            "percent": 72
+            },
+            {
+            "name": "Conical Depression",
+            "percent": 61
+            }
+        ]
+    },
+    "Visurient": {
+        "levels": [
+            "Triple Six"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "lukz.": {
+        "levels": [
+            "Niflheim",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ferox242": {
+        "levels": [
+            "Niflheim",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FD5GD": {
+        "levels": [
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Weenside": {
+        "levels": [
+            "Niflheim",
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DelTell": {
+        "levels": [
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Guille1999 GD": {
+        "levels": [
+            "Niflheim",
+            "ICE Carbon Diablo X",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "adasd54321": {
+        "levels": [
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sasseli": {
+        "levels": [
+            "Niflheim",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MaChine17": {
+        "levels": [
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Amaranth": {
+        "levels": [
+            "Niflheim",
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Tricks33": {
+        "levels": [
+            "Niflheim",
+            "Incipient",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "BigMacGD": {
+        "levels": [
+            "Niflheim",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FANTASER": {
+        "levels": [
+            "Niflheim",
+            "Retention",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ViewSonic": {
+        "levels": [
+            "Niflheim",
+            "Incipient",
+            "Electrosonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "siberianBarebuh": {
+        "levels": [
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Yankes": {
+        "levels": [
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "YrNeHeNrY": {
+        "levels": [
+            "Niflheim",
+            "Marathon",
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Madlad Boi": {
+        "levels": [
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zulrah": {
+        "levels": [
+            "Niflheim",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Burnt GD": {
+        "levels": [
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "notlsa": {
+        "levels": [
+            "Niflheim",
+            "Duelo Maestro",
+            "Matilda the Machine"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Tato": {
+        "levels": [
+            "Niflheim",
+            "CYCLONE",
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "YoungUng2": {
+        "levels": [
+            "Niflheim",
+            "Incipient",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Freddy3": {
+        "levels": [
+            "Niflheim",
+            "Allegiance",
+            "Zettabyte",
+            "Night Party",
+            "Duelo Maestro",
+            "Thanatophobia"
+        ],
+        "progs": [
+            {
+                "name": "Azure Fiesta",
+                "percent": 59
+            }
+        ]
+    },
+    "owoZ1rc0n": {
+        "levels": [
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Qog": {
+        "levels": [
+            "Niflheim",
+            "SUBVERSIVE",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GDHoliday": {
+        "levels": [
+            "Niflheim",
+            "Unearthed",
+            "Retention",
+            "Incipient",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "mDen": {
+        "levels": [
+            "Niflheim",
+            "Artificial Dream"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Cirphlyx": {
+        "levels": [
+            "Niflheim",
+            "Artificial Dream",
+            "CYCLONE",
+            "Retention",
+            "Incipient",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "JRain": {
+        "levels": [
+            "Niflheim",
+            "Retention",
+            "Zettabyte",
+            "ATMarbl",
+            "Penultimate Phase",
+            "Just Dance",
+            "Polish Alphabet",
+            "Hypersonic",
+            "Epsilon",
+            "Acu",
+            "Glide",
+            "Faith",
+            "Excessive Compliment",
+            "Twisted Tranquility",
+            "Aurora"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Fluffy12234": {
+        "levels": [
+            "Marathon"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Silverdynamix": {
+        "levels": [
+            "Marathon",
+            "CYCLONE",
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "BoiloveGD": {
+        "levels": [
+            "Marathon"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AGUAKRL": {
+        "levels": [
+            "Audio Extraction",
+            "Cataclysm",
+            "ICE Carbon Diablo X",
+            "SUBVERSIVE",
+            "Bloodbath",
+            "Aftermath"
+        ],
+        "progs": [
+            {
+                "name": "Athanatos",
+                "percent": 71
+            }
+        ]
+    },
+    "[SD] SarTiZ": {
+        "levels": [
+            "Esencia",
+            "CholeriX",
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Azerty GD": {
+        "levels": [
+            "Esencia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GrenadeofTacos": {
+        "levels": [
+            "Esencia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Restii": {
+        "levels": [
+            "Esencia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[GD] Xenalyze": {
+        "levels": [
+            "Esencia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Tetrys": {
+        "levels": [
+            "Esencia",
+            "CYCLONE",
+            "Incipient",
+            "Matilda the Machine"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheFakeFlame": {
+        "levels": [
+            "Unearthed",
+            "Incipient",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Levin": {
+        "levels": [
+            "Unearthed"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Surpl3x": {
+        "levels": [
+            "Bloodbath",
+            "Novalis",
+            "Deception Dive",
+            "Unearthed",
+            "Retention",
+            "Duelo Maestro",
+            "Misty Mountains",
+            "Excessive Compliment",
+            "Awakening Horus",
+            "Incipient",
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            {
+                "name": "Black Blizzard",
+                "percent": 47
+            }
+        ]
+    },
+    "Victurkey": {
+        "levels": [
+            "Unearthed",
+            "Deception Dive",
+            "Night Party",
+            "Quest for Perfection",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "1kb": {
+        "levels": [
+            "Unearthed"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Gap2003": {
+        "levels": [
+            "Heat Wave"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Tai0": {
+        "levels": [
+            "Glide"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "StarKilleur 136": {
+        "levels": [
+            "Our Fountain",
+            "Retention",
+            "Awakening Horus"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Noriega": {
+        "levels": [
+            "Fingerdash v3"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zylenox": {
+        "levels": [
+            "Heartbeat",
+            "Cataclysm",
+            "ICE Carbon Diablo X",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AlexTD": {
+        "levels": [
+            "Heartbeat"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "tin15cro": {
+        "levels": [
+            "Heartbeat",
+            "Allegiance"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "sunix": {
+        "levels": [
+            "Heartbeat"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "R3YGA": {
+        "levels": [
+            "Heartbeat",
+            "AcropoliX",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Farzz": {
+        "levels": [
+            "Heartbeat",
+            "Allegiance",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Cool Dash": {
+        "levels": [
+            "Heartbeat",
+            "Allegiance",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Butterfish1413": {
+        "levels": [
+            "NecropoliX"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Jastro": {
+        "levels": [
+            "The Lost Existence",
+            "Acu",
+            "Awakening Horus",
+            "Cataclysm",
+            "MELTDOWN"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Shuri": {
+        "levels": [
+            "Uprise"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nine [GD]": {
+        "levels": [
+            "Uprise"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Acyd": {
+        "levels": [
+            "UltraSans"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sevant": {
+        "levels": [
+            "UltraSans",
+            "Deception Dive"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Alan Nolasco": {
+        "levels": [
+            "Cataclysm",
+            "Allegiance"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[GD] REKTROX": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Kevelia": {
+        "levels": [
+            "Cataclysm",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Exorsus": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Gfranch_": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "VoltStormGD": {
+        "levels": [
+            "Cataclysm",
+            "Hypersonic",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "WolfStorm": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DestiX": {
+        "levels": [
+            "Cataclysm",
+            "ICE Carbon Diablo X",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            {
+                "name": "Bloodbath",
+                "percent": 57
+            }
+        ]
+    },
+    "Hiraeth": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "CRTS": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "zhawker": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Game_Difficulter": {
+        "levels": [
+            "Cataclysm",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Xtrulex": {
+        "levels": [
+            "Cataclysm",
+            "Deception Dive",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Arquas": {
+        "levels": [
+            "Cataclysm",
+            "Retention",
+            "Hypersonic",
+            "Quest for Perfection",
+            "Photovoltaic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FluffyGMD": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheRealZnife": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Looper231": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Seturan": {
+        "levels": [
+            "Cataclysm",
+            "ICE Carbon Diablo X",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "RedCrystal": {
+        "levels": [
+            "Cataclysm",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Hypersonic",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DartHole [GD]": {
+        "levels": [
+            "Cataclysm",
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Samtaylor0829": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Rain": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Thoughnut [GD]": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "EroGamer": {
+        "levels": [
+            "Cataclysm",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "liolio": {
+        "levels": [
+            "Cataclysm",
+            "Deception Dive",
+            "Falling Up",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "RusTurd": {
+        "levels": [
+            "Cataclysm",
+            "AcropoliX",
+            "Incipient",
+            "Sky Tech",
+            "Hypersonic",
+            "Quest for Perfection",
+            "Photovoltaic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Patchimator": {
+        "levels": [
+            "Cataclysm",
+            "Retention",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "PokSson": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ezvie": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Chatter": {
+        "levels": [
+            "Cataclysm",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Vlacc": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sebastián Klopz": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GD Maximuss": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "rCandy": {
+        "levels": [
+            "Cataclysm",
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GmdConvex": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "PigChefer744": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "HydraFlare778": {
+        "levels": [
+            "Cataclysm",
+            "Niflheim",
+            "Our Fountain",
+            "Uprise"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Cappyt": {
+        "levels": [
+            "Cataclysm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Chubs Dubs": {
+        "levels": [
+            "Cataclysm",
+            "Quest for Perfection",
+            "Acu",
+            "Bloodbath",
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Coal56AB": {
+        "levels": [
+            "Deception Dive",
+            "Hypersonic",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Technical": {
+        "levels": [
+            "Deception Dive",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Falling Up",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Alexey86rus": {
+        "levels": [
+            "Deception Dive",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Snips": {
+        "levels": [
+            "Deception Dive",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "soykid gaming": {
+        "levels": [
+            "Deception Dive"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "OnlineplaY": {
+        "levels": [
+            "Deception Dive"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Cynic": {
+        "levels": [
+            "Deception Dive",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nine GD": {
+        "levels": [
+            "Deception Dive",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GoldenEagle741": {
+        "levels": [
+            "Deception Dive",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Sysmique Locked",
+            "MELTDOWN"
+        ],
+        "progs": [
+            {
+                "name": "Void Wave",
+                "percent": 58
+            }
+        ]
+    },
+    "Cyanox": {
+        "levels": [
+            "Allegiance",
+            "Retention",
+            "Falling Up",
+            "Duelo Maestro",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "WhiteDwarf": {
+        "levels": [
+            "Allegiance"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Djz Games": {
+        "levels": [
+            "Allegiance"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "dysfunctional": {
+        "levels": [
+            "Allegiance",
+            "Retention",
+            "Awakening Horus",
+            "SUBVERSIVE",
+            "Excessive Compliment",
+            "Final Epilogue"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dashy [GD]": {
+        "levels": [
+            "Allegiance",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Joshua28": {
+        "levels": [
+            "Allegiance",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zscharli": {
+        "levels": [
+            "Allegiance"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Joonsan": {
+        "levels": [
+            "Allegiance",
+            "Retention",
+            "ICE Carbon Diablo X",
+            "SUBVERSIVE",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "HarryGoesGaming": {
+        "levels": [
+            "Allegiance",
+            "Acu",
+            "Zettabyte",
+            "Hypersonic",
+            "Quest for Perfection",
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ikarya": {
+        "levels": [
+            "Allegiance",
+            "A2Marbl",
+            "HURRICANE",
+            "CYCLONE",
+            "Inflective",
+            "Reverence"
+        ],
+        "progs": [
+            {
+                 "name": "Black Blizzard",
+                "percent": 47
+            }
+        ]
+    },
+    "Zagros": {
+        "levels": [
+            "Artificial Dream",
+            "Awakening Horus"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zoff": {
+        "levels": [
+            "Artificial Dream"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ranly": {
+        "levels": [
+            "Artificial Dream",
+            "Retention",
+            "Hypersonic",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sector": {
+        "levels": [
+            "Artificial Dream"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Araphaima_exe": {
+        "levels": [
+            "Artificial Dream",
+            "Incipient",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Matteddy": {
+        "levels": [
+            "Artificial Dream",
+            "Retention",
+            "Incipient",
+            "Hypersonic",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AndreiV WGM": {
+        "levels": [
+            "Artificial Dream"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Monti 241": {
+        "levels": [
+            "Artificial Dream",
+            "Retention",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Demolishers21": {
+        "levels": [
+            "Artificial Dream",
+            "CYCLONE",
+            "Uprise",
+            "Esencia",
+            "Night Party",
+            "Deception Dive"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DanLom GD": {
+        "levels": [
+            "Artificial Dream"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Levi Freihat": {
+        "levels": [
+            "Artificial Dream",
+            "Retention",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sadak": {
+        "levels": [
+            "Artificial Dream"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "PoweredByPie": {
+        "levels": [
+            "Artificial Dream",
+            "Incipient",
+            "SUBVERSIVE",
+            "Duelo Maestro",
+            "Hypersonic",
+            "Retention",
+            "Excessive Compliment",
+            "The Hell Zone"
+        ],
+        "progs": [
+            {
+                "name": "Plasma Pulse Finale",
+                "percent": 50
+            },
+            {
+                "name": "Bloodbath",
+                "percent": 57
+            }
+        ]
+    },
+    "augi": {
+        "levels": [
+            "Artificial Dream",
+            "CYCLONE",
+            "Zettabyte",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "VS LEGEND": {
+        "levels": [
+            "Artificial Dream",
+            "Retention",
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SkyRealm": {
+        "levels": [
+            "Artificial Dream",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Seany": {
+        "levels": [
+            "Artificial Dream",
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "InsaneParnisha [FD S]": {
+        "levels": [
+            "Artificial Dream"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "zPollus": {
+        "levels": [
+            "Artificial Dream"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Steven": {
+        "levels": [
+            "A2Marbl"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Floppy_": {
+        "levels": [
+            "HURRICANE",
+            "CYCLONE",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "LumiNare": {
+        "levels": [
+            "CYCLONE",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "nilus": {
+        "levels": [
+            "CYCLONE",
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Silverdynamix ": {
+        "levels": [
+            "CYCLONE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Disaster 500 GD": {
+        "levels": [
+            "CYCLONE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Kv082": {
+        "levels": [
+            "CYCLONE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Renars Lasmanis1": {
+        "levels": [
+            "CYCLONE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Azzyy": {
+        "levels": [
+            "CYCLONE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "YUTARO": {
+        "levels": [
+            "CYCLONE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Rqd": {
+        "levels": [
+            "CYCLONE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Goenji": {
+        "levels": [
+            "CYCLONE",
+            "Retention",
+            "Twisted Tranquility",
+            "Night Party",
+            "MELTDOWN"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Cristhian GD": {
+        "levels": [
+            "CYCLONE",
+            "HURRICANE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Jo2000": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Rlol": {
+        "levels": [
+            "Retention",
+            "Night Party",
+            "Sysmique Locked",
+            "Gammaray"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DiamondSplash": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GFranch_": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aidux": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Claren": {
+        "levels": [
+            "Retention",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mineber": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MUFF1N": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Depato": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Geen": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dr. Joe": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Hanavi": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "BlasterGamesBG": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Jesus": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "PerkyKnight": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "765 MILLION": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "PlusXenon": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheFrozenTide": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "BlOwArS": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aziix": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Izumi69": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SooKes": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Allium_GD": {
+        "levels": [
+            "Retention",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ShadowFactor": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DEMN": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "RexenDr": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Lybra Dragon": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "30LevelUp": {
+        "levels": [
+            "Retention",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Grates": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Brittank88": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Даниил Кузеванов": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Pakki": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Logan Schmid": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Chaoz": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GMD Harden": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Rustam": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sam Stookey": {
+        "levels": [
+            "Retention",
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "lukz": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Carves": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Xyriak": {
+        "levels": [
+            "Retention",
+            "SUBVERSIVE",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Arceus": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dellinger": {
+        "levels": [
+            "Retention",
+            "ICE Carbon Diablo X",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Themaster402": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Crunchingo": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Kains": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Tetra": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Waivve": {
+        "levels": [
+            "Retention",
+            "Incipient",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Lulz": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "iII White IIi": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Akaeoni": {
+        "levels": [
+            "Retention",
+            "ICE Carbon Diablo X",
+            "AcropoliX",
+            "Photovoltaic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MikeSully": {
+        "levels": [
+            "Retention",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MaDark": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nisha": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "V99": {
+        "levels": [
+            "Retention",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "RockWizard5": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sodaegyo": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Toozik": {
+        "levels": [
+            "Retention",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "이상원": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Finite": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GMDomy": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Calcifer": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Thoughnut": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Amonzu": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Azza": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "KillEm": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Indie": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[SG/SD]Sowun소운": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Jarx246": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ImJum": {
+        "levels": [
+            "Retention",
+            "TANTRUM"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "??????": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Tukkiukko": {
+        "levels": [
+            "Retention",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Chromo47": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ProX1ma": {
+        "levels": [
+            "Retention",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Stundy": {
+        "levels": [
+            "Retention",
+            "ICE Carbon Diablo X",
+            "Falling Up"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Pjoes": {
+        "levels": [
+            "Retention",
+            "Incipient",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "sugardude": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MaKZ71": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Varium": {
+        "levels": [
+            "Retention",
+            "The Hell Zone"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Pencil Box": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "NotIsa": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AthyXray": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Arin Sol": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "End3rLukeJ3m": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Avenger1488": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Volt7": {
+        "levels": [
+            "Retention",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Geometry dash toda": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sheepsquared": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dal": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zeronium": {
+        "levels": [
+            "Retention",
+            "Zettabyte",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Crumche": {
+        "levels": [
+            "Retention",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "etceteraAngel": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Yuuchouze": {
+        "levels": [
+            "Retention",
+            "Niflheim",
+            "Incipient",
+            "Acu",
+            "Novalis"
+            
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "KandyMan": {
+        "levels": [
+            "Retention",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[SD] pyh4476": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Blitzmister": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Iconio": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Pablotam": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aconn [GD]": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Henry03": {
+        "levels": [
+            "Retention",
+            "Novalis",
+            "Falling Up",
+            "Acu",
+            "Zettabyte",
+            "Duelo Maestro",
+            "CYCLONE",
+            "CholeriX",
+            "Hypersonic"
+        ],
+        "progs": [
+            {
+                "name": "Conical Depression",
+                "percent": 46
+            }
+        ]
+    },
+    "Kyuss": {
+        "levels": [
+            "Retention",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Orinami": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Vinny": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "JAwedude": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Lewiz": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DiLeMa": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "zex": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Saidek": {
+        "levels": [
+            "Retention",
+            "AcropoliX",
+            "Incipient",
+            "Acu",
+            "Matilda the Machine",
+            "Excessive Compliment",
+            "NecropoliX",
+            "The Hell Zone"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "xiao42498": {
+        "levels": [
+            "Awakening Horus"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Miyukal": {
+        "levels": [
+            "Awakening Horus",
+            "SUBVERSIVE",
+            "Hypersonic",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nepdex": {
+        "levels": [
+            "Awakening Horus",
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DeoriX": {
+        "levels": [
+            "Awakening Horus"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Amerard": {
+        "levels": [
+            "Awakening Horus"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Bartek0 [Bedziu]": {
+        "levels": [
+            "Awakening Horus"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Xyghost": {
+        "levels": [
+            "Awakening Horus",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Troops3": {
+        "levels": [
+            "Awakening Horus",
+            "Acu"
+        ],
+        "progs": [
+            {
+                "name": "ATMarbl",
+                "percent": 67
+            }
+        ]
+    },
+    "86Trueno": {
+        "levels": [
+            "Awakening Horus",
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Eye Glitch": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "EpicPersonGaming": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Lurox": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MrKebab": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "XoanoN": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Pacosky18": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FracH": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "RainbowVaas Geometry Dash": {
+        "levels": [
+            "ICE Carbon Diablo X",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "The Hardcore Proyect": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Summy [GD]": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Fexus": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Retina": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zenith": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheMineber": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "neukk": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "samtaylor": {
+        "levels": [
+            "ICE Carbon Diablo X",
+            "Falling Up",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "tzovgo": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aliago": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Circlego": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mastermaxify": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Joash Chee": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "The Real Superior": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Joshua69": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AX7520": {
+        "levels": [
+            "Duelo Maestro",
+            "Excessive Compliment",
+            "Master Duel"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ThisisPow": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Niskey": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Cream Soda [GS]": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Bedlet [RIP]": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "gxmd18": {
+        "levels": [
+            "ICE Carbon Diablo X",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Gandhi": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ChevtroxGaming": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MaxGaming": {
+        "levels": [
+            "Falling Up"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Komic": {
+        "levels": [
+            "Falling Up"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Freaklin": {
+        "levels": [
+            "Falling Up"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Spamdrew128": {
+        "levels": [
+            "Falling Up",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "EightVersive": {
+        "levels": [
+            "AcropoliX"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Die4Toast": {
+        "levels": [
+            "AcropoliX"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Bagley": {
+        "levels": [
+            "AcropoliX"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[GD] Jenkins": {
+        "levels": [
+            "Incipient",
+            "Zettabyte"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "jordan853": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dragon48100": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "KJackpot": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Toilet [60hz]": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MobileMaster": {
+        "levels": [
+            "Incipient",
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ddddr": {
+        "levels": [
+            "Incipient",
+            "Excessive Compliment",
+            "CholeriX",
+            "Esencia",
+            "Artificial Dream",
+            "Virtual Collapse"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Arsitotu [RR]": {
+        "levels": [
+            "Incipient",
+            "SUBVERSIVE",
+            "Hypersonic",
+            "Excessive Compliment",
+            "Night Life"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Just Ch4n": {
+        "levels": [
+            "Incipient",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nessi": {
+        "levels": [
+            "Incipient",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zeekoid": {
+        "levels": [
+            "Incipient",
+            "Matilda the Machine",
+            "Zettabyte",
+            "Hypersonic",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Xiko": {
+        "levels": [
+            "Incipient",
+            "Hypersonic",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MaksPunch [FD]": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Killem": {
+        "levels": [
+            "Incipient",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FixThisPlz": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sugardude": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MaKZ71 [LHP A/FD A]": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Genesis9876": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sonixray": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Spatdoepa": {
+        "levels": [
+            "Incipient",
+            "Artificial Ideology"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "RunT": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[GD} Nexi": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Huashu": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Drewsterman": {
+        "levels": [
+            "Incipient",
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Divinity": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Школьник": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Lambda [RS]": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "LING330링": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MoustiK Gd": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "indigo67": {
+        "levels": [
+            "Incipient",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Electroanimator": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "luna!": {
+        "levels": [
+            "Incipient",
+            "Acu",
+            "Niflheim",
+            "Esencia",
+            "Cataclysm",
+            "ICE Carbon Diablo X",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ezvie": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Rhizical": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "dreamtide": {
+        "levels": [
+            "Acu",
+            "Excessive Compliment",
+            "FinKor",
+            "Misty Mountains",
+            "Thanatophobia",
+            "Napalm",
+            "Virtual Collapse",
+            "MELTDOWN"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aquilia": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zackytheflappy": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Bygarde _": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DasherMachine": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            {
+                "name":"A Bizarre Phantasm",
+                "percent": 58
+            }
+        ]
+    },
+    "Vink": {
+        "levels": [
+            "Acu",
+            "Awakening Horus",
+            "CYCLONE"
+        ],
+        "progs": [
+            {
+                "name": "Prismatic Haze",
+                "percent": 76
+            }
+        ]
+    },
+    "Rzary": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Edant": {
+        "levels": [
+            "Acu",
+            "Excessive Compliment",
+            "Skrrah",
+            "Zettabyte"
+        ],
+        "progs": [
+            {
+                "name": "Black Blizzard",
+                "percent": 47
+            }
+            
+        ]
+    },
+    "Christhian GD": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Rustic": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "nSwish": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheRealYeeter": {
+        "levels": [
+            "Acu",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Frunk": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "blessed": {
+        "levels": [
+            "Acu",
+            "Matilda the Machine",
+            "CYCLONE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Fabricorn": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            {
+                "name": "Idols",
+                "percent": 83
+            }
+        ]
+    },
+    "Gherkin": {
+        "levels": [
+            "Acu",
+            "Incipient",
+            "Thanatophobia",
+            "SUBVERSIVE",
+            "Misty Mountains",
+            "Night Party",
+            "Hypersonic",
+            "Artificial Dream",
+            "Cataclysm",
+            "Retention",
+            "Awakening Horus"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "The Derp Shark": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Deb Mays": {
+        "levels": [
+            "Acu",
+            "Thanatophobia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ario": {
+        "levels": [
+            "Matilda the Machine"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "notIsa": {
+        "levels": [
+            "Matilda the Machine"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Cryptikz777": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Rishi Jawahar": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Fynzyme": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Kate Byrne": {
+        "levels": [
+            "SUBVERSIVE",
+            "Night Party"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Majax Plop": {
+        "levels": [
+            "SUBVERSIVE",
+            "Quest for Perfection",
+            "Excessive Compliment",
+            "Final Epilogue",
+            "Retention",
+            "Cosmic Calamity",
+            "Incipient",
+            "CYCLONE",
+            "Hypersonic",
+            "Allegiance",
+            "Plasma Pulse III",
+            "Deception Dive",
+            "Niflheim"
+        ],
+        "progs": [
+            {
+                "name": "Belloq",
+                "percent": 55
+            }
+        ]
+    },
+    "Lyal": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Azlix": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[TS] ReXenDr": {
+        "levels": [
+            "SUBVERSIVE",
+            "Duelo Maestro",
+            "Hypersonic",
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SiberianBarebuh": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Naltaurde": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Eldex [RS]": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "raider132": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "zMag 13": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Starry DS": {
+        "levels": [
+            "SUBVERSIVE"
+        ],
+        "progs": [
+            {
+                "name":"Fusion Z",
+                "percent":55
+            }
+        ]
+    },
+    "Utsuho Reiuji": {
+        "levels": [
+            "Polish Alphabet"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "BRTK [GD]": {
+        "levels": [
+            "Polish Alphabet"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MaFFaKa": {
+        "levels": [
+            "Polish Alphabet"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Yohane": {
+        "levels": [
+            "Zettabyte"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Awall007": {
+        "levels": [
+            "Night Party"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mulpan": {
+        "levels": [
+            "Night Party"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FuryhK [TH]": {
+        "levels": [
+            "Night Party"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nacho21": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "VelK": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aeidux": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MikeVideoGamer": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aviila RX2X": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "PaLiX": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "benjamaster7": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Spidermations": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Pianist207": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Plusxenon": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Real": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "iffydsu": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SuperSNSD R": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "benis": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Grey749": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nico GG": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Novar": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Krylon": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GD budir": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Soustret [GD]": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "YoshiPower": {
+        "levels": [
+            "Duelo Maestro",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "LianuM": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AiMPRON": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Cubpletionist": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "amonzu": {
+        "levels": [
+            "Duelo Maestro",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "fayermothk": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "boge__": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Leiuxe": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "WhiteGreen": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "By Player": {
+        "levels": [
+            "Duelo Maestro",
+            "Esencia",
+            "Excessive Compliment",
+            "Night Life",
+            "Incipient",
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Hito73 GD": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[GD] Spidebot": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Benja4519": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "JHdash77": {
+        "levels": [
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Morfito": {
+        "levels": [
+            "Cosmorush 21",
+            "Hypersonic",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "nainteils": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "iIExtremeDashIi": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "BrianTheBurger": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "avaaiden": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mr. Andy": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mac": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aerobrake": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ThePuffpuff30": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Minute29": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Nofaith": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Matt0430": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "luisgotskyxd": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Darkerz": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheFrozenTideGD": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Andix": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sampro44": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Th04": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[MatteoKun] WetfitXD": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Gamáfago": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DiegoNG": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Geometry Dash TekaHD": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Vyrtual": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "sodaegyo": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FranciscoJr12": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Shizzal": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MrSpaghetti": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Alex XXXD": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "은퇴지건": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "InfluX": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "PerceptionGD": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheJesucristian": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "55Darie55 [CZ]": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "NightHunT": {
+        "levels": [
+            "Hypersonic",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "guywith2thumbz": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[ND] ItsLeaf": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dorami": {
+        "levels": [
+            "Hypersonic",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "상현": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Enzuu": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Tenori": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[GD] Azza": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Eggnog": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "xCarbon87": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dashy": {
+        "levels": [
+            "Hypersonic",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Rajner": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sseonkols": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GontaG": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Vortex RBR": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Skiy": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "出見塩": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Anatarius": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "YtTanel": {
+        "levels": [
+            "Hypersonic",
+            "Artificial Dream",
+            "Acu"
+        ],
+        "progs": [
+            {
+                "name": "Plasma Pulse Finale",
+                "percent": 53
+            }
+        ]
+    },
+    "Motor": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "BorisBorisovich [GD]": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Goenji [GD]": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "VrohlaiX": {
+        "levels": [
+            "Hypersonic",
+            "Mirage",
+            "Panasonic",
+            "CYCLONE",
+            "Esencia",
+            "Glide",
+            "Napalm",
+            "Acu",
+            "Duelo Maestro",
+            "Night Party"
+        ],
+        "progs": [
+            {
+                "name": "Azure Fiesta",
+                "percent": 63
+            },
+            {
+                "name": "Artifice",
+                "percent": 78
+            }
+        ]
+    },
+    "SoulSilver Jr.": {
+        "levels": [
+            "Hypersonic",
+            "The Hell Factory"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Surya GD": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "iThunder12": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Rompelevel": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Ziragon": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AssaMs": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Kumato": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Trite GD": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AlejandroGD": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "jaynt456": {
+        "levels": [
+            "HURRICANE",
+            "Hypersonic",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "XlamaPlayerX": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Bun5gPlays": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SnowdyCody": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Naltaunrde": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ComCom1337": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Batikus": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GrimPencil16": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            {
+                "name": "Black Blizzard",
+                "percent": 68
+            }
+        ]
+    },
+    "Hoioidoi": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SouLessGD": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheCreator2": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AoZoX": {
+        "levels": [
+            "Electrosonic",
+            "Quest for Perfection",
+            "The Hell Factory"
+        ],
+        "progs": [
+            {
+                "name": "Bloodbath",
+                "percent": 81
+            }
+        ]
+    },
+    "Supron": {
+        "levels": [
+            "AAAAAAAAAAAAAAAAAAAA"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "D. beb": {
+        "levels": [
+            "AAAAAAAAAAAAAAAAAAAA"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "IlluminatiGuy": {
+        "levels": [
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "XcharlieGD": {
+        "levels": [
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TerraeMC": {
+        "levels": [
+            "Cosmic Calamity",
+            "The Flawless"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "masaiX GD": {
+        "levels": [
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "PeanutPickle": {
+        "levels": [
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DiscJoker": {
+        "levels": [
+            "Cosmic Calamity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MaKZ71 [LHP]": {
+        "levels": [
+            "Cosmic Calamity",
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Lavablue": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Whale of Space!": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mark Napkin": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Erketeshniy [Эркэ]": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "LuchioX203": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Thougnut GD": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aico": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[GD] Juan2808": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Hydren": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ICEBOYSETH": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Daddo": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Hazie": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GeronBoss": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Reda": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SimilarAMZ": {
+        "levels": [
+            "Quest for Perfection",
+            "MELTDOWN"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "L4zyy": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Cold Gg": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Her0br1ne31_ [EternalΣ]": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ErraticStatic": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MatsuoIsHere": {
+        "levels": [
+            "Quest for Perfection",
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MatSkrab": {
+        "levels": [
+            "Quest for Perfection"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Pennutoh": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "aahoff": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheYellowDan": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ToastyLoaf": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "flash": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GDNick2": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Orizu": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Xoroz": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FireScorchedGD": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "0rd3n4ry": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "[UL] Sledgehammer135": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AIGDmaster": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Alex200371": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "zLevin": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Twenety": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Maelix": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "EldeX [cherry]": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MakZ71 [LHP]": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Megum [GD]": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "A1TH Gaming": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "JavaIO": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AthyXray GD": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sam3ggo GD": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "lukei9vf": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TwiistedDuck02": {
+        "levels": [
+            "Excessive Compliment",
+            "Acu",
+            "CYCLONE"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "1AmP1ay3R": {
+        "levels": [
+            "Photovoltaic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "LavaDash": {
+        "levels": [
+            "Photovoltaic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Failure444": {
+        "levels": [
+            "Final Epilogue"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zoink Doink": {
+        "levels": [
+            "Excessive Compliment",
+            "Doop",
+            "Acu",
+            "Sunset Sandstorm"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Storm957": {
+        "levels": [
+            "Plasma Pulse III",
+            "SUBVERSIVE",
+            "Incipient",
+            "Twisted Tranquility",
+            "Niflheim",
+            "Acu",
+            "Artificial Dream",
+            "Just Dance",
+            "Matilda the Machine",
+            "Novalis"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ArCeeGee": {
+        "levels": [],
+        "progs": [
+            {
+                "name": "Artificial Ideology",
+                "percent": 61
+            }
+        ]
+    },
+    "Gzeee": {
+        "levels": [
+            "Acu",
+            "Alcatraz"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "rom games": {
+        "levels": [
+            "SUBVERSIVE",
+            "Hypersonic"
+        ],
+        "progs": [
+            {
+                "name": "Atmosphere",
+                "percent": 90
+            },
+            {
+                "name": "Conical Depression",
+                "percent": 53
+            }
+        ]
+    },
+    "Sepheid": {
+        "levels": [
+            "Retention",
+            "Cadrega Mode"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "JudeRB": {
+        "levels": [
+            "Hypersonic",
+            "Killbot",
+            "Factory Realm X"
+        ],
+        "progs": [
+            {
+                "name": "Black Blizzard",
+                "percent": 46
+            },
+            {
+                "name":"Plasma Pulse Finale",
+                "percent":52
+            }
+        ]
+    },
+    "TheFlameOfLife": {
+        "levels": [
+            "Esencia",
+            "Night Life"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Translator": {
+        "levels": [
+            "Artificial Dream",
+            "Acu"
+        ],
+        "progs": [
+            {
+                "name": "Artificial Ideology",
+                "percent": 62
+            }
+        ]
+    },
+    "WOOGI1411": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DerpOverlord": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "tayrr": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Bladerxial": {
+        "levels": [
+            "Mandragora"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "We4therMan": {
+        "levels": [
+            "Misty Mountains"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dreamlight": {
+        "levels": [
+            "Quest for Perfection",
+            "Cataclysm",
+            "Misty Mountains",
+            "ICE Carbon Diablo X",
+            "Deception Dive",
+            "Bloodbath",
+            "Reverence",
+            "Acu",
+            "Retention",
+            "Night Party",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            {
+                "name": "Aftermath",
+                "percent": 67
+            }
+        ]
+    },
+    "Tuggy": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            {
+                "name": "Black Blizzard",
+                "percent": 48
+            }
+        ]
+    },
+    "WhiteEmerald": {
+        "levels": [
+            "Zettabyte",
+            "Acu",
+            "Night Life",
+            "Thanatophobia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "HexagonGD": {
+        "levels": [
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "RayTheBoss": {
+        "levels": [
+            "Hypersonic",
+            "AcropoliX"
+        ],
+        "progs": [
+            {
+                "name": "Erebus",
+                "percent": 74
+            }
+        ]
+    },
+    "BOSTONTHEKIDRS": {
+        "levels": [
+            "Plasma Pulse III",
+            "Incipient"
+        ],
+        "progs": [
+            {
+                "name": "distraught",
+                "percent": 72
+            }
+        ]
+    },
+    "Joaquemix": {
+        "levels": [
+            "Idols",
+            "Acu",
+            "Hypersonic"
+        ],
+        "progs": []
+    },
+    "Bunny666": {
+        "levels": [
+            "Marathon"
+        ],
+        "progs": [            
+            {
+                "name": "Athanatos",
+                "percent": 79
+            }
+        ]
+    },
+    "Johkhun": {
+        "levels": [
+            "CYCLONE",
+            "Acu"
+        ],
+        "progs": []
+    },
+    "TyakyoFyai": {
+        "levels": [],
+        "progs": [
+            {
+                "name": "Plasma Pulse Finale",
+                "percent": 85
+            }
+        ]
+    }, 
+    "Dornoc429": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": []
+    },
+    "ZizOhNo": {
+        "levels": [
+            "Acu",
+            "Incipient",
+            "ICE Carbon Diablo X",
+            "Thanatophobia",
+            "Artificial Dream"
+        ],
+        "progs": []
+    },
+    "helvetica": {
+        "levels": [
+            "Incipient"
+        ],
+        "progs": []
+    },
+    "AVALANCHA 121":{
+        "levels":[
+            "Conical Depression",
+            "Concaved Memories",
+            "Deception Dive",
+            "SubSonic",
+            "Blade of Justice",
+            "Phobos",
+            "Artificial Ideology",
+            "Idols",
+            "UltraSans",
+            "Allegiance",
+            "The Antimatter",
+            "CYCLONE",
+            "Panasonic",
+            "ICE Carbon Diablo X",
+            "Athanatos"
+        ],
+        "progs":[
+            {
+                "name":"ATMarbl",
+                "percent":87
+            }
+        ]
+    },
+	"TheRunawayGang":{
+		"levels":[
+			"ICE Carbon Diablo X",
+            "Hatred"
+		],
+		"progs":[
+            {
+                "name":"Red World Rebirth",
+                "percent":64
+            }
+		]
+    },
+    "Korrode":{ 
+        "levels": [
+            "Retention",
+            "Awakening Horus"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "rrpi990":{ 
+        "levels": [
+        ],
+        "progs": [
+            {
+            "name":"Bloodbath",
+            "percent":79
+            }
+        ]
+    },
+	"WogYT":{
+		"levels":[
+			"Niflheim",
+            "CYCLONE",
+            "SUBVERSIVE",
+            "Incipient",
+            "Quest for Perfection"
+		],
+		"progs":[
+           "none"
+		]
+    },
+    "PlasmaPower":{ 
+        "levels": [
+        ],
+        "progs": [
+            {
+            "name":"Bloodbath",
+            "percent":71
+            }
+        ]
+    },
+    "Tripod":{ 
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "DraxitIII":{
+        "levels": [
+            "Twisted Tranquility"
+        ],
+        "progs":[
+            {
+            "name":"Black Blizzard",
+               "percent":45
+            }
+        ]
+    },
+    "ZureFlex":{ 
+        "levels": [
+            "Esencia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Joseph C.N.":{ 
+        "levels": [
+            "Thanatophobia"  
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SwordBx":{ 
+        "levels": [
+            "Thanatophobia",
+            "Unearthed",
+            "Awakening Horus",
+            "Acu",
+            "Virtual Collapse",
+            "Penombre",
+            "Faith"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Luxicar":{ 
+        "levels": [
+            "Night Life"  
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "FlipJo337":{ 
+        "levels": [
+            "Deception Dive"  
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "NagromX":{ 
+        "levels": [ 
+            "CYCLONE"   
+        ],
+        "progs": [
+           "none"
+        ]
+    },
+    "TheRealMap":{ 
+        "levels": [    
+        ],
+        "progs": [
+            {
+           "name":"Killbot",
+           "percent":85
+            }
+        ]
+    },
+    "Tsukinple":{ 
+        "levels": [    
+        ],
+        "progs": [
+            {
+           "name":"A Bizarre Phantasm",
+           "percent":62
+            }
+        ]
+    },
+    "Tril":{ 
+        "levels": [ 
+            "Thanatophobia",
+            "Acu"   
+        ],
+        "progs": [
+            {
+           "name": "Prismatic Haze",
+           "percent": 72
+            }
+        ]
+    },
+    "AgusV [GD]":{
+        "levels":[
+            "Reverence"
+        ],
+        "progs":[]
+    },
+    "LEoNvQ":{
+        "levels":[
+            "Reverence"
+        ],
+        "progs":[]
+    },    
+    "cMooneDude":{
+        "levels":[
+            "Reverence"
+        ],
+        "progs":[]
+    }, 
+    "Hasher":{
+        "levels":[
+            "Reverence"
+        ],
+        "progs":[]
+    },
+    "Frenchkebab":{
+        "levels":[
+            "Artificial Dream"
+        ],
+        "progs":[]
+    },
+    "naaviv":{ 
+        "levels": [
+            "Thanatophobia"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "zLunatiX":{ 
+        "levels": [
+            "Incipient"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "Gyrodog":{ 
+        "levels": [
+            "Esencia",
+            "Acu",
+            "Hypersonic"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "gmd_question":{ 
+        "levels": [
+            "Acu"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "errør":{ 
+        "levels": [
+            "Mandragora"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "Guip15":{ 
+        "levels": [
+            "CYCLONE"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "No314":{ 
+        "levels": [
+            "Marathon"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "1tzBee":{ 
+        "levels": [
+            "Just Dance"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "Breakthrough":{ 
+        "levels": [
+            "Acu",
+            "Artificial Dream"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "Bejako":{ 
+        "levels": [
+            "Thanatophobia",
+            "Duelo Maestro"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Evan26": {
+        "levels": [
+            "Incipient",
+            "Artificial Dream",
+            "Night Party"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TinTool": {
+        "levels": [
+            "Thanatophobia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dagemanx":{ 
+        "levels": [
+            "Acu"
+        ],
+		"progs":[
+            "none"
+        ]
+    },
+    "LuckyNS":{ 
+        "levels": [
+            "Glide"
+        ],
+		"progs":[
+            {
+            "name": "Fusion Z",
+            "percent": 82
+            }
+        ]
+    },
+    "AstatineGMD":{ 
+        "levels": [
+            "Triple Six",
+            "Deception Dive",
+            "A2Marbl",
+            "Polish Alphabet"
+        ],
+		"progs":[
+            {
+           "name": "ATMarbl",
+           "percent": 62
+            }
+        ]
+    },
+     "LuckyCaster24":{ 
+        "levels": [
+            "Incipient",
+            "Zettabyte",
+            "Acu",
+            "A2Marbl"
+        ],
+		"progs":[
+            {
+           "name": "Void Wave",
+           "percent": 66
+            }
+        ]
+    },
+    "IIEliteRainII":{ 
+        "levels": [
+            "Thanatophobia",
+            "Heat Wave",
+            "Acu",
+            "Awakening Horus"
+        ],
+		"progs":[
+          "none"
+        ]
+    },
+    "Conical":{
+        "levels":[
+        ],
+        "progs":[
+            {
+                "name":"Killbot",
+                "percent":59
+            }
+        ]
+    },
+    "Rayaleg8":{ 
+        "levels": [
+            "Acu"  
+        ],
+		"progs":[
+          "none"
+        ]
+    },
+    "BiPolarBearr GD":{ 
+        "levels": [
+            "ICE Carbon Diablo X",
+            "Deception Dive",
+            "Cataclysm",
+            "Quest for Perfection",
+            "Hypersonic",
+            "Acu"
+        ],
+		"progs":[
+           {
+                "name":"Bloodbath",
+                "percent":80
+           }
+        ]
+    },
+    "SunnyFB": {
+        "levels": [
+            "Plasma Pulse III",
+            "Acu"
+        ],
+        "progs": [
+            {
+                "name": "The Hell Factory",
+                "percent": 83
+            }
+        ]
+    },
+    "Booshi7": {
+        "levels": [
+        ],
+        "progs": [
+            {
+                "name": "Celestial Force",
+                "percent": 57
+            }
+        ]
+    },
+    "zSekanii": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SuseJRG": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "leandroooo": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Comando [GD]": {
+        "levels": [
+            "Thanatophobia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mars": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Point": {
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheSleuthGD": {
+        "levels": [
+            "Photovoltaic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Baljeet": {
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Biprex": {
+        "levels": [
+            "Killbot"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Rykryk2552": {
+        "levels": [
+            "Freedom08"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Glames": {
+        "levels": [
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ExoLiter": {
+        "levels": [
+        ],
+        "progs": [
+            {
+                "name":"Celestial Force",
+                "percent":84
+            }
+        ]
+    },
+    "Darkbbt": {
+        "levels": [
+            "Celestial Force",
+            "Acu",
+            "Night Party"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "KrizHasALisp": {
+        "levels": [
+            "Reverence"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "AGSEcho": {
+        "levels": [
+            "Bloodbath"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Hyper Nickel": {
+        "levels": [
+            "Gammaray"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "GDClutter": {
+        "levels": [
+            "Final Epilogue",
+            "Acu",
+            "Thanatophobia",
+            "Twisted Tranquility",
+            "SUBVERSIVE",
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Welon": {
+        "levels": [
+            "Acu",
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Aquakabi": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Inseinex": {
+        "levels": [
+        ],
+        "progs": [
+            {
+                "name" : "Just Dance",
+                "percent":80
+            }
+
+        ]
+    },
+    "RetroBoy":{
+        "levels": [
+            "Virtual Collapse"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Naveboy34":{
+        "levels": [
+            "Virtual Collapse"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "BraydonSlayz43":{
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Mist":{
+        "levels": [
+            "Thanatophobia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "kkgrooms":{
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+        {
+            "name" : "Void Wave",
+            "percent" : 53
+        }
+       
+        ]
+    },
+    "clock0822":{
+        "levels": [
+            "Artifice",
+            "Esencia"
+        ],
+        "progs": [
+        "none"
+       
+        ]
+    },
+    "Dangadash":{
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+        "none"
+       
+        ]
+    },
+    
+    "Mango":{
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+        "none"
+       
+        ]
+    },
+    "StillSouless":{
+        "levels": [
+            "Epsilon"
+        ],
+        "progs": [
+        "none"
+       
+        ]
+    },
+    "TheSlammed":{
+        "levels": [
+            "Allegiance"
+        ],
+        "progs": [
+        "none"
+       
+        ]
+    },
+    "lappwv":{
+        "levels": [
+            "kowareta"
+        ],
+        "progs": [
+        "none"
+       
+        ]
+    },
+    "JordGHubsplazz": {
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ultracauaHD": {
+        "levels": [
+            "Thanatophobia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zadrott": {
+        "levels": [
+            "Thanatophobia",
+            "SubSonic",
+            "Artifice"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "PojangMacha": {
+        "levels": [
+            "Esencia",
+            "Zettabyte"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Dragun": {
+        "levels": [
+            "Heartbeat",
+            "Plasma Pulse III"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "JRosen":{
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "CreatorMichaelR":{
+        "levels": [
+            "Reverie",
+            "Faith",
+            "Diligence"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "MrStardeX":{
+        "levels": [
+            "Reverie",
+            "Faith",
+            "Diligence"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Coheton":{
+        "levels": [
+            "Diligence"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "SkylarkyGD":{
+        "levels": [
+            "Faith"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "hpsk":{ 
+        "levels": [
+        ],
+		"progs":[
+            {
+            "name": "Super Probably Level",
+            "percent": 74
+            }
+        ]
+    },
+    "Kuzminka Dash":{
+        "levels": [
+            "The Hell Dignity"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Zyphiolium":{
+        "levels": [
+            "CYCLONE"
+        ],
+        "progs": [
+            {
+            "name": "Fusion Z",
+            "percent": 49
+            }
+        ]
+    },
+    "Converto":{
+        "levels": [
+            "Thanatophobia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "HaxQL":{
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Doraemon":{
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Zenlox7":{
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Angel Vaztech":{ 
+        "levels": [
+        ],
+		"progs":[
+            {
+            "name": "Blade of Justice",
+            "percent": 60
+            }
+        ]
+    },
+        "Prayoga Deva":{
+        "levels": [
+            "Mandragora"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Temical":{
+        "levels": [
+            "Skrrah"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "VaroGL":{
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "ssamosa211":{
+        "levels": [
+        ],
+        "progs": [
+            {
+            "name": "Annihilation Nation",
+            "percent": 65
+            }
+        ]
+    },
+        "WhitePythor":{
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Sariel Fuentes [GD]":{
+        "levels": [
+            "Retention"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Ali Albasrawy":{
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "MineVhs":{
+        "levels": [
+        ],
+        "progs": [
+            {
+            "name": "Just Dance",
+            "percent": 97
+            }
+        ]
+    },
+        "Manuca":{
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Joshua83 GD":{
+        "levels": [
+            "Hypersonic"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "GDbeast":{
+        "levels": [
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Elia Soverini":{
+        "levels": [
+            "Niflheim"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "M4nst3r":{
+        "levels": [
+        ],
+        "progs": [
+            {
+            "name": "The Hell World",
+            "percent": 61
+            }
+        ]
+    },
+        "FelipeBr25":{
+        "levels": [
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Lawnmower":{
+        "levels": [
+            "Annihilation Nation"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Tuffbag":{
+        "levels":[
+            "ICE Carbon Diablo X"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    
+        "PowerSplit":{
+            "levels":[
+                "Acu"
+            ],
+            "progs": [
+                "none"
+            ]
+        }
+
+    
+}
