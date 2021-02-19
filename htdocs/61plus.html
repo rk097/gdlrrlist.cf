@@ -9,10 +9,15 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
+    <meta property="og:title" content="Geometry Dash LRR Demonlist">
+    <meta property="og:description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
+    <meta name="author" content="ryan9328">
+    <meta name="keywords" content="ryan9328,official,geometry,dash,hardest,extreme,insane,demon,list,demonlist,hardest,levels,gmd,gd,typier,game,top,level,levels,player,players,geometry dash, LRR, 60hz, 60HZ, 75hz, 75HZ, geometry dash 60hz demonlist, GD 60hz list">
+    <meta name="description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
     <title>GD LRR Demon List</title>
     <link href="/CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
     <link href="/CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
-    <link href="/CSS/changelog.css?v=2020-10-05" rel="stylesheet" type="text/css" />
+    <link href="/CSS/list.css?v=2020-10-29" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -22,11 +27,11 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta http-equiv="Expires" content="0" />
   </head>
   <body class = "<?php echo $themeClass; ?>">
-    <ul class = "nav">
+   <ul class = "nav">
       <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
       <li class = "redir"><a href="changelog.html">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>
-      <li class = "redir"><a href="61plus.html">61hz+ Levels</a></li>
+      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>   
+      <li class = "redir"><a class="active-nav-item" href="61plus.html">61hz+ Levels</a></li>
       <li class = "redir"><a href="extended.html">Extended List</a></li>
       <li class = "redir"><a href="index.html">Main List</a></li>
       <li class = "redir"><a href="homepage.html">About</a></li>
@@ -37,28 +42,26 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
           <a href="homepage.html">About</a>
           <a href="index.html">Main List</a>
           <a href="extended.html">Extended List</a>
+          <a class="active-nav-item" href="61plus.html">61hz+ levels</a>
           <a href="leaderboard.html">Leaderboard</a>
           <a href="changelog.html">Changelog</a>
           <a href = "#" class = "btn-toggle2">Color Switch</a>
         </div>
       </li>
     </ul>
-    <strong>
-    </strong>
     <div id="levels-container"> 
-      <h1>Credits</h1>
-      <p>Congrats! You found a hidden page! Good for you. Here I, ryan, would like to credit some people who helped with development, either directly or indirectly.</p>
-      <ul>
-        <li>jack L. Taught me everything I know, and built the skeleton of the new JS-ified site.</li>
-        <li>stadust. A fantastic developer, and the developer of the pointercrate demon list. He made the jquery script for resizing the video thumbnails, I pretty much tweaked a couple things and then copied it. Oh and, before you start yelling at me for being a plagiarist, pointercrate is MIT licensed, and I asked him if it was ok. He said yes.</li>
-        <li>Vink & Xan. Shitty list owners, who kindly gave me their code for their leaderboards, which allowed me to make the pop ups.</li>
-        <li>Necolas, or whoever the guy that made <a href = "https://www.github.com/necolas/normalize.css" target = "_blank">this</a> is. This is what allowed the site to look as clean as it is today. Thanks.</li>
-        <li>w3schools. Fantastic site for quick HTML and CSS tutorials.</li>
-        <li>nik. He taught me about MongoDB, which either that or firebase is something I'm going to implement in the future.</li>
-      </ul> 
+      <h1 style = "text-align:center">61hz+ levels</h1>
+      <p style = "text-align:center">Here, we feature any list-worthy demons that have been beaten on 61-75hz but are not eligible for normal rankings due to not having a 60hz victor. This is to recognize the achievements of 61-75hz players and also to encourage 60hz players to beat these levels to get them ranked by making them more known to the community.
+        <br>
+        <br>
+        NOTE: Unless you COMPLETE one of these levels on 60hz, please do NOT submit records for these levels.
+        <br>
+        <br></p>
     </div>
-    <script src="/JS/dropdown.js"></script>
     <script src="/JS/collapsible.js?v=2020-10-05"></script>
+    <script src="/JS/61plus.js?v=2021-2-18"></script>
+    <script src="/JS/dropdown.js"></script>
+    <script src="/JS/videoresize.js"></script>
     <script src="/JS/darkbutton.js"></script>
   </body>
 </html>
