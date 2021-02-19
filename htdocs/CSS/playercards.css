@@ -10,5 +10,7 @@
 }
 .trigger_popup_fricc:hover {
     color:lightseagreen;
-
+}
+body.dark-theme .trigger_popup_fricc:hover{
+  color:rgb(164, 165, 165);
 }
