@@ -1,0 +1,88 @@
+{
+        "Low Death": {
+        "name": "Low Death",
+        "ytcode": "GSK4zhxSvLs",
+        "minimumPercent": 57,
+        "ranking": "around Freedom08",
+        "publisher": "KrmaL",
+        "list": [
+            {
+                "name": "AVALANCHA 121",
+                "link": "https://youtu.be/GSK4zhxSvLs",
+                "hertz": "75"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
+    },
+    "Butiti III": {
+        "name": "Butiti III",
+        "ytcode": "cAxcFhmwpmU",
+        "minimumPercent": 62,
+        "ranking": "around distraught",
+        "publisher": "JonathanGD",
+        "list": [
+            {
+                "name": "AVALANCHA 121",
+                "link": "https://youtu.be/m4-eWDXPE9A",
+                "hertz": "75"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
+    },
+    "Asmodeus": {
+        "name": "Asmodeus",
+        "ytcode": "3OwKOI4yXLQ",
+        "minimumPercent": 61,
+        "ranking": "around Phobos",
+        "publisher": "Vexion",
+        "list": [
+            {
+                "name": "Sonic80",
+                "link": "https://youtu.be/3OwKOI4yXLQ",
+                "hertz": "75"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
+    },   
+    "EnvY": {
+        "name": "EnvY",
+        "ytcode": "BpCEw34hcm8",
+        "minimumPercent": 55,
+        "ranking": "around Aftermath",
+        "publisher": "DanZmeN",
+        "list": [
+            {
+                "name": "Angelbaton",
+                "link": "https://youtu.be/BpCEw34hcm8",
+                "hertz": "75"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
+    },
+
+        "Bang Gang": {
+        "name": "Bang Gang",
+        "ytcode": "7hxdtpfKBi4",
+        "minimumPercent": 67,
+        "ranking": "around Aurora",
+        "publisher": "DanZmeN",
+        "list": [
+            {
+                "name": "Zest",
+                "link": "https://youtu.be/_Q7Q5BiIPUg",
+                "hertz": "75"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
+    }
+}
