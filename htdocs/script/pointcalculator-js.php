@@ -1,1 +1,0 @@
-<script src="JS/pointcalculator.js?v=2021-02-22"></script>

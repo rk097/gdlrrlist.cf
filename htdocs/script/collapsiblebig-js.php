@@ -1,1 +1,0 @@
-<script src="JS/collapsiblebig.js?v=2020-10-05"></script>
