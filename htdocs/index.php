@@ -56,10 +56,15 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
       <h1 style = "text-align:center">Top 100 Demons List</h1>
       <p style = "text-align:center">All of these levels are very hard, have LRR victors, and award points for completions! The Top 50 even awards points for partial progresses!<br> Want to submit a record? Submit it <a href = "https://docs.google.com/forms/d/e/1FAIpQLSfpZDIHi6G47Es11l_DggbmoXHaJIGfFZQd-vbpq8tr1hEoQA/viewform?usp=sf_link" target = "_blank">here!</a></p>
     </div>
-    <script src="JS/dropdown.js"></script>
-    <script src="JS/mainlist.js?v=2020-11-04"></script>
-    <script src="JS/collapsible.js?v=2020-10-05"></script>
-    <script src="JS/videoresize.js"></script>
-    <script src="JS/darkbutton.js"></script>
+
+    <!-- scripts to include -->
+    <?php
+      include "script/dropdown-js.php";
+      include "script/mainlist-js.php";
+      include "script/collapsible-js.php";
+      include "script/videoresize-js.php";
+      include "script/darkbutton-js.php";
+    ?>
+
   </body>
 </html>

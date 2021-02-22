@@ -58,10 +58,15 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
         <br>
         <br></p>
     </div>
-    <script src="JS/collapsible.js?v=2020-10-05"></script>
-    <script src="JS/61plus.js?v=2021-2-18"></script>
-    <script src="JS/dropdown.js"></script>
-    <script src="JS/videoresize.js"></script>
-    <script src="JS/darkbutton.js"></script>
+
+
+    <!-- scripts to include -->
+    <?php
+      include "script/collapsible-js.php";
+      include "script/61plus-js.php";
+      include "script/dropdown-js.php";
+      include "script/videoresize-js.php";
+      include "script/darkbutton-js.php";
+    ?>
   </body>
 </html>

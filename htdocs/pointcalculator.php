@@ -51,9 +51,14 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <div id = "calc" style = "text-align:center">
       <h1>Points Calculator</h1>
       <p>Follow the instructions on the prompts to use this tool. I also made a <a href = "https://youtu.be/NkcEtpU6ppQ" target = "_blank">video</a> explaining how to use it in a little more detail. The final calculated point value is at the bottom of the page.</p>
-      <script src="JS/pointcalculator.js?v=2021-02-22"></script>
-      <script src="JS/dropdown.js"></script>
-      <script src="JS/darkbutton.js"></script>
+      
+      <!-- scripts to include -->
+    <?php
+      include "script/pointcalculator-js.php";
+      include "script/dropdown-js.php";
+      include "script/darkbutton-js.php";
+    ?>
+
     </div>
   </body>
 </html>

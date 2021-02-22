@@ -773,8 +773,13 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
         </div>
       </div>
     </div>
-    <script src="JS/dropdown.js"></script>
-    <script src="JS/collapsible.js?v=2020-10-05"></script>
-    <script src="JS/darkbutton.js"></script>
+
+    <!-- scripts to include -->
+    <?php
+      include "script/collapsible-js.php";
+      include "script/dropdown-js.php";
+      include "script/darkbutton-js.php";
+    ?>
+
   </body>
 </html>

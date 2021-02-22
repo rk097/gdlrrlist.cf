@@ -54,8 +54,13 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
       <p>Click on a player's name for some additional information. It may take a second to load.</p>
       <p><a href = "pointcalculator.php" target = "_blank">Points Calculator</a></p>
     </div>
-    <script src="JS/leaderboardcalc.js?v=2020-11-03"></script>
-    <script src="JS/dropdown.js"></script>
-    <script src="JS/darkbutton.js"></script>
+
+    <!-- scripts to include -->
+    <?php
+      include "script/leaderboardcalc-js.php";
+      include "script/dropdown-js.php";
+      include "script/darkbutton-js.php";
+    ?>
+
   </body>
 </html>

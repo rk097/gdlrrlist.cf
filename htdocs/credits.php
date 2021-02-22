@@ -57,8 +57,13 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
         <li>nik. He taught me about MongoDB, which either that or firebase is something I'm going to implement in the future.</li>
       </ul> 
     </div>
-    <script src="JS/dropdown.js"></script>
-    <script src="JS/collapsible.js?v=2020-10-05"></script>
-    <script src="JS/darkbutton.js"></script>
+
+    <!-- scripts to include -->
+    <?php
+      include "script/collapsible-js.php";
+      include "script/dropdown-js.php";
+      include "script/darkbutton-js.php";
+    ?>
+
   </body>
 </html>

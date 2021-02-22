@@ -53,10 +53,15 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
       <h1 style = "text-align:center">Extended Demons List</h1>
       <p style = "text-align:center">All of these levels are still very hard, but they don't quite make the cut for the Top 100. They still award points, though, and basically function the same way as the Main List - however, for a new level to get added here, it needs to be more difficult than Final Epilogue.<br> Want to submit a record? Submit it <a href = "https://docs.google.com/forms/d/e/1FAIpQLSfpZDIHi6G47Es11l_DggbmoXHaJIGfFZQd-vbpq8tr1hEoQA/viewform?usp=sf_link" target = "_blank">here!</a></p>
     </div>
-    <script src="JS/collapsible.js?v=2020-10-05"></script>
-    <script src="JS/extended.js?v=2020-10-29"></script>
-    <script src="JS/dropdown.js"></script>
-    <script src="JS/videoresize.js"></script>
-    <script src="JS/darkbutton.js"></script>
+
+    <!-- scripts to include -->
+    <?php
+      include "script/collapsible-js.php";
+      include "script/extended-js.php";
+      include "script/dropdown-js.php";
+      include "script/videoresize-js.php";
+      include "script/darkbutton-js.php";
+    ?>
+
   </body>
 </html>
