@@ -27,30 +27,9 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta http-equiv="Expires" content="0" />
   </head>
   <body class = "<?php echo $themeClass; ?>">
-    <ul class = "nav">
-      <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a class="active-nav-item" href="changelog.php">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.php">Leaderboard</a></li>
-      <li class = "redir"><a href="61plus.php">61hz+ Levels</a></li>
-      <li class = "redir"><a href="extended.php">Extended List</a></li>
-      <li class = "redir"><a href="index.php">Main List</a></li>
-      <li class = "redir"><a href="homepage.php">About</a></li>
-      <li class = "titlebox">GD LRR Demon List</li>
-      <li>
-        <button onclick="dropMenu()" class="dropbtn">Go To...</button>
-        <div id="myDropdown" class="dropdown-content">
-          <a href="homepage.php">About</a>
-          <a href="index.php">Main List</a>
-          <a href="extended.php">Extended List</a>
-          <a href="61plus.php">61hz+ Levels</a>
-          <a href="leaderboard.php">Leaderboard</a>
-          <a class="active-nav-item" href="changelog.php">Changelog</a>
-          <a href = "#" class = "btn-toggle2">Color Switch</a>
-        </div>
-      </li>
-    </ul>
-    <strong>
-    </strong>
+
+  <?php include "nav.php" ?>
+
     <div id="levels-container"> 
         <h1 style = "text-align:center">Changelog</h1>
         <p style = "text-align:center">Every change that this list has ever experienced (after the creation of the Google Site), sorted by most recent at the top and least recent towards the bottom.</p>

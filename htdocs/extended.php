@@ -27,28 +27,9 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta http-equiv="Expires" content="0" />
   </head>
   <body class = "<?php echo $themeClass; ?>">
-   <ul class = "nav">
-      <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a href="changelog.php">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.php">Leaderboard</a></li>
-      <li class = "redir"><a href="61plus.php">61hz+ Levels</a></li>
-      <li class = "redir"><a class="active-nav-item" href="extended.php">Extended List</a></li>
-      <li class = "redir"><a href="index.php">Main List</a></li>
-      <li class = "redir"><a href="homepage.php">About</a></li>
-      <li class = "titlebox">GD LRR Demon List</li>
-      <li>
-        <button onclick="dropMenu()" class="dropbtn">Go To...</button>
-        <div id="myDropdown" class="dropdown-content">
-          <a href="homepage.php">About</a>
-          <a href="index.php">Main List</a>
-          <a class="active-nav-item" href="extended.php">Extended List</a>
-          <a href="61plus.php">61hz+ List</a>
-          <a href="leaderboard.php">Leaderboard</a>
-          <a href="changelog.php">Changelog</a>
-          <a href = "#" class = "btn-toggle2">Color Switch</a>
-        </div>
-      </li>
-    </ul>
+
+  <?php include "nav.php" ?>
+  
     <div id="levels-container"> 
       <h1 style = "text-align:center">Extended Demons List</h1>
       <p style = "text-align:center">All of these levels are still very hard, but they don't quite make the cut for the Top 100. They still award points, though, and basically function the same way as the Main List - however, for a new level to get added here, it needs to be more difficult than Final Epilogue.<br> Want to submit a record? Submit it <a href = "https://docs.google.com/forms/d/e/1FAIpQLSfpZDIHi6G47Es11l_DggbmoXHaJIGfFZQd-vbpq8tr1hEoQA/viewform?usp=sf_link" target = "_blank">here!</a></p>
