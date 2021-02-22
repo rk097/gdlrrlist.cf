@@ -24,21 +24,21 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   <body class = "<?php echo $themeClass; ?>">
     <ul class = "nav">
       <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a href="changelog.html">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>
-      <li class = "redir"><a href="extended.html">Extended List</a></li>
-      <li class = "redir"><a href="index.html">Main List</a></li>
-      <li class = "redir"><a href="homepage.html">About</a></li>
+      <li class = "redir"><a href="changelog.php">Changelog</a></li>
+      <li class = "redir"><a href="leaderboard.php">Leaderboard</a></li>
+      <li class = "redir"><a href="extended.php">Extended List</a></li>
+      <li class = "redir"><a href="index.php">Main List</a></li>
+      <li class = "redir"><a href="homepage.php">About</a></li>
       <li class = "titlebox">GD LRR Demon List</li>
       <li>
         <button onclick="dropMenu()" class="dropbtn">Go To...</button>
         <div id="myDropdown" class="dropdown-content">
-          <a href="homepage.html">About</a>
-          <a href="index.html">Main List</a>
-          <a href="extended.html">Extended List</a>
-          <a href="61plus.html">61hz+ Levels</a>
-          <a href="leaderboard.html">Leaderboard</a>
-          <a href="changelog.html">Changelog</a>
+          <a href="homepage.php">About</a>
+          <a href="index.php">Main List</a>
+          <a href="extended.php">Extended List</a>
+          <a href="61plus.php">61hz+ Levels</a>
+          <a href="leaderboard.php">Leaderboard</a>
+          <a href="changelog.php">Changelog</a>
           <a href = "#" class = "btn-toggle2">Color Switch</a>
         </div>
       </li>
@@ -83,7 +83,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
           </button>
           <div class = "content">
               <p dir="ltr">Progresses now are listed in descending order, with highest percent at the top of the list and lower percents towards the bottom.</p>
-              <p dir="ltr">I made an embedded points calculator tool which should help you determine how much points you will get after you beat something. Follow the prompts to use it, but watch <a href = "https://youtu.be/NkcEtpU6ppQ">this</a> video if you need extra help using it. Access it on the <a href = "leaderboard.html">leaderboard</a> page.</p>
+              <p dir="ltr">I made an embedded points calculator tool which should help you determine how much points you will get after you beat something. Follow the prompts to use it, but watch <a href = "https://youtu.be/NkcEtpU6ppQ">this</a> video if you need extra help using it. Access it on the <a href = "leaderboard.php">leaderboard</a> page.</p>
           </div>
         </div>
       </div>

@@ -15,8 +15,8 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta name="author" content="ryan9328">
     <meta name="keywords" content="ryan9328,official,geometry,dash,hardest,extreme,insane,demon,list,demonlist,hardest,levels,gmd,gd,typier,game,top,level,levels,player,players,geometry dash, LRR, 60hz, 60HZ, 75hz, 75HZ, geometry dash 60hz demonlist, GD 60hz list">
     <meta name="description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
-    <link href="/CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
-    <link href="/CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
+    <link href="CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
+    <link href="CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -33,22 +33,22 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   <body class = "<?php echo $themeClass; ?>">
     <ul class = "nav">
       <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a href="changelog.html">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>
-      <li class = "redir"><a href="61plus.html">61hz+ Levels</a></li>
-      <li class = "redir"><a href="extended.html">Extended List</a></li>
-      <li class = "redir"><a href="index.html">Main List</a></li>
-      <li class = "redir"><a class="active-nav-item" href="homepage.html">About</a></li>
+      <li class = "redir"><a href="changelog.php">Changelog</a></li>
+      <li class = "redir"><a href="leaderboard.php">Leaderboard</a></li>
+      <li class = "redir"><a href="61plus.php">61hz+ Levels</a></li>
+      <li class = "redir"><a href="extended.php">Extended List</a></li>
+      <li class = "redir"><a href="index.php">Main List</a></li>
+      <li class = "redir"><a class="active-nav-item" href="homepage.php">About</a></li>
       <li class = "titlebox">GD LRR Demon List</li>
       <li>
         <button onclick="dropMenu()" class="dropbtn">Go To...</button>
         <div id="myDropdown" class="dropdown-content">
-          <a class="active-nav-item" href="homepage.html">About</a>
-          <a href="index.html">Main List</a>
-          <a href="extended.html">Extended List</a>
-          <a href="61plus.html">61hz+ Levels</a>
-          <a href="leaderboard.html">Leaderboard</a>
-          <a href="changelog.html">Changelog</a>
+          <a class="active-nav-item" href="homepage.php">About</a>
+          <a href="index.php">Main List</a>
+          <a href="extended.php">Extended List</a>
+          <a href="61plus.php">61hz+ Levels</a>
+          <a href="leaderboard.php">Leaderboard</a>
+          <a href="changelog.php">Changelog</a>
           <a href = "#" class = "btn-toggle2">Color Switch</a>
         </div>
       </li>
@@ -220,10 +220,10 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
         </div>
       </div>
     </div>
-    <script src="/JS/dropdown.js"></script>
-    <script src="/JS/videoresize.js"></script>
-    <script src="/JS/collapsible.js?v=2020-10-05"></script>
-    <script src="/JS/collapsiblebig.js?v=2020-10-05"></script>
-    <script src="/JS/darkbutton.js"></script>
+    <script src="JS/dropdown.js"></script>
+    <script src="JS/videoresize.js"></script>
+    <script src="JS/collapsible.js?v=2020-10-05"></script>
+    <script src="JS/collapsiblebig.js?v=2020-10-05"></script>
+    <script src="JS/darkbutton.js"></script>
   </body>
 </html>

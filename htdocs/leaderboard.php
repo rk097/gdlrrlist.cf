@@ -15,10 +15,10 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta name="keywords" content="ryan9328,official,geometry,dash,hardest,extreme,insane,demon,list,demonlist,hardest,levels,gmd,gd,typier,game,top,level,levels,player,players,geometry dash, LRR, 60hz, 60HZ, 75hz, 75HZ, geometry dash 60hz demonlist, GD 60hz list">
     <meta name="description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
     <title>GD LRR Demon List</title>
-    <link href="/CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
-    <link href="/CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
-    <link href="/CSS/leaderboard.css?v=2020-10-29" rel="stylesheet" type="text/css" />
-    <link href="/CSS/playercards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
+    <link href="CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
+    <link href="CSS/leaderboard.css?v=2020-10-29" rel="stylesheet" type="text/css" />
+    <link href="CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
+    <link href="CSS/playercards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
@@ -29,31 +29,33 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   <body class = "<?php echo $themeClass; ?>">
     <ul class = "nav">
       <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a href="changelog.html">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>
-      <li class = "redir"><a href="extended.html">Extended List</a></li>
-      <li class = "redir"><a href="index.html">Main List</a></li>
-      <li class = "redir"><a href="homepage.html">About</a></li>
+      <li class = "redir"><a href="changelog.php">Changelog</a></li>
+      <li class = "redir"><a class="active-nav-item" href="leaderboard.php">Leaderboard</a></li>
+      <li class = "redir"><a href="61plus.php">61hz+ Levels</a></li>
+      <li class = "redir"><a href="extended.php">Extended List</a></li>
+      <li class = "redir"><a href="index.php">Main List</a></li>
+      <li class = "redir"><a href="homepage.php">About</a></li>
       <li class = "titlebox">GD LRR Demon List</li>
       <li>
         <button onclick="dropMenu()" class="dropbtn">Go To...</button>
         <div id="myDropdown" class="dropdown-content">
-          <a href="homepage.html">About</a>
-          <a href="index.html">Main List</a>
-          <a href="extended.html">Extended List</a>
-          <a href="61plus.html">61hz+ Levels</a>
-          <a href="leaderboard.html">Leaderboard</a>
-          <a href="changelog.html">Changelog</a>
+          <a href="homepage.php">About</a>
+          <a href="index.php">Main List</a>
+          <a href="extended.php">Extended List</a>
+          <a href="61plus.php">61hz+ Levels</a>
+          <a class="active-nav-item" href="leaderboard.php">Leaderboard</a>
+          <a href="changelog.php">Changelog</a>
           <a href = "#" class = "btn-toggle2">Color Switch</a>
-         </div>
+        </div>
       </li>
     </ul>
-    <div id = "calc" style = "text-align:center">
-      <h1>Points Calculator</h1>
-      <p>Follow the instructions on the prompts to use this tool. I also made a <a href = "https://youtu.be/NkcEtpU6ppQ" target = "_blank">video</a> explaining how to use it in a little more detail. The final calculated point value is at the bottom of the page.</p>
-      <script src="/JS/pointcalculator.js?v=2020-11-04"></script>
-      <script src="/JS/dropdown.js"></script>
-      <script src="/JS/darkbutton.js"></script>
+    <div id="leaderboard" style = "text-align:center"> 
+      <h1>Leaderboard</h1>
+      <p>Click on a player's name for some additional information. It may take a second to load.</p>
+      <p><a href = "pointcalculator.php" target = "_blank">Points Calculator</a></p>
     </div>
+    <script src="JS/leaderboardcalc.js?v=2020-11-03"></script>
+    <script src="JS/dropdown.js"></script>
+    <script src="JS/darkbutton.js"></script>
   </body>
 </html>

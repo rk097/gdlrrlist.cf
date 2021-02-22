@@ -15,9 +15,9 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta name="keywords" content="ryan9328,official,geometry,dash,hardest,extreme,insane,demon,list,demonlist,hardest,levels,gmd,gd,typier,game,top,level,levels,player,players,geometry dash, LRR, 60hz, 60HZ, 75hz, 75HZ, geometry dash 60hz demonlist, GD 60hz list">
     <meta name="description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
     <title>GD LRR Demon List</title>
-    <link href="/CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
-    <link href="/CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
-    <link href="/CSS/changelog.css?v=2020-10-05" rel="stylesheet" type="text/css" />
+    <link href="CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
+    <link href="CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
+    <link href="CSS/changelog.css?v=2020-10-05" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -29,22 +29,22 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   <body class = "<?php echo $themeClass; ?>">
     <ul class = "nav">
       <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a class="active-nav-item" href="changelog.html">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>
-      <li class = "redir"><a href="61plus.html">61hz+ Levels</a></li>
-      <li class = "redir"><a href="extended.html">Extended List</a></li>
-      <li class = "redir"><a href="index.html">Main List</a></li>
-      <li class = "redir"><a href="homepage.html">About</a></li>
+      <li class = "redir"><a class="active-nav-item" href="changelog.php">Changelog</a></li>
+      <li class = "redir"><a href="leaderboard.php">Leaderboard</a></li>
+      <li class = "redir"><a href="61plus.php">61hz+ Levels</a></li>
+      <li class = "redir"><a href="extended.php">Extended List</a></li>
+      <li class = "redir"><a href="index.php">Main List</a></li>
+      <li class = "redir"><a href="homepage.php">About</a></li>
       <li class = "titlebox">GD LRR Demon List</li>
       <li>
         <button onclick="dropMenu()" class="dropbtn">Go To...</button>
         <div id="myDropdown" class="dropdown-content">
-          <a href="homepage.html">About</a>
-          <a href="index.html">Main List</a>
-          <a href="extended.html">Extended List</a>
-          <a href="61plus.html">61hz+ Levels</a>
-          <a href="leaderboard.html">Leaderboard</a>
-          <a class="active-nav-item" href="changelog.html">Changelog</a>
+          <a href="homepage.php">About</a>
+          <a href="index.php">Main List</a>
+          <a href="extended.php">Extended List</a>
+          <a href="61plus.php">61hz+ Levels</a>
+          <a href="leaderboard.php">Leaderboard</a>
+          <a class="active-nav-item" href="changelog.php">Changelog</a>
           <a href = "#" class = "btn-toggle2">Color Switch</a>
         </div>
       </li>
@@ -54,7 +54,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <div id="levels-container"> 
         <h1 style = "text-align:center">Changelog</h1>
         <p style = "text-align:center">Every change that this list has ever experienced (after the creation of the Google Site), sorted by most recent at the top and least recent towards the bottom.</p>
-        <p style = "text-align:center">Looking for the <a href = "sitechanges.html" target = "_blank">website changelog?</a></p>
+        <p style = "text-align:center">Looking for the <a href = "sitechanges.php" target = "_blank">website changelog?</a></p>
       <div class = "column">
             <div class = "card">
             <button class = "collapsible">
@@ -119,7 +119,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
             </button>
                 <div class = "content">
                    <p dir="ltr"><strong>Frightful Melody</strong> has been placed at #85, above <strong>Heartbeat</strong> and below <strong>Fingerdash v3</strong>. This pushes <i>Alcatraz</i> onto the Extended List.</p>
-                   <p dir="ltr"><i>Virtual Collapse</i> has been placed at #116, above <i>SUBVERSIVE</i> and below <i>Napalm</i>.</i>
+                    <p dir="ltr"><i>Virtual Collapse</i> has been placed at #116, above <i>SUBVERSIVE</i> and below <i>Napalm</i>.</i></p>
                     <p dir="ltr">Want Me was not placed this update because of a lack of a list percentage.</p>
                 </div>
             </div>
@@ -773,8 +773,8 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
         </div>
       </div>
     </div>
-    <script src="/JS/dropdown.js"></script>
-    <script src="/JS/collapsible.js?v=2020-10-05"></script>
-    <script src="/JS/darkbutton.js"></script>
+    <script src="JS/dropdown.js"></script>
+    <script src="JS/collapsible.js?v=2020-10-05"></script>
+    <script src="JS/darkbutton.js"></script>
   </body>
 </html>
