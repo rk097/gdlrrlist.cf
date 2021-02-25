@@ -13,7 +13,7 @@ fetch("/JS/extended.json")
 function appendData(data) {
   let passedFinalEpilogue = false;
   let allLevels = document.getElementById("levels-container");
-  let counter = 101;
+  let counter = 151;
   let removedCount = 0;
   for (const key in data) {
     // link up the object
