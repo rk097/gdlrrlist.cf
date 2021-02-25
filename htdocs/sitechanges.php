@@ -32,6 +32,19 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
         <div class = "card">
           <button class = "collapsible">
             <div class = "title">
+              <h3 class = "date">February 25, 2021 (v1.1.1)</h3>
+            </div>
+          </button>
+          <div class = "content">
+              <p dir="ltr">Some pretty major changes back-end wise, but from the viewer's perspective all that really changed is bugfixes.</p>
+              <p dir="ltr">Sponsored by Hikudo and PHP</p>
+          </div>
+        </div>
+      </div>
+      <div class = "column">
+        <div class = "card">
+          <button class = "collapsible">
+            <div class = "title">
               <h3 class = "date">February 19, 2021 (v1.1.0)</h3>
             </div>
           </button>
