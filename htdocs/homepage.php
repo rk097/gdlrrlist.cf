@@ -196,7 +196,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
               <li>ItoPopcorn</li>
               <li>Coopersuper</li>
             </ul>
-            <p>And finally, a very special thank you to jack L, Vink, stadust, NiknotNoob, and ssamosa211, who all helped me with the site itself. I especially want to thank jack L, who taught me all the javascript and json-related things that I know now which I used to build the backend for the site that you are seeing today. Oh and of course W3Schools, because that website makes learning HTML and CSS much quicker.</p>
+            <p>And finally, a very special thank you to jack L, Vink, stadust, NiknotNoob, ssamosa211, and Hikudo who all helped me with the site itself. I especially want to thank jack L, who taught me all the javascript and json-related things that I know now which I used to build the backend for the site that you are seeing today. Oh and of course W3Schools, because that website makes learning HTML and CSS much quicker.</p>
             <h4 style = "text-align:center">Once again, this list would not have been possible without all of the people mentioned above, so we sincerely thank you guys for your support.</h4>
             <p style = "text-align:right">-ryan9328</p>
           </div>
