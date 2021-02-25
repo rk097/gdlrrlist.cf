@@ -1,4 +1,7 @@
 <?php
+session_start();
+$_SESSION['active-nav'] = 'extended';
+
 $themeClass = '';
 if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   $themeClass = 'dark-theme';
@@ -15,9 +18,9 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta name="keywords" content="ryan9328,official,geometry,dash,hardest,extreme,insane,demon,list,demonlist,hardest,levels,gmd,gd,typier,game,top,level,levels,player,players,geometry dash, LRR, 60hz, 60HZ, 75hz, 75HZ, geometry dash 60hz demonlist, GD 60hz list">
     <meta name="description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
     <title>GD LRR Demon List</title>
-    <link href="/CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
-    <link href="/CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
-    <link href="/CSS/list.css?v=2020-10-29" rel="stylesheet" type="text/css" />
+    <link href="CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
+    <link href="CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
+    <link href="CSS/list.css?v=2020-10-29" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -27,36 +30,22 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta http-equiv="Expires" content="0" />
   </head>
   <body class = "<?php echo $themeClass; ?>">
-   <ul class = "nav">
-      <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a href="changelog.html">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>
-      <li class = "redir"><a href="61plus.html">61hz+ Levels</a></li>
-      <li class = "redir"><a class="active-nav-item" href="extended.html">Extended List</a></li>
-      <li class = "redir"><a href="index.html">Main List</a></li>
-      <li class = "redir"><a href="homepage.html">About</a></li>
-      <li class = "titlebox">GD LRR Demon List</li>
-      <li>
-        <button onclick="dropMenu()" class="dropbtn">Go To...</button>
-        <div id="myDropdown" class="dropdown-content">
-          <a href="homepage.html">About</a>
-          <a href="index.html">Main List</a>
-          <a class="active-nav-item" href="extended.html">Extended List</a>
-          <a href="61plus.html">61hz+ List</a>
-          <a href="leaderboard.html">Leaderboard</a>
-          <a href="changelog.html">Changelog</a>
-          <a href = "#" class = "btn-toggle2">Color Switch</a>
-        </div>
-      </li>
-    </ul>
+
+  <?php include "nav.php" ?>
+  
     <div id="levels-container"> 
       <h1 style = "text-align:center">Extended Demons List</h1>
       <p style = "text-align:center">All of these levels are still very hard, but they don't quite make the cut for the Top 100. They still award points, though, and basically function the same way as the Main List - however, for a new level to get added here, it needs to be more difficult than Final Epilogue.<br> Want to submit a record? Submit it <a href = "https://docs.google.com/forms/d/e/1FAIpQLSfpZDIHi6G47Es11l_DggbmoXHaJIGfFZQd-vbpq8tr1hEoQA/viewform?usp=sf_link" target = "_blank">here!</a></p>
     </div>
-    <script src="/JS/collapsible.js?v=2020-10-05"></script>
-    <script src="/JS/extended.js?v=2020-10-29"></script>
-    <script src="/JS/dropdown.js"></script>
-    <script src="/JS/videoresize.js"></script>
-    <script src="/JS/darkbutton.js"></script>
+
+    <!-- scripts to include -->
+    <?php
+      include "scripts/collapsible-js.php";
+      include "scripts/extended-js.php";
+      include "scripts/dropdown-js.php";
+      include "scripts/videoresize-js.php";
+      include "scripts/darkbutton-js.php";
+    ?>
+
   </body>
 </html>

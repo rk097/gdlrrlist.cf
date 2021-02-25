@@ -10,9 +10,9 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>GD LRR Demon List</title>
-    <link href="/CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
-    <link href="/CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
-    <link href="/CSS/changelog.css?v=2020-10-05" rel="stylesheet" type="text/css" />
+    <link href="CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
+    <link href="CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
+    <link href="CSS/changelog.css?v=2020-10-05" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -22,29 +22,9 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta http-equiv="Expires" content="0" />
   </head>
   <body class = "<?php echo $themeClass; ?>">
-    <ul class = "nav">
-      <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a href="changelog.html">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>
-      <li class = "redir"><a href="61plus.html">61hz+ Levels</a></li>
-      <li class = "redir"><a href="extended.html">Extended List</a></li>
-      <li class = "redir"><a href="index.html">Main List</a></li>
-      <li class = "redir"><a href="homepage.html">About</a></li>
-      <li class = "titlebox">GD LRR Demon List</li>
-      <li>
-        <button onclick="dropMenu()" class="dropbtn">Go To...</button>
-        <div id="myDropdown" class="dropdown-content">
-          <a href="homepage.html">About</a>
-          <a href="index.html">Main List</a>
-          <a href="extended.html">Extended List</a>
-          <a href="leaderboard.html">Leaderboard</a>
-          <a href="changelog.html">Changelog</a>
-          <a href = "#" class = "btn-toggle2">Color Switch</a>
-        </div>
-      </li>
-    </ul>
-    <strong>
-    </strong>
+    
+  <?php include "nav.php" ?>
+
     <div id="levels-container"> 
       <h1>Credits</h1>
       <p>Congrats! You found a hidden page! Good for you. Here I, ryan, would like to credit some people who helped with development, either directly or indirectly.</p>
@@ -57,8 +37,13 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
         <li>nik. He taught me about MongoDB, which either that or firebase is something I'm going to implement in the future.</li>
       </ul> 
     </div>
-    <script src="/JS/dropdown.js"></script>
-    <script src="/JS/collapsible.js?v=2020-10-05"></script>
-    <script src="/JS/darkbutton.js"></script>
+
+    <!-- scripts to include -->
+    <?php
+      include "scripts/collapsible-js.php";
+      include "scripts/dropdown-js.php";
+      include "scripts/darkbutton-js.php";
+    ?>
+
   </body>
 </html>

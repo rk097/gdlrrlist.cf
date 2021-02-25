@@ -1,4 +1,4 @@
-fetch("/JS/extended.json")
+fetch("JS/extended.json")
   .then(function (response) {
     return response.json();
   })

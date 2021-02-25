@@ -1,4 +1,4 @@
-fetch("/JS/61plus.json")
+fetch("JS/61plus.json")
   .then(function (response) {
     return response.json();
   })

@@ -1,5 +1,5 @@
 var levelPos = [];
-  fetch("/JS/levellist.json")
+  fetch("JS/levellist.json")
   .then(function (response) {
     return response.json();
   })
@@ -19,7 +19,7 @@ var levelPos = [];
     console.log("A");
   })
   .then(function (dataThree){
-    fetch("/JS/mainlist.json")
+    fetch("JS/mainlist.json")
     .then(function (response){
       return response.json();
     })
@@ -36,7 +36,7 @@ var levelPos = [];
       console.log("B");
     })
     .then(function (dataFour){
-      fetch("/JS/leaderboard.json")
+      fetch("JS/leaderboard.json")
       .then(function (response) {
         return response.json();
       })
@@ -258,7 +258,7 @@ function appendDataTwo(dataTwo) {
 }
 
 function display(thisuser){
-fetch("/JS/leaderboard.json")
+fetch("JS/leaderboard.json")
   .then(function (response) {
     return response.json();
   })

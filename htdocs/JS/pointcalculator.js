@@ -1,6 +1,6 @@
   var levelPos = [];
   var allPersonArray = [];
-fetch("/JS/levellist.json")
+fetch("JS/levellist.json")
 .then(function (response) {
     return response.json();
 })
@@ -24,7 +24,7 @@ fetch("/JS/levellist.json")
 
 function loadAllPlayers(){
   //console.log("Loaded");
-  fetch("/JS/leaderboard.json")
+  fetch("JS/leaderboard.json")
   .then(function (response){
     //console.log("Fetched");
     return response.json();
@@ -50,7 +50,7 @@ function loadAllPlayers(){
 }
 
 function run(){
-  fetch("/JS/mainlist.json")
+  fetch("JS/mainlist.json")
   .then(function (response){
     //console.log("retrieved");
     return response.json();

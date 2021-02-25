@@ -22,29 +22,9 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta http-equiv="Expires" content="0" />
   </head>
   <body class = "<?php echo $themeClass; ?>">
-    <ul class = "nav">
-      <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a href="changelog.html">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>
-      <li class = "redir"><a href="extended.html">Extended List</a></li>
-      <li class = "redir"><a href="index.html">Main List</a></li>
-      <li class = "redir"><a href="homepage.html">About</a></li>
-      <li class = "titlebox">GD LRR Demon List</li>
-      <li>
-        <button onclick="dropMenu()" class="dropbtn">Go To...</button>
-        <div id="myDropdown" class="dropdown-content">
-          <a href="homepage.html">About</a>
-          <a href="index.html">Main List</a>
-          <a href="extended.html">Extended List</a>
-          <a href="61plus.html">61hz+ Levels</a>
-          <a href="leaderboard.html">Leaderboard</a>
-          <a href="changelog.html">Changelog</a>
-          <a href = "#" class = "btn-toggle2">Color Switch</a>
-        </div>
-      </li>
-    </ul>
-    <strong>
-    </strong>
+
+  <?php include "nav.php" ?>
+  
     <div id="levels-container"> 
       <h1 style = "text-align:center">Website Changelog</h1>
       <p style = "text-align:center">Here, I'll be noting down any changes to the website that take place. Since most people probably won't care, I won't add this in the directory, so it'll be a bit difficult to access.</p>
@@ -83,7 +63,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
           </button>
           <div class = "content">
               <p dir="ltr">Progresses now are listed in descending order, with highest percent at the top of the list and lower percents towards the bottom.</p>
-              <p dir="ltr">I made an embedded points calculator tool which should help you determine how much points you will get after you beat something. Follow the prompts to use it, but watch <a href = "https://youtu.be/NkcEtpU6ppQ">this</a> video if you need extra help using it. Access it on the <a href = "leaderboard.html">leaderboard</a> page.</p>
+              <p dir="ltr">I made an embedded points calculator tool which should help you determine how much points you will get after you beat something. Follow the prompts to use it, but watch <a href = "https://youtu.be/NkcEtpU6ppQ">this</a> video if you need extra help using it. Access it on the <a href = "leaderboard.php">leaderboard</a> page.</p>
           </div>
         </div>
       </div>
@@ -148,8 +128,13 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
         </div>
     </div>
     </div>
-    <script src="/JS/dropdown.js"></script>
-    <script src="/JS/collapsible.js?v=2020-10-05"></script>
-    <script src="/JS/darkbutton.js"></script>
+
+    <!-- scripts to include -->
+    <?php
+      include "scripts/dropdown-js.php";
+      include "scripts/dropdown-js.php";
+      include "scripts/darkbutton-js.php";
+    ?>
+
   </body>
 </html>
