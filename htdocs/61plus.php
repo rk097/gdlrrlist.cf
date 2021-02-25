@@ -1,8 +1,12 @@
 <?php
+session_start();
+$_SESSION['active-nav'] = '61plus';
+
 $themeClass = '';
 if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   $themeClass = 'dark-theme';
 }
+
 ?>
 <!DOCTYPE html>
 <html>

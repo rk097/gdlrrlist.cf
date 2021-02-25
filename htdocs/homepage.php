@@ -1,4 +1,7 @@
 <?php
+session_start();
+$_SESSION['active-nav'] = 'homepage';
+
 $themeClass = '';
 if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   $themeClass = 'dark-theme';
