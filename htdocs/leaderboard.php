@@ -20,7 +20,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <title>GD LRR Demon List</title>
     <link href="CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
     <link href="CSS/leaderboard.css?v=2020-10-29" rel="stylesheet" type="text/css" />
-    <link href="CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
+    <link href="CSS/nav.css?v=2021-2-25" rel="stylesheet" type="text/css" />
     <link href="CSS/playercards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>

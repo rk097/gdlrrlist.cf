@@ -14,11 +14,15 @@
   float: right;
 }
 
-.nav a {
+.nav a:not(.titlebox-href) {
   display: block;
   color: white;
   text-align: center;
   padding: 18px 16px;
+  text-decoration: none;
+}
+
+.titlebox-href {
   text-decoration: none;
 }
 
@@ -55,8 +59,8 @@ body.dark-theme .active-nav-item{
 }
 
 @media screen and (max-width: 1072px) {
-  .nav a {
-    display:none;
+  .nav a:not(.titlebox-href) {
+    display: none;
   }
   .dropbtn{
     display: inline;
