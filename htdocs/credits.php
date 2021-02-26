@@ -11,7 +11,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta name="viewport" content="width=device-width">
     <title>GD LRR Demon List</title>
     <link href="CSS/levelcards.css?v=2021-02-26" rel="stylesheet" type="text/css" />
-    <link href="CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
+    <link href="CSS/nav.css?v=2021-2-25" rel="stylesheet" type="text/css" />
     <link href="CSS/changelog.css?v=2020-10-05" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
