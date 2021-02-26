@@ -235,7 +235,7 @@ function appendDataTwo(dataTwo) {
     if(i == 0 || (i == zeroindex - 1 && allPersonArray[i].score != allPersonArray[i-1].score)){
       curRank += tiecount+1;
     }
-    else if(i != 0 && allPersonArray[i].score != allPersonArray[i + 1].score && allPersonArray[i].score != allPersonArray[i - 1].score){
+    else if(i != 0 && i < zeroindex-1 && allPersonArray[i].score && allPersonArray[i].score != allPersonArray[i + 1].score && allPersonArray[i].score != allPersonArray[i - 1].score){
       curRank += tiecount + 1;
       tiecount = 0;
     }else if(allPersonArray[i].score != allPersonArray[i-1].score && allPersonArray[i].score == allPersonArray[i+1].score){

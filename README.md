@@ -1,4 +1,6 @@
 # gdlrrlist.cf
+[![Run on Repl.it](https://repl.it/badge/github/rk097/gdlrrlist.cf)](https://repl.it/github/rk097/gdlrrlist.cf)
+
 This is the full code repository for the LRR List website. Have a look around!
 
 For anyone interested in opening a pull request for a js or css file:

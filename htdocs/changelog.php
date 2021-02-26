@@ -41,6 +41,21 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
             <div class = "card">
             <button class = "collapsible">
                 <div class = "title">
+                    <h3 class = "date">February 24, 2021 Changes:</h3>
+                </div>
+            </button>
+                <div class = "content">
+                    <p dir="ltr"><strong>Aronia</strong> has been placed at #1, above <strong>Erebus</strong> with a list requirement of 61%. This pushes <i>Allegiance</i> onto the Extended List and knocks down Erebus from the #1 spot after 8 months! Congrats Lavaclaw!</p>
+                   <p dir="ltr">Following a nerfdate, <strong>Just Dance</strong> has been lowered from #45 to #47, above <strong>Atmosphere</strong> and below <strong>ATMarbl</strong>.</p>
+                    <p dir="ltr"><strong>Tempest Tornado</strong> has been placed at #42, above <strong>Prismatic Haze</strong> and below <strong>Fusion Z</strong> with a list requirement of 66%. This pushes <i>Deception Dive</i> onto the Extended List.</p>
+                    <p dir="ltr"><i>Precipitance</i> has been placed at #118, above <i>Falling Up</i> and below <i>ICE Carbon Diablo X</i>.</p>
+                </div>
+            </div>
+        </div>
+      <div class = "column">
+            <div class = "card">
+            <button class = "collapsible">
+                <div class = "title">
                     <h3 class = "date">February 5, 2021 Changes:</h3>
                 </div>
             </button>

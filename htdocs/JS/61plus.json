@@ -1,4 +1,21 @@
 {
+        "Dark Flare": {
+        "name": "Dark Flare",
+        "ytcode": "Pb8GVDjiiQQ",
+        "minimumPercent": 57,
+        "ranking": "around Bloodbath",
+        "publisher": "KeiAs",
+        "list": [
+            {
+                "name": "wwdonut",
+                "link": "https://www.youtube.com/watch?v=rKfX2Ucxaag",
+                "hertz": "75"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
+    },
         "Low Death": {
         "name": "Low Death",
         "ytcode": "GSK4zhxSvLs",
