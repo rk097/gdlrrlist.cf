@@ -98,12 +98,10 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
               <ul>
                 <li>blankz</li>
                 <li>DaMathMan</li>
-                <li>Ikarya</li>
-                <li>SubZeroV</li>
                 <li>Edant</li>
                 <li>FrostBurn</li>
-                <li>Thonyell</li>
-                <li>ViperVenom95</li>
+                <li>Ikarya</li>
+                <li>SubZeroV</li>
               </ul>
               <li><h4>List Helpers:</h4></li>
               <ul>
@@ -112,6 +110,8 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
                 <li>JudeRB</li>
                 <li>Liizoks</li>
                 <li>owoZ1rc0n</li>
+                <li>Thonyell</li>
+                <li>ViperVenom95</li>
               </ul>
               <li><h4>Server Admins:</h4></li>
               <ul>
