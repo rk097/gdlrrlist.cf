@@ -39,7 +39,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
 
     <div>
       <h1 style = "text-align:center">404 NOT FOUND</h1>
-      <p style = "text-align:center">It seems like you entered a wrong URL, you can <a href="https://gdlrrlist.cf/homepage.php">comeback to the homepage.</a> <br /><br />If you entered the URL manually, please check your spelling.</p>
+      <p style = "text-align:center">It seems like you entered a wrong URL, you can <a href="homepage.php">comeback to the homepage.</a> <br /><br />If you entered the URL manually, please check your spelling.</p>
     </div>
 
 
