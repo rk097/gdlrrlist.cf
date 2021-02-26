@@ -10,7 +10,7 @@
     <li>
     <button onclick="dropMenu()" class="dropbtn">Go To...</button>
         <div id="myDropdown" class="dropdown-content">
-            <a class="nav-buttons <?php if($_SESSION['active-nav'] == "changelog"){echo 'active-nav-item';}?>" href="homepage.php">About</a>
+            <a class="nav-buttons <?php if($_SESSION['active-nav'] == "homepage"){echo 'active-nav-item';}?>" href="homepage.php">About</a>
             <a class="nav-buttons <?php if($_SESSION['active-nav'] == "index"){echo 'active-nav-item';}?>" href="index.php">Main List</a>
             <a class="nav-buttons <?php if($_SESSION['active-nav'] == "extended"){echo 'active-nav-item';}?>" href="extended.php">Extended List</a>
             <a class="nav-buttons <?php if($_SESSION['active-nav'] == "61plus"){echo 'active-nav-item';}?>" href="61plus.php">61hz+ levels</a>
