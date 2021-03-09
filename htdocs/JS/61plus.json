@@ -101,5 +101,22 @@
         "progresses": [
             "none"
         ]
+    },
+        "Volume": {
+        "name": "Volume",
+        "ytcode": "SdPqLKYp-Uc",
+        "minimumPercent": 67,
+        "ranking": "Around Breakout",
+        "publisher": "Metalface221",
+        "list": [
+            {
+                "name": "Zadrott",
+                "link": "https://youtu.be/Tn2jg1SiBa0",
+                "hertz": "75"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
     }
 }
