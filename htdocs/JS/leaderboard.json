@@ -100,7 +100,9 @@
             "Quest for Perfection",
             "Excessive Compliment",
             "Photovoltaic",
-            "Final Epilogue"
+            "Final Epilogue",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
         "progs": [
             {
@@ -139,7 +141,8 @@
             "Blade of Justice",
             "The Flawless",
             "Artificial Ascent",
-            "Idols"
+            "Idols",
+            "The Ultimate Phase"
         ],
         "progs": [
             {
@@ -198,7 +201,8 @@
             "Glacial Torrent",
             "Misty Mountains",
             "Reverence",
-            "Conical Depression"
+            "Conical Depression",
+            "The Ultimate Phase"
         ],
         "progs": [
             {
@@ -305,7 +309,9 @@
             "8o X",
             "Freedom08",
             "Misty Mountains",
-            "Conical Depression"
+            "Conical Depression",
+            "Epsilon",
+            "Deception Dive"
         ],
         "progs": [
             {
@@ -315,6 +321,10 @@
             {
                 "name": "kowareta",
                 "percent": 61
+            },
+            {
+                "name": "Erebus",
+                "percent": 62
             }
         ]
     },
@@ -328,7 +338,9 @@
             "Plasma Pulse III",
             "Hatred",
             "Retention",
-            "Black Blizzard"
+            "Black Blizzard",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -403,7 +415,8 @@
             "Niflheim",
             "Cataclysm",
             "Frizzantino Vibes",
-            "Electrosonic"
+            "Electrosonic",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -422,7 +435,8 @@
             "Cataclysm",
             "Retention",
             "Falling Up",
-            "AcropoliX"
+            "AcropoliX",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -459,7 +473,8 @@
             "Epsilon",
             "Violently X",
             "Glacial Torrent",
-            "Heartbeat"
+            "Heartbeat",
+            "The Ultimate Phase"
         ],
         "progs": [
             {
@@ -629,7 +644,8 @@
             "Gammaray",
             "Cosmic Calamity",
             "Quest for Perfection",
-            "Excessive Compliment"
+            "Excessive Compliment",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -791,7 +807,8 @@
             "Night Party",
             "Want Me",
             "Disentombed",
-            "Unearthed"
+            "Unearthed",
+            "Crimson Clutter"
         ],
         "progs": [
             {
@@ -811,7 +828,8 @@
             "ICE Carbon Diablo X",
             "Incipient",
             "Novalis",
-            "Plasma Pulse III"
+            "Plasma Pulse III",
+            "The Ultimate Phase"
         ],
         "progs": [
            {
@@ -844,7 +862,9 @@
             "Retention",
             "Falling Up",
             "Duelo Maestro",
-            "Cosmic Calamity"
+            "Cosmic Calamity",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -951,7 +971,9 @@
             "Incipient",
             "Duelo Maestro",
             "Hypersonic",
-            "Photovoltaic"
+            "Photovoltaic",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -1008,6 +1030,10 @@
             {
                 "name": "Epsilon",
                 "percent": 82
+            },
+            {
+                "name": "Freedom08",
+                "percent": 51
             }
         ]
     },
@@ -1018,7 +1044,9 @@
             "Cataclysm",
             "ICE Carbon Diablo X",
             "Duelo Maestro",
-            "Cosmic Calamity"
+            "Cosmic Calamity",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -1069,7 +1097,8 @@
             "Super Probably Level",
             "Artificial Dream",
             "Hypersonic",
-            "Aronia"
+            "Aronia",
+            "Acu"
         ],
         "progs": [
             {
@@ -1079,6 +1108,10 @@
             {
                 "name": "Black Blizzard",
                 "percent": 68
+            },
+            {
+                "name": "Erebus",
+                "percent": 60
             }
         ]
     },
@@ -1172,7 +1205,8 @@
             "Aftermath",
             "The Hell Factory",
             "ICE Carbon Diablo X",
-            "Aurora"
+            "Aurora",
+            "Precipitance"
         ],
         "progs": [
             {
@@ -1269,10 +1303,7 @@
             "Elliptic Curve"
         ],
         "progs": [
-            {
-				"name":"Freedom08",
-				"percent":97
-			}
+  "none"
         ]
     },
     "Kkbleeblob": {
@@ -1324,7 +1355,8 @@
             "A Bizarre Phantasm",
             "Niflheim",
             "Retention",
-            "Duelo Maestro"
+            "Duelo Maestro",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -1345,7 +1377,8 @@
             "The Hell Dignity",
             "ICE Carbon Diablo X",
             "Hypersonic",
-            "Excessive Compliment"
+            "Excessive Compliment",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -1356,7 +1389,8 @@
             "Betrayal of Fate",
             "Plasma Pulse III",
             "Niflheim",
-            "Retention"
+            "Retention",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -1369,7 +1403,8 @@
             "Novalis",
             "CYCLONE",
             "Retention",
-            "Electrosonic"
+            "Electrosonic",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -1417,7 +1452,9 @@
         "levels": [
             "A Bizarre Phantasm",
             "Cataclysm",
-            "Falling Up"
+            "Falling Up",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -1463,7 +1500,8 @@
             "Hypersonic",
             "Cosmic Calamity",
             "Quest for Perfection",
-            "Photovoltaic"
+            "Photovoltaic",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -1487,7 +1525,8 @@
             "Cataclysm",
             "Allegiance",
             "Hypersonic",
-            "Quest for Perfection"
+            "Quest for Perfection",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -1563,7 +1602,8 @@
             "Excessive Compliment",
             "Photovoltaic",
             "Final Epilogue",
-            "MELTDOWN"
+            "MELTDOWN",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -1600,7 +1640,8 @@
             "Incipient",
             "Hypersonic",
             "Matilda the Machine",
-            "Excessive Compliment"
+            "Excessive Compliment",
+            "Zettabyte"
         ],
         "progs": [
             {
@@ -1673,7 +1714,8 @@
             "Aftermath",
             "Artificial Ascent",
             "Frightful Melody",
-            "Bloodbath"
+            "Bloodbath",
+            "The Ultimate Phase"
         ],
         "progs": [
             {
@@ -1843,7 +1885,8 @@
             "CYCLONE",
             "Retention",
             "AcropoliX",
-            "Hypersonic"
+            "Hypersonic",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -1920,7 +1963,8 @@
     "Mullsy": {
         "levels": [
             "The Hell Zone",
-            "AcropoliX"
+            "AcropoliX",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -2011,7 +2055,8 @@
             "The Hell Factory",
             "Plasma Pulse III",
             "Cataclysm",
-            "Duelo Maestro"
+            "Duelo Maestro",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -2094,7 +2139,8 @@
             "Niflheim",
             "Retention",
             "Duelo Maestro",
-            "Hypersonic"
+            "Hypersonic",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -2103,7 +2149,8 @@
     "Tixi Martinex": {
         "levels": [
             "The Hell Factory",
-            "ICE Carbon Diablo X"
+            "ICE Carbon Diablo X",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -2177,6 +2224,10 @@
             {
                 "name": "The Hell Field",
                 "percent": 71
+            },
+            {
+                "name": "Tempest Tornado",
+                "percent": 72
             }
         ]
     },
@@ -2211,7 +2262,9 @@
     },
     "Smokes": {
         "levels": [
-            "Plasma Pulse III"
+            "Plasma Pulse III",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
         "progs": [
             {
@@ -2272,7 +2325,8 @@
     "xMrAngel": {
         "levels": [
             "Plasma Pulse III",
-            "SUBVERSIVE"
+            "SUBVERSIVE",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -2288,7 +2342,9 @@
             "Retention",
             "ICE Carbon Diablo X",
             "Incipient",
-            "Hypersonic"
+            "Hypersonic",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -2296,7 +2352,8 @@
     },
     "Spearmint / Latios": {
         "levels": [
-            "Plasma Pulse III"
+            "Plasma Pulse III",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -2348,7 +2405,8 @@
             "SUBVERSIVE",
             "Duelo Maestro",
             "Hypersonic",
-            "Excessive Compliment"
+            "Excessive Compliment",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -2440,7 +2498,8 @@
         "levels": [
             "Plasma Pulse III",
             "Twisted Tranquility",
-            "Novalis"
+            "Novalis",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -2483,10 +2542,20 @@
             "Hypersonic",
             "Cosmic Calamity",
             "Quest for Perfection",
-            "Excessive Compliment"
+            "Excessive Compliment",
+            "Crimson Clutter",
+            "Cadrega Mode",
+            "Uprise",
+            "Triple Six",
+            "ATMarbl",
+            "Marathon",
+            "The Ultimate Phase"
         ],
         "progs": [
-            "none"
+           {
+            "name": "Freedom08",
+            "percent": 62
+            }
         ]
     },
     "jbmoon [IG]": {
@@ -2643,7 +2712,8 @@
             "Incipient",
             "Night Party",
             "SUBVERSIVE",
-            "Thanatophobia"
+            "Thanatophobia",
+            "Fusion Z"
         ],
         "progs": [
             "none"
@@ -2757,7 +2827,9 @@
             "Deception Dive",
             "Allegiance",
             "Night Party",
-            "Hypersonic"
+            "Hypersonic",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -2902,7 +2974,8 @@
             "Excessive Compliment",
             "Misty Mountains",
             "INNARDS",
-            "Heat Wave"
+            "Heat Wave",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -2916,7 +2989,8 @@
             "Incipient",
             "Gammaray",
             "Cosmic Calamity",
-            "Photovoltaic"
+            "Photovoltaic",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -2993,7 +3067,8 @@
     },
     "Agaloth": {
         "levels": [
-            "The Flawless"
+            "The Flawless",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -3004,7 +3079,8 @@
             "The Flawless",
             "Heartbeat",
             "Gammaray",
-            "ICE Carbon Diablo X"
+            "ICE Carbon Diablo X",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -3045,7 +3121,8 @@
             "The Hell Zone",
             "Incipient",
             "Glide",
-            "Faith"
+            "Faith",
+            "Cadrega Mode"
         ],
         "progs": [
             {
@@ -3359,7 +3436,9 @@
             "Excessive Compliment",
             "Twisted Tranquility",
             "Aurora",
-            "Novalis"
+            "Novalis",
+            "Incipient",
+            "Thunder Alphabet"
         ],
         "progs": [
             "none"
@@ -3370,7 +3449,10 @@
             "Marathon"
         ],
         "progs": [
-            "none"
+            {
+             "name": "A Bizarre Phantasm",
+             "percent": 60
+            }
         ]
     },
     "Silverdynamix": {
@@ -3398,12 +3480,17 @@
             "ICE Carbon Diablo X",
             "SUBVERSIVE",
             "Bloodbath",
-            "Aftermath"
+            "Aftermath",
+            "The Ultimate Phase"
         ],
         "progs": [
             {
                 "name": "Athanatos",
                 "percent": 71
+            },
+            {
+                "name": "Red World Rebirth",
+                "percent": 73
             }
         ]
     },
@@ -3457,7 +3544,14 @@
             "Matilda the Machine"
         ],
         "progs": [
-            "none"
+            {
+                "name":"Belloq",
+                "percent":57
+            },
+            {
+                "name":"Aurora",
+                "percent":95
+            }
         ]
     },
     "TheFakeFlame": {
@@ -3593,7 +3687,8 @@
         "levels": [
             "Heartbeat",
             "AcropoliX",
-            "Duelo Maestro"
+            "Duelo Maestro",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -3828,7 +3923,8 @@
         "levels": [
             "Cataclysm",
             "ICE Carbon Diablo X",
-            "Hypersonic"
+            "Hypersonic",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -3840,7 +3936,8 @@
             "Retention",
             "ICE Carbon Diablo X",
             "Hypersonic",
-            "Quest for Perfection"
+            "Quest for Perfection",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -3865,7 +3962,8 @@
     },
     "Rain": {
         "levels": [
-            "Cataclysm"
+            "Cataclysm",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -3882,7 +3980,8 @@
     "EroGamer": {
         "levels": [
             "Cataclysm",
-            "Quest for Perfection"
+            "Quest for Perfection",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -3907,7 +4006,8 @@
             "Sky Tech",
             "Hypersonic",
             "Quest for Perfection",
-            "Photovoltaic"
+            "Photovoltaic",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -3917,7 +4017,8 @@
         "levels": [
             "Cataclysm",
             "Retention",
-            "Excessive Compliment"
+            "Excessive Compliment",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -3933,7 +4034,8 @@
     },
     "Ezvie": {
         "levels": [
-            "Cataclysm"
+            "Cataclysm",
+            "Incipient"
         ],
         "progs": [
             "none"
@@ -4025,7 +4127,10 @@
             "ICE Carbon Diablo X"
         ],
         "progs": [
-            "none"
+            {
+                "name": "Phobos",
+                "percent": 75
+            }
         ]
     },
     "Coal56AB": {
@@ -4044,7 +4149,8 @@
             "Retention",
             "ICE Carbon Diablo X",
             "Falling Up",
-            "Hypersonic"
+            "Hypersonic",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -4123,7 +4229,8 @@
             "Retention",
             "Falling Up",
             "Duelo Maestro",
-            "Hypersonic"
+            "Hypersonic",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -4247,7 +4354,8 @@
             "Artificial Dream",
             "Retention",
             "Hypersonic",
-            "Excessive Compliment"
+            "Excessive Compliment",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -4576,7 +4684,8 @@
     "Claren": {
         "levels": [
             "Retention",
-            "Cosmic Calamity"
+            "Cosmic Calamity",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -4713,7 +4822,8 @@
     "Allium_GD": {
         "levels": [
             "Retention",
-            "Quest for Perfection"
+            "Quest for Perfection",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -4745,7 +4855,8 @@
     },
     "Lybra Dragon": {
         "levels": [
-            "Retention"
+            "Retention",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -4827,7 +4938,8 @@
     "Sam Stookey": {
         "levels": [
             "Retention",
-            "ICE Carbon Diablo X"
+            "ICE Carbon Diablo X",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -5305,7 +5417,8 @@
     "KandyMan": {
         "levels": [
             "Retention",
-            "Excessive Compliment"
+            "Excessive Compliment",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -5566,7 +5679,8 @@
     },
     "Pacosky18": {
         "levels": [
-            "ICE Carbon Diablo X"
+            "ICE Carbon Diablo X",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -5615,7 +5729,9 @@
     },
     "Retina": {
         "levels": [
-            "ICE Carbon Diablo X"
+            "ICE Carbon Diablo X",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -5665,7 +5781,8 @@
     },
     "Aliago": {
         "levels": [
-            "ICE Carbon Diablo X"
+            "ICE Carbon Diablo X",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -5681,7 +5798,8 @@
     },
     "Mastermaxify": {
         "levels": [
-            "ICE Carbon Diablo X"
+            "ICE Carbon Diablo X",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -5764,7 +5882,8 @@
     },
     "Gandhi": {
         "levels": [
-            "ICE Carbon Diablo X"
+            "ICE Carbon Diablo X",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -5805,7 +5924,8 @@
     "Spamdrew128": {
         "levels": [
             "Falling Up",
-            "Cosmic Calamity"
+            "Cosmic Calamity",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -6115,14 +6235,6 @@
             "Cataclysm",
             "ICE Carbon Diablo X",
             "Quest for Perfection"
-        ],
-        "progs": [
-            "none"
-        ]
-    },
-    "ezvie": {
-        "levels": [
-            "Incipient"
         ],
         "progs": [
             "none"
@@ -6537,7 +6649,8 @@
     },
     "VelK": {
         "levels": [
-            "Duelo Maestro"
+            "Duelo Maestro",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -6792,7 +6905,8 @@
     },
     "Benja4519": {
         "levels": [
-            "Duelo Maestro"
+            "Duelo Maestro",
+            "Crimson Clutter"
         ],
         "progs": [
             "none"
@@ -7363,14 +7477,6 @@
             "none"
         ]
     },
-    "XlamaPlayerX": {
-        "levels": [
-            "Hypersonic"
-        ],
-        "progs": [
-            "none"
-        ]
-    },
     "Bun5gPlays": {
         "levels": [
             "Hypersonic"
@@ -7456,7 +7562,7 @@
         "progs": [
             {
                 "name": "Bloodbath",
-                "percent": 81
+                "percent": 78
             }
         ]
     },
@@ -7519,7 +7625,8 @@
     },
     "DiscJoker": {
         "levels": [
-            "Cosmic Calamity"
+            "Cosmic Calamity",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -7784,9 +7891,12 @@
             "none"
         ]
     },
-    "[UL] Sledgehammer135": {
+    "Sledgehammer135": {
         "levels": [
-            "Excessive Compliment"
+            "Excessive Compliment",
+            "Artificial Dream",
+            "Incipient",
+            "Plasma Pulse III"
         ],
         "progs": [
             "none"
@@ -7936,10 +8046,16 @@
             "Doop",
             "Acu",
             "Sunset Sandstorm",
-            "Esencia"
+            "Esencia",
+            "Crimson Clutter",
+            "Night Life",
+            "Hypersonic"
         ],
         "progs": [
-            "none"
+            {
+                "name": "Black Blizzard",
+                "percent": 47
+            }
         ]
     },
     "Storm957": {
@@ -7953,7 +8069,12 @@
             "Artificial Dream",
             "Just Dance",
             "Matilda the Machine",
-            "Novalis"
+            "Novalis",
+            "Idols",
+            "Final Epilogue",
+            "Quest for Perfection",
+            "Crimson Clutter",
+            "Retention"
         ],
         "progs": [
             "none"
@@ -7980,13 +8101,10 @@
     "rom games": {
         "levels": [
             "SUBVERSIVE",
-            "Hypersonic"
+            "Hypersonic",
+            "Atmosphere"
         ],
         "progs": [
-            {
-                "name": "Atmosphere",
-                "percent": 90
-            },
             {
                 "name": "Conical Depression",
                 "percent": 53
@@ -8092,7 +8210,10 @@
             "Acu",
             "Retention",
             "Night Party",
-            "Excessive Compliment"
+            "Excessive Compliment",
+            "Niflheim",
+            "Falling Up",
+            "Hypersonic"
         ],
         "progs": [
             {
@@ -8117,7 +8238,9 @@
             "Zettabyte",
             "Acu",
             "Night Life",
-            "Thanatophobia"
+            "Thanatophobia",
+            "Napalm",
+            "Virtual Collapse"
         ],
         "progs": [
             "none"
@@ -8134,7 +8257,8 @@
     "RayTheBoss": {
         "levels": [
             "Hypersonic",
-            "AcropoliX"
+            "AcropoliX",
+            "Crimson Clutter"
         ],
         "progs": [
             {
@@ -8205,13 +8329,15 @@
             "ICE Carbon Diablo X",
             "Thanatophobia",
             "Artificial Dream",
-            "Maybe Possibly Thing"
+            "Maybe Possibly Thing",
+            "Zettabyte"
         ],
         "progs": []
     },
     "helvetica": {
         "levels": [
-            "Incipient"
+            "Incipient",
+            "Acu"
         ],
         "progs": []
     },
@@ -8243,7 +8369,9 @@
 	"TheRunawayGang":{
 		"levels":[
 			"ICE Carbon Diablo X",
-            "Hatred"
+            "Hatred",
+            "Crimson Clutter",
+            "Blade of Justice"
 		],
 		"progs":[
             {
@@ -8497,7 +8625,9 @@
     "Breakthrough":{ 
         "levels": [
             "Acu",
-            "Artificial Dream"
+            "Artificial Dream",
+            "Breakout",
+            "Cosmorush 21"
         ],
 		"progs":[
             "none"
@@ -8575,6 +8705,10 @@
             {
            "name": "Void Wave",
            "percent": 71
+            },
+            {
+                "name": "Artifice",
+                "percent":57
             }
         ]
     },
@@ -8614,7 +8748,10 @@
             "Cataclysm",
             "Quest for Perfection",
             "Hypersonic",
-            "Acu"
+            "Acu",
+            "Night Party",
+            "Crimson Clutter",
+            "The Ultimate Phase"
         ],
 		"progs":[
            {
@@ -8641,7 +8778,7 @@
         "progs": [
             {
                 "name": "Celestial Force",
-                "percent": 57
+                "percent": 75
             }
         ]
     },
@@ -8714,7 +8851,10 @@
             "Killbot"
         ],
         "progs": [
-            "none"
+            {
+                "name":"Plasma Pulse Finale",
+                "percent":85
+            }
         ]
     },
     "Rykryk2552": {
@@ -8771,7 +8911,8 @@
     },
     "Hyper Nickel": {
         "levels": [
-            "Gammaray"
+            "Gammaray",
+            "Uprise"
         ],
         "progs": [
             "none"
@@ -8869,8 +9010,8 @@
         ],
         "progs": [
     {
-            "name" : "Kowareta",
-            "percent" : 60
+            "name" : "kowareta",
+            "percent" : 63
         }
         ]
     },
@@ -8966,7 +9107,8 @@
     },
     "JRosen":{
         "levels": [
-            "Acu"
+            "Acu",
+            "Retention"
         ],
         "progs": [
             "none"
@@ -9010,12 +9152,10 @@
     },
     "hpsk":{ 
         "levels": [
+            "Super Probably Level"
         ],
 		"progs":[
-            {
-            "name": "Super Probably Level",
-            "percent": 74
-            }
+            "none"
         ]
     },
     "Kuzminka Dash":{
@@ -9115,7 +9255,8 @@
     },
         "WhitePythor":{
         "levels": [
-            "Retention"
+            "Retention",
+            "The Ultimate Phase"
         ],
         "progs": [
             "none"
@@ -9151,7 +9292,8 @@
         "Manuca":{
         "levels": [
             "Hypersonic",
-            "Acu"
+            "Acu",
+            "Thanatophobia"
         ],
         "progs": [
             "none"
@@ -9233,7 +9375,8 @@
     },
     "LFlamingo": {
         "levels": [
-            "Hypersonic"
+            "Hypersonic",
+            "Incipient"
         ],
         "progs": [
             "none"
@@ -9267,7 +9410,8 @@
     },
     "wrt":{
             "levels": [
-                "Acu"
+                "Acu",
+                "Virtual Collapse"
             ],
             "progs": [
                 "none"
@@ -9310,5 +9454,450 @@
         "percent": "62"
             }
         ]
-        }
+        },    
+    "Reduniverse":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+    "Snowfoot":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+    "Mero":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+    "BlassCFB":{
+        "levels": [
+            "Crimson Clutter",
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+    "Xertex":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+    "Purple":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+    "Hinds":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+    "Radicalis":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+    "Ethanbosayer":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+    "Chapo715":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+      "Gabs":{
+        "levels": [
+            "Crimson Clutter",
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+     "Quadra":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+      "Coomz":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+      "blaireswip":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+      "Lemons":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+    "JakeN2436":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+       "Tenpi":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+      "BlazeRol":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+      "TheAvalanche":{
+        "levels": [
+            "Crimson Clutter",
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+      "DatNitro":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+      "Jorge Poot":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+     "Dirac":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+     "Asdner":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+     "Impressive":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+      "Minus":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+        },
+      "Cold":{
+        "levels": [
+            "Crimson Clutter"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "TheRealHydra17":{
+        "levels":[
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "ExageradoGD":{
+        "levels":[
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "IcyTerra14":{
+        "levels":[
+            "Excessive Compliment"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "M1GU3LAN6EL":{
+        "levels":[
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Cyro":{
+        "levels":[
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Juliannieves":{
+        "levels":[
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "marcelocdc1011":{
+        "levels":[
+            "Thanatophobia"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "kyrillion":{
+        "levels":[
+            "Black Blizzard"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "InkZie":{
+        "levels":[
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "BlueTomcat":{
+        "levels":[
+            "Incipient"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Sumnolia":{
+        "levels":[
+            "Virtual Collapse",
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Noxop":{
+        "levels":[
+            "Betrayal of Fate"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "wwdonut":{
+        "levels":[
+            "Void Wave",
+            "Fusion Z"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+            "SoulsTRK":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+            "Demonic Platypus":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Dasilio":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Havani":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "GoldenJumper":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "AlexisLuL":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "GaidenHertuny":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "DemonDasher":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "bytriilaxz":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Shaggy23":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Song2000":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "AlexXXXD":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "LewisArmitage":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+        "Teris":{
+        "levels":[
+            "The Ultimate Phase"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+          "PureDinoMight":{
+        "levels":[
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+          "NewDark":{
+        "levels":[
+            "Matilda the Machine"
+        ],
+        "progs": [
+            "none"
+        ]
+    }
 }
