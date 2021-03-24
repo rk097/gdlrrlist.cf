@@ -33,9 +33,6 @@ body.dark-theme {
   color: #fff;
   background: #323131;
 }
-body.dark-theme ul.nav, body.dark-theme ul.nav li a, body.dark-theme ul.nav li {
-  background: #282727;
-}
 
 /**
  * Render the `main` element consistently in IE.
@@ -462,8 +459,9 @@ div {
 * {
   box-sizing: border-box;
 }
+
 body.dark-theme *{
-  background-color: #323131;
+  /*background-color: #323131;*/
   color: white;
 }
 

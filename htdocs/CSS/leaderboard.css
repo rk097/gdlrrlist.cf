@@ -2,3 +2,7 @@
   font-size:14px;
   float: left;
 }
+
+body.dark-theme .swal2-modal{
+  background-color: #323131;
+}
