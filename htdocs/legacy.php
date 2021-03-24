@@ -1,6 +1,6 @@
 <?php
 session_start();
-$_SESSION['active-nav'] = 'leaderboard';
+$_SESSION['active-nav'] = 'legacy';
 
 $themeClass = '';
 if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
@@ -20,29 +20,30 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <title>GD LRR Demon List</title>
     <link href="CSS/levelcards.css?v=2021-03-23" rel="stylesheet" type="text/css" />
     <link href="CSS/nav.css?v=2021-03-23" rel="stylesheet" type="text/css" />
-    <link href="CSS/leaderboard.css?v=2021-03-23" rel="stylesheet" type="text/css" />
-    <link href="CSS/playercards.css?v=2021-03-23" rel="stylesheet" type="text/css" />
+    <link href="CSS/list.css?v=2020-10-29" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@9"></script>
-   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
     <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
   </head>
   <body class = "<?php echo $themeClass; ?>">
-    
+
   <?php include "nav.php" ?>
   
-    <div id="leaderboard" style = "text-align:center"> 
-      <h1>Leaderboard</h1>
-      <p>Click on a player's name for some additional information. It may take a second to load.</p>
-      <p><a href = "pointcalculator.php" target = "_blank">Points Calculator</a></p>
+    <div id="levels-container"> 
+      <h1 style = "text-align:center">Legacy Demons List</h1>
+      <p style = "text-align:center">Levels that once were hard enough to make the top 150, but have since fallen from grace. We will no longer be maintaining this part of the list, but we have kept it for nostalgic reasons. Please do NOT submit records for these levels. </p>
     </div>
 
     <!-- scripts to include -->
     <?php
-      include "scripts/leaderboardcalc-js.php";
+      include "scripts/collapsible-js.php";
+      include "scripts/legacy-js.php";
       include "scripts/dropdown-js.php";
+      include "scripts/videoresize-js.php";
       include "scripts/darkbutton-js.php";
     ?>
 

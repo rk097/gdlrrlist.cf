@@ -10,8 +10,8 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>GD LRR Demon List</title>
-    <link href="/CSS/levelcards.css?v=2021-02-26" rel="stylesheet" type="text/css" />
-    <link href="/CSS/nav.css?v=2021-2-25" rel="stylesheet" type="text/css" />
+    <link href="CSS/levelcards.css?v=2021-03-23" rel="stylesheet" type="text/css" />
+    <link href="CSS/nav.css?v=2021-03-23" rel="stylesheet" type="text/css" />
     <link href="/CSS/changelog.css?v=2020-10-05" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
@@ -28,6 +28,22 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <div id="levels-container"> 
       <h1 style = "text-align:center">Website Changelog</h1>
       <p style = "text-align:center">Here, I'll be noting down any changes to the website that take place. Since most people probably won't care, I won't add this in the directory, so it'll be a bit difficult to access.</p>
+      <div class = "column">
+        <div class = "card">
+          <button class = "collapsible">
+            <div class = "title">
+              <h3 class = "date">March 23, 2021 (v1.2)</h3>
+            </div>
+          </button>
+          <div class = "content">
+              <p dir="ltr">Introducing performance points version 2! The original point system was something that I just came up with no actual logic, because I didn't expect that anyone would actually care. But this list has grown quite a bit since then, and now people actually do care, so its time for a rework!</p>
+              <p dir="ltr">Now that the number of list demons has exceeded 150, we are now cutting the list at 150 and have re-implemented the legacy list.</p>
+              <p dir="ltr">Removed the about button, the logo in the top left instead takes you to the homepage.</p>
+              <p dir="ltr">"Color switch" changed to "Toggle theme"</p>
+              <p dir="ltr">Bugfixes, as usual</p>
+          </div>
+        </div>
+      </div>
       <div class = "column">
         <div class = "card">
           <button class = "collapsible">
@@ -144,7 +160,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
 
     <!-- scripts to include -->
     <?php
-      include "scripts/dropdown-js.php";
+      include "scripts/collapsible-js.php";
       include "scripts/dropdown-js.php";
       include "scripts/darkbutton-js.php";
     ?>
