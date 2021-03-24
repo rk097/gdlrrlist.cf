@@ -1,14 +1,48 @@
 {
+        "Titan Complex": {
+        "name": "Titan Complex",
+        "ytcode": "nI7AvT0qUks",
+        "minimumPercent": 57,
+        "ranking": "around Erebus",
+        "publisher": "TCTeam",
+        "list": [
+            {
+                "name": "wwdonut",
+                "link": "https://www.youtube.com/watch?v=j2RIYF5ekuk&t&ab_channel=wwdonut",
+                "hertz": "75"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
+    },
         "Dark Flare": {
         "name": "Dark Flare",
         "ytcode": "Pb8GVDjiiQQ",
         "minimumPercent": 57,
-        "ranking": "around Bloodbath",
+        "ranking": "around Artificial Ascent",
         "publisher": "KeiAs",
         "list": [
             {
                 "name": "wwdonut",
                 "link": "https://www.youtube.com/watch?v=rKfX2Ucxaag",
+                "hertz": "75"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
+    },
+     "Ithacropolis": {
+        "name": "Ithacropolis",
+        "ytcode": "zqRLjGI_p9I",
+        "minimumPercent": 52,
+        "ranking": "around Bloodbath",
+        "publisher": "BigMac77",
+        "list": [
+            {
+                "name": "wwdonut",
+                "link": "https://www.youtube.com/watch?v=WyKOIjaBJWo&ab_channel=wwdonut",
                 "hertz": "75"
             }
         ],

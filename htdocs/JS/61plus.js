@@ -36,7 +36,7 @@ function appendData(data) {
         </div>
         <div class = "title">
         <h2>${level.name} by ${level.publisher}</h2>
-        <h3>Estimated ${level.ranking}</h3>
+        <h3>Estimated ${level.ranking}</h3><br>
         </div>
         </section>
         <hr/></button>

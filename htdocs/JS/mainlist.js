@@ -22,7 +22,7 @@ function appendData(data) {
     let column = document.createElement("div");
     column.setAttribute("class", "column");
     let div = document.createElement("div");
-    if(counter <= 50){
+    if(counter <= 75){
       div.setAttribute("class", "card")
       div.innerHTML = `
         <button type="button" class = "collapsible">
@@ -36,17 +36,18 @@ function appendData(data) {
         </div>
         <div class = "title">
         <h2>${counter}. ${level.name} by ${level.publisher}</h2>
-        <h3>Victors: ${level.list.length} <br>Score: ${Math.round(100*(50.0 / (Math.pow(Math.E, 0.01 * counter)) * Math.log((1 / (0.008 * counter)))))/100}</h3>
+        <h3>Victors: ${level.list.length} <br>Score: ${Math.round(100*(50.0 / (Math.pow(Math.E, 0.001 * counter)) * Math.log((1 / (0.008 * counter)))))/100}</h3>
         </div>
         </section>
         <hr/></button>
       `;
     }else{
+      /*
       if(counter == 51){
         let breaker = document.createElement("p");
         breaker.innerHTML = '<hr style = "height:5px;border-width:0;color:gray;background-color:gray">';
         allLevels.appendChild(breaker);
-      }
+      }*/
       div.setAttribute("class", "card")
       div.innerHTML = `
        <button type="button" class = "collapsible">
@@ -60,7 +61,7 @@ function appendData(data) {
        </div>
        <div class = "title">
        <h2>${counter}. ${level.name} by ${level.publisher}</h2>
-       <h3>Victors: ${level.list.length} <br>Score: ${Math.round(100*(50.0 / (Math.pow(Math.E, 0.01 * counter)) * Math.log((1 / (0.008 * counter)))))/100}</h3>
+       <h3>Victors: ${level.list.length} <br>Score: ${Math.round(100*(50.0 / (Math.pow(Math.E, 0.01 * counter)) * Math.log((210 / Math.pow(counter, 1.001)))))/100}</h3>
        </div>
        </section>
        <hr/></button>
@@ -83,7 +84,7 @@ function appendData(data) {
       }
       listOfRecords.appendChild(victor);
     }
-    if(counter <= 50){
+    if(counter <= 75){
       if(level.progresses[0] == "none"){
         let progressor = document.createElement("div")
         progressor.innerHTML = `

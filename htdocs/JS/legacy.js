@@ -1,4 +1,4 @@
-fetch("JS/extended.json")
+fetch("JS/legacy.json")
   .then(function (response) {
     return response.json();
   })
@@ -13,7 +13,7 @@ fetch("JS/extended.json")
 function appendData(data) {
   let passedFinalEpilogue = false;
   let allLevels = document.getElementById("levels-container");
-  let counter = 76;
+  let counter = 151;
   let removedCount = 0;
   for (const key in data) {
     // link up the object
@@ -84,31 +84,12 @@ function appendData(data) {
             </div>
             <div class = "title">
             <h2 class = "Ax20">${counter}. ${level.name} by ${level.publisher}</h2>
-            <h3>Victors: ${level.list.length} <br>Score: ${Math.round(100*(50.0 / (Math.pow(Math.E, 0.01 * counter)) * Math.log((3.3 / Math.pow(counter, .1)))))/100}</h3>
+            <h3>Victors: ${level.list.length}<br><br></h3>
             </div>
             </section>
             <hr/></button>
         `;
         
-      }else if(counter >= 76 && counter <= 100){
-        div.setAttribute("class", "card")
-        div.innerHTML = `
-          <button type="button" class = "collapsible">
-            <section class = "LevelCard flex">
-            <div class="thumb ratio-16-9 js-delay-css" 
-            style="position: relative;  
-            background-image: url(&quot;https://i.ytimg.com/vi/${level.ytcode}/mqdefault.jpg&quot;);" 
-            data-property="background-image" 
-            data-property-value="url('https://i.ytimg.com/vi/${level.ytcode}/mqdefault.jpg')" onclick="window.open('https://www.youtube.com/watch?v=${level.ytcode}','_blank')"
-            title="Clicking on the image will take you to the verification video.">
-            </div>
-            <div class = "title">
-            <h2>${counter}. ${level.name} by ${level.publisher}</h2>
-            <h3>Victors: ${level.list.length} <br>Score: ${Math.round(100*(50.0 / (Math.pow(Math.E, 0.01 * counter)) * Math.log((210 / Math.pow(counter, 1.001)))))/100}</h3>
-            </div>
-            </section>
-            <hr/></button>
-        `;
       }else{
         div.setAttribute("class", "card")
         div.innerHTML = `
@@ -123,7 +104,7 @@ function appendData(data) {
             </div>
             <div class = "title">
             <h2>${counter}. ${level.name} by ${level.publisher}</h2>
-            <h3>Victors: ${level.list.length} <br>Score: ${Math.round(100*(50.0 / (Math.pow(Math.E, 0.01 * counter)) * Math.log((3.3 / Math.pow(counter, .1)))))/100}</h3>
+            <h3>Victors: ${level.list.length}<br><br></h3>
             </div>
             </section>
             <hr/></button>

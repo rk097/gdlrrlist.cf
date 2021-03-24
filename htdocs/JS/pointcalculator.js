@@ -1,4 +1,4 @@
-  var levelPos = [];
+  var levelPos = []; //0 based
   var allPersonArray = [];
 fetch("JS/levellist.json")
 .then(function (response) {
@@ -58,7 +58,7 @@ function run(){
   .then(function (dataFour) {
     let count = 0;
     for(const key in dataFour){
-      if(count > 49) break;
+      if(count > 74) break;
       let thisLevel = dataFour[key];
       levelPos[count].req = thisLevel.minimumPercent;
       count++;
@@ -95,10 +95,12 @@ function run2(){
         if(levelPos[i].name == level){
           valid = true;
           let score = 0;
-          if(i < 100){
-            score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[i].pos)) * Math.log((1 / (0.008 * levelPos[i].pos)));
+          if(i < 50){
+            score = 50.0 / (Math.pow(Math.E, 0.001 * levelPos[i].pos)) * Math.log((1 / (0.008 * levelPos[i].pos)));
+          }else if(i >= 50 && i < 100){
+            score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[i].pos)) * Math.log((210 / (Math.pow(levelPos[i].pos, 1.001))));
           }else{
-            score = 11.0 / (Math.pow(Math.E, 0.01 * levelPos[i].pos));
+            score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[i].pos)) * Math.log((3.3 / (Math.pow(levelPos[i].pos, .1))));
           }
           let myObj = {
             name:level,
@@ -147,9 +149,9 @@ function run2(){
       }
       let valid = false;
       for(let i = 0; i < levelPos.length; i++){
-        if(i > 49){
+        if(i > 74){
           valid = true;
-          console.log("This level does not seem to be in the top 50, please try again.");
+          console.log("This level does not seem to be in the top 75, please try again.");
           break;
         }
         if(levelPos[i].name == level){
@@ -161,7 +163,9 @@ function run2(){
             break;
           }
           valid = true;
-          let score =  50.0 / (Math.pow(Math.E, 0.01 * levelPos[i].pos)) * Math.log((1 / (0.008 * levelPos[i].pos)));
+          let score = 0;
+          if(i < 50) score =  50.0 / (Math.pow(Math.E, 0.001 * levelPos[i].pos)) * Math.log((1 / (0.008 * levelPos[i].pos)));
+          else score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[i].pos)) * Math.log((210 / (Math.pow(levelPos[i].pos, 1.001))));
           let req = levelPos[i].req;
           score = score * (Math.pow(5, ((progress - req)/(100-req)))/10);
           let myObj = {
@@ -192,10 +196,12 @@ function run2(){
               for(let j = 0; j < levelPos.length; j++){
                 if(levelPos[j].name == allPersonArray[a].levels[i]){
                   let score = 0;
-                  if(j < 100){
-                    score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[j].pos)) * Math.log((1 / (0.008 * levelPos[j].pos)));
+                  if(j < 50){
+                    score = 50.0 / (Math.pow(Math.E, 0.001 * levelPos[j].pos)) * Math.log((1 / (0.008 * levelPos[j].pos)));
+                  }else if(j >= 50 && j < 100){
+                    score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[j].pos)) * Math.log((210 / (Math.pow(levelPos[j].pos, 1.001))));
                   }else{
-                    score = 11.0 / (Math.pow(Math.E, 0.01 * levelPos[j].pos));
+                    score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[j].pos)) * Math.log((3.3 / (Math.pow(levelPos[j].pos, .1))));
                   }
                   let myObj = {
                     name:allPersonArray[a].levels[i],
@@ -213,10 +219,11 @@ function run2(){
             for(let i = 0; i < allPersonArray[a].progs.length; i++){
               if(allPersonArray[a].progs[0] == "none") break;
               for(let j = 0; j < levelPos.length; j++){
-                if(j > 49) break;
+                if(j > 75) break;
                 if(levelPos[j].name == allPersonArray[a].progs[i].name){
                   if(levelPos[j].req > allPersonArray[a].progs[i].percent) break;
-                  let score =  50.0 / (Math.pow(Math.E, 0.01 * levelPos[j].pos)) * Math.log((1 / (0.008 * levelPos[j].pos)));
+                  if(j < 50) score =  50.0 / (Math.pow(Math.E, 0.001 * levelPos[j].pos)) * Math.log((1 / (0.008 * levelPos[j].pos)));
+                  else score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[j].pos)) * Math.log((210 / (Math.pow(levelPos[j].pos, 1.001))));
                   let req = levelPos[j].req;
                   //console.log(score);
                   score = score * (Math.pow(5, ((allPersonArray[a].progs[i].percent - req)/(100 - req)))/10);
@@ -271,7 +278,8 @@ function run2(){
             }
             if(newPercent == 100){
               player[i].percent = 100;
-              let score = 50.0 / (Math.pow(Math.E, 0.01 * player[i].pos)) * Math.log((1 / (0.008 * player[i].pos)));
+              if(i < 50) score =  50.0 / (Math.pow(Math.E, 0.001 * levelPos[i].pos)) * Math.log((1 / (0.008 * levelPos[i].pos)));
+              else score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[i].pos)) * Math.log((210 / (Math.pow(levelPos[i].pos, 1.001))));
               player[i].score = score;
               playerpoints[i] = score;
               console.log("Percentage updated successfully.");
@@ -285,7 +293,8 @@ function run2(){
                     break;
                   }
                   player[i].percent = newPercent;
-                  let score = 50.0 / (Math.pow(Math.E, 0.01 * player[i].pos)) * Math.log((1 / (0.008 * player[i].pos)));
+                  if(i < 50) score =  50.0 / (Math.pow(Math.E, 0.001 * levelPos[i].pos)) * Math.log((1 / (0.008 * levelPos[i].pos)));
+                  else score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[i].pos)) * Math.log((210 / (Math.pow(levelPos[i].pos, 1.001))));
                   let req = levelPos[j].req;
                   score = score * (Math.pow(5, ((newPercent - req)/(100 - req)))/10);
                   player[i].score = score;
