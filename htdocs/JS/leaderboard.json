@@ -203,7 +203,8 @@
             "Reverence",
             "Conical Depression",
             "The Ultimate Phase",
-            "Hatred"
+            "Hatred",
+            "Evangelion"
         ],
         "progs": [
             {
@@ -1100,7 +1101,8 @@
             "Artificial Dream",
             "Hypersonic",
             "Aronia",
-            "Acu"
+            "Acu",
+            "Incipient"
         ],
         "progs": [
             {
@@ -1199,6 +1201,10 @@
             {
                 "name": "Fusion Z",
                 "percent": 90
+            },
+            {
+                "name": "Sunset Sandstorm",
+                "percent": 62
             }
         ]
     },
@@ -1210,7 +1216,8 @@
             "Aurora",
             "Precipitance",
             "Awakening Horus",
-            "Alcatraz"
+            "Alcatraz",
+            "Thanatophobia"
         ],
         "progs": [
             {
@@ -1232,6 +1239,10 @@
             {
                 "name": "Black Blizzard",
                 "percent": 44
+            },
+            {
+                "name": "The Flawless",
+                "percent": 58
             }
         ]
     },
@@ -1265,7 +1276,11 @@
             },
             {
                 "name": "Phobos",
-                "percent": 59
+                "percent": 84
+            },
+            {
+                "name": "Novalis",
+                "percent": 57
             }
         ]
     },
@@ -2704,10 +2719,18 @@
             "Niflheim"
         ],
         "progs": [
-            {
+        {
             "name": "Black Blizzard",
             "percent": 46
-            }
+        },
+        {
+            "name": "Plasma Pulse III",
+            "percent": 94
+        },
+        {
+            "name": "Digital Disarray",
+            "percent": 96
+        }
         ]
     },
     "MAUBILE": {
@@ -2927,7 +2950,10 @@
             "Zettabyte"
         ],
         "progs": [
-            "none"
+            {
+            "name": "Celestial Force",
+            "percent": 55
+            }
         ]
     },
     "AsrielXL": {
@@ -3114,7 +3140,8 @@
     },
     "Ben The Cool": {
         "levels": [
-            "Triple Six"
+            "Triple Six",
+            "Aurora"
         ],
         "progs": [
             "none"
@@ -3145,7 +3172,7 @@
             },
             {
                 "name":"Killbot",
-                "percent": 75
+                "percent": 96
             }
         ]
     },
@@ -3602,12 +3629,19 @@
             "Excessive Compliment",
             "Awakening Horus",
             "Incipient",
-            "ICE Carbon Diablo X"
+            "ICE Carbon Diablo X",
+            "Aftermath",
+            "Plasma Pulse III",
+            "Cataclysm"
         ],
         "progs": [
             {
                 "name": "Black Blizzard",
                 "percent": 47
+            },
+            {
+                "name": "Phobos",
+                "percent": 72
             }
         ]
     },
@@ -3686,7 +3720,6 @@
     },
     "tin15cro": {
         "levels": [
-            "Heartbeat",
             "Allegiance"
         ],
         "progs": [
@@ -4143,7 +4176,9 @@
             "Acu",
             "Bloodbath",
             "ICE Carbon Diablo X",
-            "Phobos"
+            "Phobos",
+            "Aftermath",
+            "Black Blizzard"
         ],
         "progs": [
             "none"
@@ -4235,7 +4270,7 @@
         "progs": [
             {
                 "name": "Void Wave",
-                "percent": 58
+                "percent": 70
             }
         ]
     },
@@ -4598,7 +4633,14 @@
             "CYCLONE"
         ],
         "progs": [
-            "none"
+            {
+                "name": "Hatred",
+                "percent": 59
+            },
+            {
+                "name": "Aftermath",
+                "percent": 86
+            }
         ]
     },
     "Renars Lasmanis1": {
@@ -6342,12 +6384,17 @@
             "Acu",
             "Excessive Compliment",
             "Skrrah",
-            "Zettabyte"
+            "Zettabyte",
+            "Deception Dive"
         ],
         "progs": [
             {
                 "name": "Black Blizzard",
                 "percent": 47
+            },
+            {
+                "name":"Plasma Pulse III",
+                "percent": 83
             }
             
         ]
@@ -6429,7 +6476,8 @@
             "Retention",
             "Awakening Horus",
             "ICE Carbon Diablo X",
-            "Niflheim"
+            "Niflheim",
+            "Panasonic"
         ],
         "progs": [
             "none"
@@ -8100,7 +8148,11 @@
             "Quest for Perfection",
             "Crimson Clutter",
             "Retention",
-            "Heat Wave"
+            "Heat Wave",
+            "Photovoltaic",
+            "Excessive Compliment",
+            "Cosmic Calamity",
+            "WaveBreaker"
         ],
         "progs": [
             "none"
@@ -8118,7 +8170,8 @@
     "Gzeee": {
         "levels": [
             "Acu",
-            "Alcatraz"
+            "Alcatraz",
+            "Ziroikabi"
         ],
         "progs": [
             "none"
@@ -8241,13 +8294,11 @@
             "Falling Up",
             "Hypersonic",
             "Incipient",
-            "Maybe Possibly Thing"
+            "Maybe Possibly Thing",
+            "Golden Shade",
+            "Aftermath"
         ],
         "progs": [
-            {
-                "name": "Aftermath",
-                "percent": 67
-            }
         ]
     },
     "Tuggy": {
@@ -8362,7 +8413,12 @@
             "Maybe Possibly Thing",
             "Zettabyte"
         ],
-        "progs": []
+        "progs": [
+            {
+                "name": "Plasma Pulse III",
+                "percent": 69
+            }
+        ]
     },
     "helvetica": {
         "levels": [
@@ -8405,7 +8461,10 @@
             "Red World Rebirth"
 		],
 		"progs":[
-           "none"
+           {
+                "name": "Plasma Pulse III",
+                "percent": 70
+            }
 		]
     },
     "Korrode":{ 
@@ -8459,7 +8518,8 @@
     },
     "DraxitIII":{
         "levels": [
-            "Twisted Tranquility"
+            "Twisted Tranquility",
+            "Polish Alphabet"
         ],
         "progs":[
             {
@@ -8733,7 +8793,7 @@
 		"progs":[
             {
            "name": "Void Wave",
-           "percent": 71
+           "percent": 84
             },
             {
                 "name": "Artifice",
@@ -9022,7 +9082,8 @@
     },
     "kkgrooms":{
         "levels": [
-            "Acu"
+            "Acu",
+            "Golden Shade"
         ],
         "progs": [
         {
@@ -9110,7 +9171,8 @@
         "levels": [
             "Thanatophobia",
             "SubSonic",
-            "Artifice"
+            "Artifice",
+            "Breakout"
         ],
         "progs": [
             "none"
@@ -9263,7 +9325,7 @@
         "progs": [
             {
             "name": "INNARDS",
-            "percent": 76
+            "percent": 82
             }
         ]
     },
@@ -9485,7 +9547,10 @@
             "Artificial Ideology"
         ],
         "progs": [
-            "none"
+            {
+            "name": "The Hell Factory",
+            "percent": "84"
+            }
         ]
         },    
     "Reduniverse":{
@@ -9757,7 +9822,8 @@
     },
     "kyrillion":{
         "levels":[
-            "Black Blizzard"
+            "Black Blizzard",
+            "Reverence"
         ],
         "progs": [
             "none"
@@ -9799,7 +9865,8 @@
         "wwdonut":{
         "levels":[
             "Void Wave",
-            "Fusion Z"
+            "Fusion Z",
+            "Heartbeat"
         ],
         "progs": [
             "none"
@@ -10001,12 +10068,67 @@
             "none"
         ]
     },
-         "DGG070":{
+        "DGG070":{
         "levels":[
             "Raindance"
         ],
         "progs": [
             "none"
+        ]
+    },
+        "kxarve":{
+        "levels":[
+        ],
+        "progs": [
+            {
+                "name": "INNARDS",
+                "percent": 96
+            }
+        ]
+    },
+    "FallingHD":{
+        "levels":[
+            "Acu"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "Liternix":{
+        "levels":[
+            "Hypersonic",
+            "Artificial Dream"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "IcaroX":{
+        "levels":[
+            "WaveBreaker"
+        ],
+        "progs": [
+            "none"
+        ]
+    },
+    "itripie":{
+        "levels":[
+        ],
+        "progs": [
+            {
+                "name": "Celestial Force",
+                "percent": 57
+            }
+        ]
+    },
+    "Javp":{
+        "levels":[
+        ],
+        "progs": [
+            {
+                "name": "Sunset Sandstorm",
+                "percent": 56
+            }
         ]
     }
 }
