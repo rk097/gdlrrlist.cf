@@ -277,24 +277,29 @@ function run2(){
               break;
             }
             if(newPercent == 100){
-              player[i].percent = 100;
-              if(i < 50) score =  50.0 / (Math.pow(Math.E, 0.001 * levelPos[i].pos)) * Math.log((1 / (0.008 * levelPos[i].pos)));
-              else score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[i].pos)) * Math.log((210 / (Math.pow(levelPos[i].pos, 1.001))));
-              player[i].score = score;
-              playerpoints[i] = score;
-              console.log("Percentage updated successfully.");
-              break;
+                for(let j = 0; j < levelPos.length; j++){
+                    if(levelPos[j].name == player[i].name){
+                        player[i].percent = 100;
+                        if(j < 50) score =  50.0 / (Math.pow(Math.E, 0.001 * levelPos[j].pos)) * Math.log((1 / (0.008 * levelPos[j].pos)));
+                        else score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[j].pos)) * Math.log((210 / (Math.pow(levelPos[j].pos, 1.001))));
+                        player[i].score = score;
+                        playerpoints[i] = score;
+                        console.log("Percentage updated successfully.");
+                        break;
+                    }
+                }
+                break;
             }else{
               for(let j = 0; j < levelPos.length; j++){
                 if(levelPos[j].name == player[i].name){
-                  if(levelPos[i].req > newPercent){
+                  if(levelPos[j].req > newPercent){
                     //valid = true;
                     console.log("That percent does not meet the minimum percentage requirement for this level. Please try again.");
                     break;
                   }
                   player[i].percent = newPercent;
-                  if(i < 50) score =  50.0 / (Math.pow(Math.E, 0.001 * levelPos[i].pos)) * Math.log((1 / (0.008 * levelPos[i].pos)));
-                  else score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[i].pos)) * Math.log((210 / (Math.pow(levelPos[i].pos, 1.001))));
+                  if(j < 50) score =  50.0 / (Math.pow(Math.E, 0.001 * levelPos[j].pos)) * Math.log((1 / (0.008 * levelPos[j].pos)));
+                  else score = 50.0 / (Math.pow(Math.E, 0.01 * levelPos[j].pos)) * Math.log((210 / (Math.pow(levelPos[j].pos, 1.001))));
                   let req = levelPos[j].req;
                   score = score * (Math.pow(5, ((newPercent - req)/(100 - req)))/10);
                   player[i].score = score;
