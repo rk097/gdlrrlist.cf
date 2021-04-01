@@ -264,6 +264,18 @@
                 "percent": 61,
                 "link": "https://www.youtube.com/watch?v=9jkvfv_nXNw",
                 "hertz": "M"
+            },
+            {
+                "name": "Javp",
+                "percent": 56,
+                "link": "https://youtu.be/F1GevWyPa5o",
+                "hertz": "60"
+            },
+            {
+                "name": "Flavyola64",
+                "percent": 62,
+                "link": "https://www.youtube.com/watch?v=6NRmKhAELYY&ab_channel=Flavyola64",
+                "hertz": "M"
             }
         ]
     },
@@ -377,6 +389,7 @@
                 "link": "https://youtu.be/PauDfdBlWQ4",
                 "hertz": "60"
             }
+            
         ],
         "progresses": [
             {
@@ -408,6 +421,18 @@
                 "percent": 57,
                 "link": "https://www.youtube.com/watch?v=D6Tu95Iua3E",
                 "hertz": "60"
+            },
+            {
+                "name": "deathbylag",
+                "percent": 55,
+                "link": "https://www.youtube.com/watch?v=6GI3JVUzQDc",
+                "hertz": "60"
+            },
+            {
+                "name": "itripie",
+                "percent": 57,
+                "link": "https://www.youtube.com/watch?v=wha9R4GQvrg&t=1s",
+                "hertz": "M"
             }
         ]
     },
@@ -791,8 +816,8 @@
             },
             {
                 "name": "Sadius",
-                "percent": 75,
-                "link": "https://www.youtube.com/watch?v=7FenkOgsi3s",
+                "percent": 96,
+                "link": "https://www.youtube.com/watch?v=7-R8GBecWiU",
                 "hertz": "M"
             }
         ]
@@ -841,6 +866,22 @@
 
         ]
     },
+        "Ziroikabi": {
+        "name": "Ziroikabi",
+        "ytcode": "-GLoo-mwGeI",
+        "minimumPercent": 52,
+        "publisher": "RoiMousti",
+        "list": [
+            {
+                "name": "Gzeee",
+                "link": "https://www.youtube.com/watch?v=_IsEc3Dgwes&ab_channel=Gzeeelol",
+                "hertz": "60"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
+        },
     "Blade of Justice": {
         "name": "Blade of Justice",
         "ytcode": "6018CbEjA-4",
@@ -1111,6 +1152,11 @@
                 "name":"kyrillion",
                 "link":"https://www.youtube.com/watch?v=63y3xHshROE",
                 "hertz":"60"
+            },
+            {
+                "name":"Chubs Dubs",
+                "link":"https://www.youtube.com/watch?v=LFMgBQPnbwE&ab_channel=ChubsDubs",
+                "hertz":"M"
             }
             
         ],
@@ -1286,7 +1332,14 @@
                 "percent": 78,
                 "link": "https://www.youtube.com/watch?v=MF-L50kQRHU",
                 "hertz": "60"
+            },
+            {
+                "name": "Kv082",
+                "percent": 59,
+                "link": "https://www.youtube.com/watch?v=vFx9wRF2FVs",
+                "hertz": "60"
             }
+
         ]
     },
     "Phobos": {
@@ -1324,8 +1377,14 @@
         "progresses": [
             {
                 "name": "SubZeroV",
-                "percent": 59,
-                "link": "https://youtu.be/iq0Pt6Hjhv8",
+                "percent": 84,
+                "link": "https://www.youtube.com/watch?v=7UQ9H1cp5M0",
+                "hertz": "M"
+            },
+            {
+                "name": "Surpl3x",
+                "percent": 72,
+                "link": "https://youtu.be/lPPVhcFiLJc",
                 "hertz": "M"
             }
         ]
@@ -1605,15 +1664,30 @@
                 "name": "Samamba",
                 "link": "https://www.youtube.com/watch?v=Ul6G2sZohKE&ab_channel=Samamba",
                 "hertz": "60"
+            },
+            {
+                "name":"Chubs Dubs",
+                "link":"https://www.youtube.com/watch?v=A_kgddAw3sg",
+                "hertz":"M"
+            },
+            {
+                "name":"Surpl3x",
+                "link":"https://www.youtube.com/watch?v=N5NcuNqAnNY",
+                "hertz":"M"
+            },
+            {
+                "name": "Dreamlight",
+                "link": "https://www.youtube.com/watch?v=PqhBHleznCA",
+                "hertz": "75"
             }
 
         ],
         "progresses": [
             {
-                "name":"Dreamlight",
-                "percent":67,
-                "link":"https://www.youtube.com/watch?v=VIXeldGT-pA&feature=youtu.be",
-                "hertz":"75"
+                "name":"Kv082",
+                "percent":86,
+                "link":"https://www.youtube.com/watch?v=-PSMmBx9qqY",
+                "hertz":"60"
             }
         ]
     },
@@ -1841,9 +1915,15 @@
         "progresses": [
             {
                 "name": "Temical",
-                "percent": 76,
-                "link": "https://youtu.be/lrRkFK4qmhA",
+                "percent": 82,
+                "link": "https://www.youtube.com/watch?v=TSxjiUJPYrA&ab_channel=Temical",
                 "hertz": "M"
+            },
+            {
+                "name": "kxarve",
+                "percent": 96,
+                "link": "https://www.youtube.com/watch?v=kLRA4JR9svo",
+                "hertz": "60"
             }
         ]
     },
@@ -2032,14 +2112,14 @@
         "progresses": [
             {
                 "name": "GoldenEagle741",
-                "percent": 58,
-                "link": "https://www.youtube.com/watch?v=lIQiA584qKM",
+                "percent": 70,
+                "link": "https://www.youtube.com/watch?v=sIU_GTIwYqU",
                 "hertz": "60"
             },
             {
                 "name": "LuckyCaster24",
-                "percent": 71,
-                "link": "https://www.youtube.com/watch?v=095nj-FyNlo",
+                "percent": 84,
+                "link": "https://www.youtube.com/watch?v=fk1pdCFIfDU&lc=Ugx3nK5jWFjH29MLR0N4AaABAg",
                 "hertz": "M"
             },
             {
@@ -2968,6 +3048,11 @@
                 "name": "JRain",
                 "link": "https://youtu.be/1h7xYVzKxOQ",
                 "hertz": "60"
+            },
+            {
+                "name": "Ben The Cool",
+                "link": "https://youtu.be/9MvYQ31qrgM",
+                "hertz": "M"
             }
         ],
         "progresses": [
@@ -3227,6 +3312,12 @@
                 "percent": 83,
                 "link": "https://www.youtube.com/watch?v=7iWE9Oh5fZo",
                 "hertz": "60"
+            },
+            {
+                "name": "Subperfect",
+                "percent": 84,
+                "link": "https://youtu.be/VWAt0o5QObM",
+                "hertz": "M"
             }
         ]
     },
@@ -3553,6 +3644,16 @@
                 "name": "Liizoks",
                 "link": "https://www.youtube.com/watch?v=ekPdqjK27l4",
                 "hertz": "75"
+            },
+            {
+                "name":"IcaroX",
+                "link":"https://youtu.be/9NRxo3dERx8",
+                "hertz":"60"
+            },
+            {
+                "name":"Storm957",
+                "link":"https://www.youtube.com/watch?v=piTQLW-XabQ&ab_channel=Storm957",
+                "hertz":"M"  
             }
         ],
         "progresses": [
@@ -3579,6 +3680,11 @@
                 "name": "Breakthrough",
                 "link": "https://www.youtube.com/watch?v=K9x6mbSLaIA",
                 "hertz": "M"
+            },
+            {
+                "name": "Zadrott",
+                "link": "https://youtu.be/94fmfruZ7MI",
+                "hertz": "75"
             }
         ],
         "progresses": [
@@ -3638,7 +3744,12 @@
             }
         ],
         "progresses": [
-            "none"
+            {
+                "name": "GoldenGuy162",
+                "percent": 58,
+                "link": "https://www.youtube.com/watch?v=mVIFYSIKNQ8&feature=youtu.be",
+                "hertz": "60"
+            }
         ]
     },
     "Plasma Pulse III": {
@@ -3936,10 +4047,38 @@
                 "name":"GoodSmile",
                 "link":"https://www.youtube.com/watch?v=-eut7DQkaps",
                 "hertz":"60"
+            },
+            {
+                "name":"Surpl3x",
+                "link":"https://www.youtube.com/watch?v=4_0PR5844Xs",
+                "hertz":"M"
             }
         ],
         "progresses": [
-            "none"
+        {
+                "name": "Thonyell",
+                "percent": 94,
+                "link": "https://youtu.be/7ilNNWW7OHk",
+                "hertz": "M"
+        },
+        {
+                "name": "ZizOhNo",
+                "percent": 69,
+                "link": "https://youtu.be/5_LQ4iyMJpY",
+                "hertz": "M"
+        },
+        {
+                "name": "TheRunawayGang",
+                "percent": 70,
+                "link": "https://www.twitch.tv/videos/962505291",
+                "hertz": "M"
+        },
+        {
+            "name": "Edant",
+            "percent": 83,
+            "link": "https://youtu.be/BN18QcAtkIs",
+            "hertz":"75"
+        }
         ]
     },
     "Penultimate Phase": {
@@ -4048,6 +4187,11 @@
                 "name":"Batle",
                 "link": "https://www.youtube.com/watch?v=iy-QMHOLVJE",
                 "hertz":"M"
+            },
+            {
+                "name":"kyrillion",
+                "link": "https://www.youtube.com/watch?v=SZ9uu_8u8L8",
+                "hertz":"60"
             }
         ],
         "progresses":[
@@ -4362,7 +4506,12 @@
             }
         ],
         "progresses": [
-            "none"
+            {
+                "name": "SubZeroV",
+                "percent": 57,
+                "link": "https://youtu.be/izzOTuLGT3k",
+                "hertz": "M"
+            }
         ]
     },
     "Skrrah": {
@@ -4546,12 +4695,12 @@
             },
             {
                 "name": "Donut",
-                "link": "https://www.youtube.com/watch?v=PuMObMtUd9w ",
+                "link": "https://www.youtube.com/watch?v=PuMObMtUd9w",
                 "hertz": "60"
             },
             {
                 "name": "Samamba",
-                "link": "https://www.youtube.com/watch?v=yEIhHFCATwc ",
+                "link": "https://www.youtube.com/watch?v=yEIhHFCATwc",
                 "hertz": "60"
             },
             {
@@ -4563,6 +4712,11 @@
                 "name": "VrohlaiX",
                 "link": "https://youtu.be/Wmwe1bDxqGw",
                 "hertz": "60"
+            },
+            {
+                "name": "Gherkin",
+                "link": "https://www.youtube.com/watch?v=JeNohFpamdU&ab_channel=Gherkin",
+                "hertz": "M"
             }
         ],
         "progresses": [
@@ -4638,7 +4792,12 @@
             }
         ],
         "progresses": [
-            "none"
+        {
+                "name": "Thonyell",
+                "percent": 96,
+                "link": "https://youtu.be/eKPy8yGB6WU",
+                "hertz": "M"
+        }
         ]
     },
     "Twisted Tranquility": {
@@ -4912,472 +5071,6 @@
                 "name": "TheJaco9",
                 "link": "https://www.youtube.com/watch?v=vMQugIBLMao&ab_channel=TheJaco9",
                 "hertz": "60"
-            }
-        ],
-        "progresses": [
-            "none"
-        ]
-    },
-    "Niflheim": {
-        "name": "Niflheim",
-        "ytcode": "FFAHbgkNH10",
-        "minimumPercent": 60,
-        "publisher": "vismuth",
-        "list": [
-            {
-                "name": "Koreaqwer",
-                "link": "https://www.youtube.com/watch?v=FFAHbgkNH10 ",
-                "hertz": "V/60"
-            },
-            {
-                "name": "Sonic80",
-                "link": "https://www.youtube.com/watch?v=JX8jota6fuQ ",
-                "hertz": "60"
-            },
-            {
-                "name": "Luqualizer",
-                "link": "https://www.youtube.com/watch?v=7_ND1UB4EsY ",
-                "hertz": "60"
-            },
-            {
-                "name": "lukz.",
-                "link": "https://www.youtube.com/watch?v=8AUyp5Yncrc ",
-                "hertz": "60"
-            },
-            {
-                "name": "VileX",
-                "link": "https://www.youtube.com/watch?v=229sBz1fcdc ",
-                "hertz": "60"
-            },
-            {
-                "name": "Ferox242",
-                "link": "https://www.youtube.com/watch?v=qrNGiXz14qE ",
-                "hertz": "60"
-            },
-            {
-                "name": "CuTTeR",
-                "link": "https://www.youtube.com/watch?v=gkXeZ11ArDI ",
-                "hertz": "60"
-            },
-            {
-                "name": "Diris",
-                "link": "https://www.youtube.com/watch?v=p18Niz9hGyE ",
-                "hertz": "60"
-            },
-            {
-                "name": "TheJaco9",
-                "link": "https://www.youtube.com/watch?v=qGB7MyCn1AM ",
-                "hertz": "60"
-            },
-            {
-                "name": "FD5GD",
-                "link": "https://www.youtube.com/watch?v=nd1iJiqRXSs ",
-                "hertz": "60"
-            },
-            {
-                "name": "Ecl1psed276",
-                "link": "https://www.youtube.com/watch?v=g9Ff_iz4Zqs ",
-                "hertz": "60"
-            },
-            {
-                "name": "DelTell",
-                "link": "https://www.youtube.com/watch?v=spSaLOpWILU ",
-                "hertz": "60"
-            },
-            {
-                "name": "Shokity",
-                "link": "https://www.youtube.com/watch?v=cqVH1roYYZ4 ",
-                "hertz": "60"
-            },
-            {
-                "name": "Guille1999 GD",
-                "link": "https://www.youtube.com/watch?v=xQDWgiuZOjs ",
-                "hertz": "60"
-            },
-            {
-                "name": "Hoshi",
-                "link": "https://www.youtube.com/watch?v=AGx4EUaVoTQ ",
-                "hertz": "60"
-            },
-            {
-                "name": "adasd54321",
-                "link": "https://www.youtube.com/watch?v=m3qsFEkYY_s ",
-                "hertz": "60"
-            },
-            {
-                "name": "Sasseli",
-                "link": "https://www.youtube.com/watch?v=NShmmgN21OE ",
-                "hertz": "60"
-            },
-            {
-                "name": "D3m0nDash3r",
-                "link": "https://www.youtube.com/watch?v=wcfF-HxcZ4c ",
-                "hertz": "60"
-            },
-            {
-                "name": "Chamchi",
-                "link": "https://www.youtube.com/watch?v=dQ-hq93VAj0 ",
-                "hertz": "60"
-            },
-            {
-                "name": "MaChine17",
-                "link": "https://www.youtube.com/watch?v=9tHzfJb8YNk ",
-                "hertz": "M"
-            },
-            {
-                "name": "Amaranth",
-                "link": "https://www.youtube.com/watch?v=eHP0ngiQdNY&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "GMD Soulcontrol",
-                "link": "https://www.youtube.com/watch?v=JIo7O3H1l7s&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "hotball1",
-                "link": "https://www.youtube.com/watch?v=ej9pXug0KlQ ",
-                "hertz": "60"
-            },
-            {
-                "name": "Tricks33",
-                "link": "https://www.youtube.com/watch?v=xN73r7M7Yzc ",
-                "hertz": "60"
-            },
-            {
-                "name": "BigMacGD",
-                "link": "https://www.youtube.com/watch?v=6JPJJcb6eOY ",
-                "hertz": "60"
-            },
-            {
-                "name": "FANTASER",
-                "link": "https://www.youtube.com/watch?v=TsWK-lA0vyI ",
-                "hertz": "60"
-            },
-            {
-                "name": "ViewSonic",
-                "link": "https://www.youtube.com/watch?v=L9zi7RBlN0o ",
-                "hertz": "60"
-            },
-            {
-                "name": "Stilluetto",
-                "link": "https://www.youtube.com/watch?v=yI1sjD1yIZQ&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "Dagon",
-                "link": "https://www.youtube.com/watch?v=A1P9bZF_BGU&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "Hilo",
-                "link": "https://www.youtube.com/watch?v=etgKVTA3TJc&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "WOO HWANG",
-                "link": "https://www.youtube.com/watch?v=DWa19K72D4o ",
-                "hertz": "60"
-            },
-            {
-                "name": "PleoSlim RMD",
-                "link": "https://www.youtube.com/watch?v=7GV-tXst8iw ",
-                "hertz": "60"
-            },
-            {
-                "name": "Zest",
-                "link": "https://www.youtube.com/watch?v=bpZCFsiC4kk ",
-                "hertz": "75"
-            },
-            {
-                "name": "recillia",
-                "link": "https://www.youtube.com/watch?v=vWB3hDYTkCM ",
-                "hertz": "60"
-            },
-            {
-                "name": "siberianBarebuh",
-                "link": "https://www.youtube.com/watch?v=IatY73X42iM ",
-                "hertz": "60"
-            },
-            {
-                "name": "Yankes",
-                "link": "https://www.youtube.com/watch?v=aOXhomCUVtU&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "YrNeHeNrY",
-                "link": "https://www.youtube.com/watch?v=qbeKUrUF5g8&feature=youtu.be ",
-                "hertz": "75"
-            },
-            {
-                "name": "Madlad Boi",
-                "link": "https://www.youtube.com/watch?v=1Z_nXq7VJfI&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "Donut",
-                "link": "https://www.youtube.com/watch?v=hubF7_7q0Yc ",
-                "hertz": "60"
-            },
-            {
-                "name": "Coffee081",
-                "link": "https://www.youtube.com/watch?v=EwK8Wotvcyk&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "venfy",
-                "link": "https://www.youtube.com/watch?v=1gVZRcifEVQ&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "Zulrah",
-                "link": "https://www.youtube.com/watch?v=sWKwL3LO3-Q ",
-                "hertz": "60"
-            },
-            {
-                "name": "Exyl",
-                "link": "https://www.youtube.com/watch?v=y7GE1uBc-Ng ",
-                "hertz": "60"
-            },
-            {
-                "name": "YoshiAitch",
-                "link": "https://www.youtube.com/watch?v=c21u56Jv0vs ",
-                "hertz": "60"
-            },
-            {
-                "name": "Burnt GD",
-                "link": "https://www.youtube.com/watch?v=PV_NC55rNf0 ",
-                "hertz": "60"
-            },
-            {
-                "name": "GochuJang [GD]",
-                "link": "https://www.youtube.com/watch?v=ZZDiqAWV0UA ",
-                "hertz": "M"
-            },
-            {
-                "name": "notlsa",
-                "link": "https://www.youtube.com/watch?v=7a9Py0Cem-E&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "ItoPopcorn",
-                "link": "https://www.youtube.com/watch?v=tozwWC8ikN4 ",
-                "hertz": "60"
-            },
-            {
-                "name": "Tato",
-                "link": "https://www.youtube.com/watch?v=ERMh4A99O94 ",
-                "hertz": "60"
-            },
-            {
-                "name": "airenowo",
-                "link": "https://www.youtube.com/watch?v=l3vmLSO6F5E ",
-                "hertz": "60"
-            },
-            {
-                "name": "Coopersuper",
-                "link": "https://www.youtube.com/watch?v=ghs3OOZCrsI&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "Random Idiot",
-                "link": "https://www.youtube.com/watch?v=sOeWcSmao1A&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "Mr.Budgie",
-                "link": "https://www.youtube.com/watch?v=BQ-O9IIWa8s&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "YoungUng2",
-                "link": "https://www.youtube.com/watch?v=HXRAnqqwfAE ",
-                "hertz": "60"
-            },
-            {
-                "name": "Freddy3",
-                "link": "https://www.youtube.com/watch?v=s5sUp2hmvTY ",
-                "hertz": "60"
-            },
-            {
-                "name": "Kotamon",
-                "link": "https://www.youtube.com/watch?v=Vn5Jd4o5vzE ",
-                "hertz": "60"
-            },
-            {
-                "name": "Nell",
-                "link": "https://www.youtube.com/watch?v=bftV3TDPahw&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "Teamless",
-                "link": "https://www.youtube.com/watch?v=1hxoDQwu_uw&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "AsrielXL",
-                "link": "https://www.youtube.com/watch?v=wwuO5hYMKbc&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "ThunderBT",
-                "link": "https://www.youtube.com/watch?v=iVmf1acodjA&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "Batle",
-                "link": "https://www.youtube.com/watch?v=HtyHKKlVGXI&feature=youtu.be ",
-                "hertz": "M"
-            },
-            {
-                "name": "owoZ1rc0n",
-                "link": "https://www.youtube.com/watch?v=vPzB8v6N-yM&t=52s ",
-                "hertz": "60"
-            },
-            {
-                "name": "Samamba",
-                "link": "https://www.youtube.com/watch?v=Z7hPUpyZ964 ",
-                "hertz": "60"
-            },
-            {
-                "name": "Qog",
-                "link": "https://www.youtube.com/watch?v=1TAf9-jdiKw ",
-                "hertz": "M"
-            },
-            {
-                "name": "crumche",
-                "link": "https://youtu.be/Sqqq7wpeUvQ ",
-                "hertz": "60"
-            },
-            {
-                "name": "GDHoliday",
-                "link": "https://www.youtube.com/watch?v=iqU6erl7v8Q&t=1s ",
-                "hertz": "60"
-            },
-            {
-                "name": "Freexolt",
-                "link": "https://www.youtube.com/watch?v=ODn3Pb3j2D0&t=  ",
-                "hertz": "60"
-            },
-            {
-                "name": "Qwarty",
-                "link": "https://www.youtube.com/watch?v=W-dH9aw_C2s",
-                "hertz": "60"
-            },
-            {
-                "name": "mDen",
-                "link": "https://youtu.be/2Bjik_p57FI",
-                "hertz": "M"
-            },
-            {
-                "name": "Flavyola64",
-                "link": "https://youtu.be/-i1EoWW5jgk",
-                "hertz": "M"
-            },
-            {
-                "name": "ViperVenom95",
-                "link": "https://youtu.be/wvQ5Ytp5CKo",
-                "hertz": "60"
-            },
-            {
-                "name": "Yuuchouze",
-                "link": "https://www.youtube.com/watch?v=61Md6u8xu2Y&feature=youtu.be ",
-                "hertz": "60"
-            },
-            {
-                "name": "Cirphlyx",
-                "link": "https://youtu.be/SUOknggrtDw",
-                "hertz": "60"
-            },
-            {
-                "name": "Bread",
-                "link": "youtu.be/oahN7U-OxQE ",
-                "hertz": "60"
-            },
-            {
-                "name": "JRain",
-                "link": "www.youtube.com/watch?v=_ZyLqSWzhjY&feature=youtu.be ",
-                "hertz": "60"
-            },
-            {
-                "name": "Weenside",
-                "link": "https://m.youtube.com/watch?v=xdzFLMn1KhU",
-                "hertz": "60"
-            },
-            {
-                "name": "Asu",
-                "link": "https://youtu.be/9U1oaN0gm38",
-                "hertz": "60"
-            },
-            {
-                "name": "notlsa",
-                "link": "https://youtu.be/7a9Py0Cem-E",
-                "hertz": "M"
-            },
-            {
-                "name": "WogYT",
-                "link": "https://youtu.be/0JQAw_KCz8s",
-                "hertz": "60"
-            },
-             {
-                "name": "HydraFlare778",
-                "link": "https://youtu.be/Xss8cdrwEHU",
-                "hertz": "60"
-            },
-            {
-                "name": "SwoopNetis",
-                "link": "https://www.youtube.com/watch?v=3z3MmQBkYLU",
-                "hertz": "M"
-            },
-            {
-                "name": "Lavaclaw",
-                "link": "https://youtu.be/hsw1NvALOrk",
-                "hertz": "60"
-            },
-            {
-                "name": "luna!",
-                "link": "https://youtu.be/97aKa5qePL8",
-                "hertz": "75"
-            },
-            {
-                "name":"Majax Plop",
-                "link":"https://www.youtube.com/watch?v=RC9juVFx6s8",
-                "hertz":"60"
-            },
-            {
-                "name":"Elia Soverini",
-                "link":"https://youtu.be/Uu_Kv50bdw4",
-                "hertz":"M"
-            },
-            {
-                "name":"Thonyell",
-                "link":"https://www.youtube.com/watch?v=FlMv7LVNESY&feature=youtu.be&ab_channel=Thonyell",
-                "hertz":"M"
-            },
-            {
-                "name":"Dreamlight",
-                "link":"https://www.youtube.com/watch?v=E0hDKwHRfV8",
-                "hertz":"75"
-            },
-            {
-                "name":"TheRealYeeter",
-                "link":"https://youtu.be/WQDj6SOF0nw",
-                "hertz":"M"
-            },
-            {
-                "name":"TyPier",
-                "link":"https://www.youtube.com/watch?v=BJqTAYwj-lo",
-                "hertz":"60"
-            },
-            {
-                "name":"panap",
-                "link":"https://www.youtube.com/watch?v=5yjbp6DB36A",
-                "hertz":"M"
-            },
-            {
-                "name":"Gherkin",
-                "link":"https://youtu.be/0PMYzPvLQUE",
-                "hertz":"M"
             }
         ],
         "progresses": [
