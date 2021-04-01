@@ -33,6 +33,23 @@
             "none"
         ]
     },
+        "Occult Outcry": {
+        "name": "Occult Outcry",
+        "ytcode": "W9sksrVcH-c",
+        "minimumPercent": 56,
+        "ranking": "around Carnage Mode",
+        "publisher": "Havok",
+        "list": [
+            {
+                "name": "wwdonut",
+                "link": "https://www.youtube.com/watch?v=axGSM-zH0RU&t=2s&ab_channel=wwdonut",
+                "hertz": "75"
+            }
+        ],
+        "progresses": [
+            "none"
+        ]
+    },
      "Ithacropolis": {
         "name": "Ithacropolis",
         "ytcode": "zqRLjGI_p9I",
