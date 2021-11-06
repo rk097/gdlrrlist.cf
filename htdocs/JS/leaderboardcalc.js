@@ -1,5 +1,5 @@
-var levelPos = [];
-  fetch("/JS/levellist.json")
+var levelPos = []; //level pos is a 0-index array
+  fetch("JS/levellist.json")
   .then(function (response) {
     return response.json();
   })
@@ -19,14 +19,14 @@ var levelPos = [];
     console.log("A");
   })
   .then(function (dataThree){
-    fetch("/JS/mainlist.json")
+    fetch("JS/mainlist.json")
     .then(function (response){
       return response.json();
     })
     .then(function (dataFour) {
       let count = 0;
       for(const key in dataFour){
-        if(count > 50) break;
+        if(count > 75) break;
         let thisLevel = dataFour[key];
         levelPos[count].req = thisLevel.minimumPercent;
         //console.log(levelPos[count].req);
@@ -36,7 +36,7 @@ var levelPos = [];
       console.log("B");
     })
     .then(function (dataFour){
-      fetch("/JS/leaderboard.json")
+      fetch("JS/leaderboard.json")
       .then(function (response) {
         return response.json();
       })
@@ -147,17 +147,19 @@ function appendDataTwo(dataTwo) {
       }*/
       //console.log(thisLevelPos);
       //console.log(levelPos.length);
-      //if(thisPersonsLevels[i].pos > 100) break;
-      if(thisPersonsLevels[i].pos <= 100){
-        allBasePoints[i] =  50.0 / (Math.pow(Math.E, 0.01 * thisPersonsLevels[i].pos)) * Math.log((1 / (0.008 * thisPersonsLevels[i].pos)));
+      if(thisPersonsLevels[i].pos > 150) break;
+      if(thisPersonsLevels[i].pos <= 50){
+        allBasePoints[i] =  50.0 / (Math.pow(Math.E, 0.001 * thisPersonsLevels[i].pos)) * Math.log((1 / (0.008 * thisPersonsLevels[i].pos)));
+      }else if(thisPersonsLevels[i].pos > 50 && thisPersonsLevels[i].pos <= 100){
+        allBasePoints[i] =  50.0 / (Math.pow(Math.E, 0.01 * thisPersonsLevels[i].pos)) * Math.log((210 / Math.pow(thisPersonsLevels[i].pos, 1.001)));
       }else{
-        allBasePoints[i] = 11.0 / (Math.pow(Math.E, 0.01 * thisPersonsLevels[i].pos));
+        allBasePoints[i] = 50.0 / (Math.pow(Math.E, 0.01 * thisPersonsLevels[i].pos)) * Math.log((3.3 / Math.pow(thisPersonsLevels[i].pos, .1)));
       }
-      /*
-      if(key == "Luqualizer"){
-        console.log(thisPersonsLevels[i].name);
-        console.log(allBasePoints[i]);
-      }*/
+      
+      //if(key == "Saidek"){
+        //console.log(thisPersonsLevels[i].name);
+        //console.log(allBasePoints[i]);
+     // }
     }
     //handles progresses
     if(person.progs[0] != "none" && person.progs.length > 0){
@@ -180,10 +182,16 @@ function appendDataTwo(dataTwo) {
     thisPersonsProgs.sort((a, b) => a.pos - b.pos);
     //console.log(thisPersonsProgs[0].pos);
       for (let i = 0; i < thisPersonsProgs.length; i++){
-        if(thisPersonsProgs[i].pos > 50) break;
-        allBasePoints[i+person.levels.length] =  50.0 / (Math.pow(Math.E, 0.01 * thisPersonsProgs[i].pos)) * Math.log((1 / (0.008 * thisPersonsProgs[i].pos)));
+        if(thisPersonsProgs[i].pos > 75) break;
+        if(levelPos[thisPersonsProgs[i].pos-1].req > thisPersonsProgs[i].percent) continue;
+        if(thisPersonsProgs[i].pos <= 50){
+          allBasePoints[i+person.levels.length] =  50.0 / (Math.pow(Math.E, 0.001 * thisPersonsProgs[i].pos)) * Math.log((1 / (0.008 * thisPersonsProgs[i].pos)));
+        }else{
+          allBasePoints[i+person.levels.length] =  50.0 / (Math.pow(Math.E, 0.01 * thisPersonsProgs[i].pos)) * Math.log((210 / Math.pow(thisPersonsProgs[i].pos, 1.001)));
+        }
         //reduce based on percent, ripped from here: https://www.desmos.com/calculator/wwkimnpeqw
         let thisLevelReq = levelPos[thisPersonsProgs[i].pos-1].req;
+       // //console.log(thisPersonsProgs[i].pos);
         //console.log(thisLevelReq);
         //console.log(levelPos[thisPersonsProgs[i].pos-1].name);
         //console.log(person.progs[i].percent);
@@ -203,23 +211,34 @@ function appendDataTwo(dataTwo) {
     //console.log(allBasePoints[0]);
     let point = allBasePoints.reduce(
       (sum, currentValue, index) => sum + Math.pow(currentValue, Math.pow(0.95, index)),0);
+
+      function help() {
+    if(!person.nationality) {
+      return ''
+    } else {
+      return `<abbr title="${person.nationality.replace(/_/g, " ")}"><img class="nationality" src="/nationalities/${person.nationality}.svg"></img></abbr> `
+    }
+  }
     //
     let object = {
       name: key,
       score: point,
-      readorder: order
+      readorder: order,
+      hey: help()
     };
+    //if(object.name == "Saidek") console.log(object.score);
     allPersonArray.push(object);
     order++;
   }
   //console.log("HERE!");
   allPersonArray.sort((a, b) => b.score - a.score);
-
+    //console.log("HERE!");
   //cut off leaderboard at zero points
-  
   let zeroindex = allPersonArray.length;
+  //console.log(zeroindex);
   for(let i = 0; i < allPersonArray.length; i++){
     if(allPersonArray[i].score == 0){
+        //console.log(allPersonArray[i].name);
       zeroindex = i;
       break;
     }
@@ -230,12 +249,13 @@ function appendDataTwo(dataTwo) {
   let tiecount = 0;
   let curRank = 0;
   for (let i = 0; i < zeroindex; i++) {
+      //if(allPersonArray[i].name == "Saidek") console.log("pls help");
     //let player = document.createElement("div");
     let text = document.createElement("p");
     if(i == 0 || (i == zeroindex - 1 && allPersonArray[i].score != allPersonArray[i-1].score)){
       curRank += tiecount+1;
     }
-    else if(i != 0 && allPersonArray[i].score != allPersonArray[i + 1].score && allPersonArray[i].score != allPersonArray[i - 1].score){
+    else if(i != 0 && i < zeroindex-1 && allPersonArray[i].score && allPersonArray[i].score != allPersonArray[i + 1].score && allPersonArray[i].score != allPersonArray[i - 1].score){
       curRank += tiecount + 1;
       tiecount = 0;
     }else if(allPersonArray[i].score != allPersonArray[i-1].score && allPersonArray[i].score == allPersonArray[i+1].score){
@@ -245,20 +265,22 @@ function appendDataTwo(dataTwo) {
     else{
       tiecount++;
     }
+    
     let cursc = `display(${allPersonArray[i].readorder})`;
     text.innerHTML = `
-        <p class="trigger_popup_fricc" onclick = "${cursc}"><b>${curRank}:</b> ${allPersonArray[i].name} (${
+        <p class="trigger_popup_fricc" onclick = "${cursc}"><b>${allPersonArray[i].hey}${curRank}: </b>${allPersonArray[i].name} (${
       Math.round(1000.0*allPersonArray[i].score)/1000.0
     } points)
       `;
       div.appendChild(text);
+      //if(allPersonArray[i].name == "Saidek") console.log("pls help");
   }
 
   leaderboard.appendChild(div);
 }
 
 function display(thisuser){
-fetch("/JS/leaderboard.json")
+fetch("JS/leaderboard.json")
   .then(function (response) {
     return response.json();
   })
@@ -266,6 +288,7 @@ fetch("/JS/leaderboard.json")
   //console.log(levelPos[0].name);
   //console.log(2);
     let compl = '<ol>';
+    let playerLegacyList = '<ul>';
     let playerProgsList = '<ol>';
     let usersread = 0;
     for(const key in dataTwo){
@@ -289,6 +312,7 @@ fetch("/JS/leaderboard.json")
           thisPersonsLevels.push(myObj);
         }
         thisPersonsLevels.sort((a, b) => a.pos - b.pos);
+        let legacyPos = -1;
         for(let i = 0; i < person.levels.length; i++){
          /*
           let thisLevelPos = 0;
@@ -298,7 +322,18 @@ fetch("/JS/leaderboard.json")
               break;
             }
           }*/
+          if(thisPersonsLevels[i].pos > 150){
+            legacyPos = i;
+            break;
+          } 
           compl+= '<li class = "playerlevelEntry">'+thisPersonsLevels[i].name+' (#'+thisPersonsLevels[i].pos+')</li><br>';
+        }
+        if(legacyPos != -1){
+          for(let i = legacyPos; i < person.levels.length; i++){
+            playerLegacyList += '<li class = "playerlevelEntry"><i>'+thisPersonsLevels[i].name+'</i></li><br>';
+          }
+        }else{
+          playerLegacyList = '<p>none</p>';
         }
         if(person.levels.length == 0){
           compl = '<p>none</p>'
@@ -323,9 +358,10 @@ fetch("/JS/leaderboard.json")
           thisPersonsProgs.sort((a, b) => a.pos - b.pos);
           //var hasMainListProgs = true;
           for(let i = 0; i < thisPersonsProgs.length; i++){
-            if(thisPersonsProgs[i].pos > 50){
+            if(thisPersonsProgs[i].pos > 75){
               break;
             }
+            if(levelPos[thisPersonsProgs[i].pos-1].req > thisPersonsProgs[i].percent) continue; 
             playerProgsList+='<li class = "playerlevelEntry">'+thisPersonsProgs[i].name + ' ' + thisPersonsProgs[i].percent + '% (#' + thisPersonsProgs[i].pos + ')</li><br>'; 
           }
         }else{
@@ -333,7 +369,7 @@ fetch("/JS/leaderboard.json")
         }
         if(playerProgsList == '<ol>') playerProgsList = '<p>none</p>';
         Swal.fire({
-          html:'<p>Completed levels: </p>' + compl +'</ol>' + '<p>Progresses: </p>' + playerProgsList + '</ol>'
+          html:'<p>Completed levels: </p>' + compl +'</ol>' +'<p>Completed legacy levels: </p>' + playerLegacyList +'</ul>' + '<p>Progresses: </p>' + playerProgsList + '</ol>'
         });
         break;
       }
