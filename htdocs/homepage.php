@@ -1,4 +1,7 @@
 <?php
+session_start();
+$_SESSION['active-nav'] = 'homepage';
+
 $themeClass = '';
 if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
   $themeClass = 'dark-theme';
@@ -15,8 +18,8 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta name="author" content="ryan9328">
     <meta name="keywords" content="ryan9328,official,geometry,dash,hardest,extreme,insane,demon,list,demonlist,hardest,levels,gmd,gd,typier,game,top,level,levels,player,players,geometry dash, LRR, 60hz, 60HZ, 75hz, 75HZ, geometry dash 60hz demonlist, GD 60hz list">
     <meta name="description" content="A demon list dedicated to low-refresh-rate (60hz, 75hz, Mobile) Geometry Dash players.">
-    <link href="/CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
-    <link href="/CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
+    <link href="CSS/levelcards.css?v=2021-03-23" rel="stylesheet" type="text/css" />
+    <link href="CSS/nav.css?v=2021-03-23" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
@@ -31,28 +34,8 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta http-equiv="Expires" content="0" />
   </head>
   <body class = "<?php echo $themeClass; ?>">
-    <ul class = "nav">
-      <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a href="changelog.html">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>
-      <li class = "redir"><a href="61plus.html">61hz+ Levels</a></li>
-      <li class = "redir"><a href="extended.html">Extended List</a></li>
-      <li class = "redir"><a href="index.html">Main List</a></li>
-      <li class = "redir"><a class="active-nav-item" href="homepage.html">About</a></li>
-      <li class = "titlebox">GD LRR Demon List</li>
-      <li>
-        <button onclick="dropMenu()" class="dropbtn">Go To...</button>
-        <div id="myDropdown" class="dropdown-content">
-          <a class="active-nav-item" href="homepage.html">About</a>
-          <a href="index.html">Main List</a>
-          <a href="extended.html">Extended List</a>
-          <a href="61plus.html">61hz+ Levels</a>
-          <a href="leaderboard.html">Leaderboard</a>
-          <a href="changelog.html">Changelog</a>
-          <a href = "#" class = "btn-toggle2">Color Switch</a>
-        </div>
-      </li>
-    </ul>
+    
+  <?php include "nav.php" ?>
     <!-- <p><a href = "leaderboard.html">Leaderboard page</a></p>
     <p><a href = "Extendedlist.html">Extended page</a></p> -->
     <div id="levels-container"> 
@@ -115,20 +98,20 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
               <ul>
                 <li>blankz</li>
                 <li>DaMathMan</li>
+                <li>Edant</li>
+                <li>Gzeee</li>
                 <li>Ikarya</li>
                 <li>SubZeroV</li>
-                <li>Edant</li>
-                <li>FrostBurn</li>
-                <li>Thonyell</li>
-                <li>ViperVenom95</li>
               </ul>
               <li><h4>List Helpers:</h4></li>
               <ul>
                 <li>Coopersuper</li>
-                <li>Gzeee</li>
+                <li>FrostBurn</li>
                 <li>JudeRB</li>
                 <li>Liizoks</li>
                 <li>owoZ1rc0n</li>
+                <li>Thonyell</li>
+                <li>ViperVenom95</li>
               </ul>
               <li><h4>Server Admins:</h4></li>
               <ul>
@@ -137,7 +120,6 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
               </ul>
               <li><h4>Server Staff:</h4></li>
               <ul>
-                <li>notSilva</li>
                 <li>Lavaclaw</li>
                 <li>Inga8</li>
               </ul>
@@ -213,17 +195,23 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
               <li>ItoPopcorn</li>
               <li>Coopersuper</li>
             </ul>
-            <p>And finally, a very special thank you to jack L, Vink, stadust, NiknotNoob, and ssamosa211, who all helped me with the site itself. I especially want to thank jack L, who taught me all the javascript and json-related things that I know now which I used to build the backend for the site that you are seeing today. Oh and of course W3Schools, because that website makes learning HTML and CSS much quicker.</p>
+            <p>And finally, a very special thank you to jack L, Vink, stadust, NiknotNoob, ssamosa211, and Hikudo who all helped me with the site itself. I especially want to thank jack L, who taught me all the javascript and json-related things that I know now which I used to build the backend for the site that you are seeing today. Oh and of course W3Schools, because that website makes learning HTML and CSS much quicker.</p>
             <h4 style = "text-align:center">Once again, this list would not have been possible without all of the people mentioned above, so we sincerely thank you guys for your support.</h4>
             <p style = "text-align:right">-ryan9328</p>
           </div>
         </div>
       </div>
     </div>
-    <script src="/JS/dropdown.js"></script>
-    <script src="/JS/videoresize.js"></script>
-    <script src="/JS/collapsible.js?v=2020-10-05"></script>
-    <script src="/JS/collapsiblebig.js?v=2020-10-05"></script>
-    <script src="/JS/darkbutton.js"></script>
+
+    <!-- scripts to include -->
+    <?php
+      include "scripts/collapsible-js.php";
+      include "scripts/collapsiblebig-js.php";
+      include "scripts/dropdown-js.php";
+      include "scripts/videoresize-js.php";
+      include "scripts/darkbutton-js.php";
+    ?>
+
+
   </body>
 </html>

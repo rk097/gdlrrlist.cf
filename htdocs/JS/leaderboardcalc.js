@@ -155,11 +155,10 @@ function appendDataTwo(dataTwo) {
       }else{
         allBasePoints[i] = 50.0 / (Math.pow(Math.E, 0.01 * thisPersonsLevels[i].pos)) * Math.log((3.3 / Math.pow(thisPersonsLevels[i].pos, .1)));
       }
-      
-      //if(key == "Saidek"){
+      //if(key == "Luqualizer"){
         //console.log(thisPersonsLevels[i].name);
         //console.log(allBasePoints[i]);
-     // }
+      //}
     }
     //handles progresses
     if(person.progs[0] != "none" && person.progs.length > 0){

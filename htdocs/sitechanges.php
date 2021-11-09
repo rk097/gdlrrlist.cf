@@ -10,8 +10,8 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>GD LRR Demon List</title>
-    <link href="/CSS/levelcards.css?v=2020-10-29" rel="stylesheet" type="text/css" />
-    <link href="/CSS/nav.css?v=2021-2-19" rel="stylesheet" type="text/css" />
+    <link href="CSS/levelcards.css?v=2021-03-23" rel="stylesheet" type="text/css" />
+    <link href="CSS/nav.css?v=2021-03-23" rel="stylesheet" type="text/css" />
     <link href="/CSS/changelog.css?v=2020-10-05" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter|Bitter:light,bold">
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
@@ -22,32 +22,41 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
     <meta http-equiv="Expires" content="0" />
   </head>
   <body class = "<?php echo $themeClass; ?>">
-    <ul class = "nav">
-      <li class = "redir"><a href = "#" class = "btn-toggle">Color Switch</a></li>
-      <li class = "redir"><a href="changelog.html">Changelog</a></li>
-      <li class = "redir"><a href="leaderboard.html">Leaderboard</a></li>
-      <li class = "redir"><a href="extended.html">Extended List</a></li>
-      <li class = "redir"><a href="index.html">Main List</a></li>
-      <li class = "redir"><a href="homepage.html">About</a></li>
-      <li class = "titlebox">GD LRR Demon List</li>
-      <li>
-        <button onclick="dropMenu()" class="dropbtn">Go To...</button>
-        <div id="myDropdown" class="dropdown-content">
-          <a href="homepage.html">About</a>
-          <a href="index.html">Main List</a>
-          <a href="extended.html">Extended List</a>
-          <a href="61plus.html">61hz+ Levels</a>
-          <a href="leaderboard.html">Leaderboard</a>
-          <a href="changelog.html">Changelog</a>
-          <a href = "#" class = "btn-toggle2">Color Switch</a>
-        </div>
-      </li>
-    </ul>
-    <strong>
-    </strong>
+
+  <?php include "nav.php" ?>
+  
     <div id="levels-container"> 
       <h1 style = "text-align:center">Website Changelog</h1>
       <p style = "text-align:center">Here, I'll be noting down any changes to the website that take place. Since most people probably won't care, I won't add this in the directory, so it'll be a bit difficult to access.</p>
+      <div class = "column">
+        <div class = "card">
+          <button class = "collapsible">
+            <div class = "title">
+              <h3 class = "date">March 23, 2021 (v1.2)</h3>
+            </div>
+          </button>
+          <div class = "content">
+              <p dir="ltr">Introducing performance points version 2! The original point system was something that I just came up with no actual logic, because I didn't expect that anyone would actually care. But this list has grown quite a bit since then, and now people actually do care, so its time for a rework!</p>
+              <p dir="ltr">Now that the number of list demons has exceeded 150, we are now cutting the list at 150 and have re-implemented the legacy list.</p>
+              <p dir="ltr">Removed the about button, the logo in the top left instead takes you to the homepage.</p>
+              <p dir="ltr">"Color switch" changed to "Toggle theme"</p>
+              <p dir="ltr">Bugfixes, as usual</p>
+          </div>
+        </div>
+      </div>
+      <div class = "column">
+        <div class = "card">
+          <button class = "collapsible">
+            <div class = "title">
+              <h3 class = "date">February 25, 2021 (v1.1.1)</h3>
+            </div>
+          </button>
+          <div class = "content">
+              <p dir="ltr">Some pretty major changes back-end wise, but from the viewer's perspective all that really changed is bugfixes.</p>
+              <p dir="ltr">Sponsored by Hikudo and PHP</p>
+          </div>
+        </div>
+      </div>
       <div class = "column">
         <div class = "card">
           <button class = "collapsible">
@@ -83,7 +92,7 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
           </button>
           <div class = "content">
               <p dir="ltr">Progresses now are listed in descending order, with highest percent at the top of the list and lower percents towards the bottom.</p>
-              <p dir="ltr">I made an embedded points calculator tool which should help you determine how much points you will get after you beat something. Follow the prompts to use it, but watch <a href = "https://youtu.be/NkcEtpU6ppQ">this</a> video if you need extra help using it. Access it on the <a href = "leaderboard.html">leaderboard</a> page.</p>
+              <p dir="ltr">I made an embedded points calculator tool which should help you determine how much points you will get after you beat something. Follow the prompts to use it, but watch <a href = "https://youtu.be/NkcEtpU6ppQ">this</a> video if you need extra help using it. Access it on the <a href = "leaderboard.php">leaderboard</a> page.</p>
           </div>
         </div>
       </div>
@@ -148,8 +157,13 @@ if (!empty($_COOKIE['theme']) && $_COOKIE['theme'] == 'dark') {
         </div>
     </div>
     </div>
-    <script src="/JS/dropdown.js"></script>
-    <script src="/JS/collapsible.js?v=2020-10-05"></script>
-    <script src="/JS/darkbutton.js"></script>
+
+    <!-- scripts to include -->
+    <?php
+      include "scripts/collapsible-js.php";
+      include "scripts/dropdown-js.php";
+      include "scripts/darkbutton-js.php";
+    ?>
+
   </body>
 </html>

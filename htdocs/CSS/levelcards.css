@@ -459,8 +459,9 @@ div {
 * {
   box-sizing: border-box;
 }
+
 body.dark-theme *{
-  background-color: #323131;
+  /*background-color: #323131;*/
   color: white;
 }
 
