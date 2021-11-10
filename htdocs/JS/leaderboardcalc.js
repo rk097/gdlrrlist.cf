@@ -155,7 +155,6 @@ function appendDataTwo(dataTwo) {
       }else{
         allBasePoints[i] = 50.0 / (Math.pow(Math.E, 0.01 * thisPersonsLevels[i].pos)) * Math.log((3.3 / Math.pow(thisPersonsLevels[i].pos, .1)));
       }
-      
       //if(key == "Luqualizer"){
         //console.log(thisPersonsLevels[i].name);
         //console.log(allBasePoints[i]);
@@ -211,23 +210,34 @@ function appendDataTwo(dataTwo) {
     //console.log(allBasePoints[0]);
     let point = allBasePoints.reduce(
       (sum, currentValue, index) => sum + Math.pow(currentValue, Math.pow(0.95, index)),0);
+
+      function help() {
+    if(!person.nationality) {
+      return ''
+    } else {
+      return `<abbr title="${person.nationality.replace(/_/g, " ")}"><img class="nationality" src="/nationalities/${person.nationality}.svg"></img></abbr> `
+    }
+  }
     //
     let object = {
       name: key,
       score: point,
-      readorder: order
+      readorder: order,
+      hey: help()
     };
+    //if(object.name == "Saidek") console.log(object.score);
     allPersonArray.push(object);
     order++;
   }
   //console.log("HERE!");
   allPersonArray.sort((a, b) => b.score - a.score);
-
+    //console.log("HERE!");
   //cut off leaderboard at zero points
-  
   let zeroindex = allPersonArray.length;
+  //console.log(zeroindex);
   for(let i = 0; i < allPersonArray.length; i++){
     if(allPersonArray[i].score == 0){
+        //console.log(allPersonArray[i].name);
       zeroindex = i;
       break;
     }
@@ -238,6 +248,7 @@ function appendDataTwo(dataTwo) {
   let tiecount = 0;
   let curRank = 0;
   for (let i = 0; i < zeroindex; i++) {
+      //if(allPersonArray[i].name == "Saidek") console.log("pls help");
     //let player = document.createElement("div");
     let text = document.createElement("p");
     if(i == 0 || (i == zeroindex - 1 && allPersonArray[i].score != allPersonArray[i-1].score)){
@@ -253,13 +264,15 @@ function appendDataTwo(dataTwo) {
     else{
       tiecount++;
     }
+    
     let cursc = `display(${allPersonArray[i].readorder})`;
     text.innerHTML = `
-        <p class="trigger_popup_fricc" onclick = "${cursc}"><b>${curRank}:</b> ${allPersonArray[i].name} (${
+        <p class="trigger_popup_fricc" onclick = "${cursc}"><b>${allPersonArray[i].hey}${curRank}: </b>${allPersonArray[i].name} (${
       Math.round(1000.0*allPersonArray[i].score)/1000.0
     } points)
       `;
       div.appendChild(text);
+      //if(allPersonArray[i].name == "Saidek") console.log("pls help");
   }
 
   leaderboard.appendChild(div);
