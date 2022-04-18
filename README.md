@@ -6,4 +6,5 @@ The CURRENT VERSION (nodejs ejs setup backend-based) is here https://replit.com/
 
 For anyone interested in making a fork of this repository for your own custom list, without all the hoops of running a fork of Pointercrate:
 - Click on the Run on Repl.it button
-- setup your site by modifying homepage.php and filling in the desired details, and then modifying mainlist.json, extended.json, legacy.json, leaderboard.json, and levellist.json to fit your list
+- setup your site by modifying homepage.php and filling in the desired details, and then modifying mainlist.json, extended.json, legacy.json, leaderboard.json, and levellist.json to fit your list 
+- delete any undesired files. 
